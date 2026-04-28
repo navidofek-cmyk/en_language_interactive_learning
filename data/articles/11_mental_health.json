@@ -1,0 +1,33 @@
+{
+  "num": "11",
+  "slug": "mental_health",
+  "title": "Mental Health — Breaking the Stigma",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "health · society · language · awareness",
+  "description": "Duševní zdraví — jak o něm mluvit a proč je důležité odstraňovat stigma.",
+  "article_text": "MENTAL HEALTH — BREAKING THE STIGMA\n\nOne in four people will experience a mental health problem in any given year. Yet despite this prevalence, mental health remains one of the most stigmatised areas of human experience. People who would freely tell a colleague they have a broken leg often hesitate for months — or years — before disclosing that they are struggling with depression or anxiety.\n\nThe consequences of this silence are serious. Untreated mental health conditions are a leading cause of disability worldwide. Depression alone is the single largest contributor to global disability, according to the World Health Organization. Early intervention is crucial: the sooner someone receives support, the better their chances of recovery. Yet stigma — the shame and discrimination associated with mental illness — prevents millions from seeking help.\n\nLanguage plays a powerful role. Terms like 'crazy', 'psycho', or 'going mental' trivialise serious conditions and reinforce harmful stereotypes. Mental health advocates encourage people to use accurate, respectful language: say 'person living with schizophrenia' rather than 'a schizophrenic'; say 'died by suicide' rather than 'committed suicide', which implies criminality.\n\nThere are signs of progress. Across much of the world, public conversation about mental health has become more open, particularly among younger generations. High-profile individuals — athletes, musicians, royalty — speaking openly about their own struggles have helped normalise the conversation.\n\nYet investment in mental health services remains woefully inadequate in most countries. Waiting times for therapy can stretch to months or years. The gap between need and provision has never been more visible — or more urgent to close.",
+  "vocabulary": [
+    {"en": "stigma", "cz": "stigma, společenská nálepka"},
+    {"en": "prevalence", "cz": "rozšířenost, výskyt"},
+    {"en": "disclose", "cz": "přiznat, odhalit"},
+    {"en": "intervention", "cz": "zásah, intervence"},
+    {"en": "trivialise", "cz": "bagatelizovat, zlehčovat"},
+    {"en": "stereotype", "cz": "stereotyp"},
+    {"en": "advocate", "cz": "zastánce, advokát"},
+    {"en": "normalise", "cz": "normalizovat, zběžnit"},
+    {"en": "provision", "cz": "zajištění, dostupnost (služeb)"},
+    {"en": "woefully inadequate", "cz": "žalostně nedostatečný"}
+  ],
+  "examples": [
+    {"en": "What fraction of people experience a mental health problem each year?", "cz": "One in four (25%)."},
+    {"en": "According to WHO, what is depression?", "cz": "The single largest contributor to global disability."},
+    {"en": "How does language affect mental health stigma?", "cz": "Careless terms trivialise conditions and reinforce harmful stereotypes."},
+    {"en": "Give one example of respectful mental health language from the article.", "cz": "'Person living with schizophrenia' instead of 'a schizophrenic'."},
+    {"en": "What problem with mental health services does the article identify?", "cz": "Waiting times can be months or years — investment is woefully inadequate."}
+  ],
+  "tasks": [
+    "1. Write about a time when you or someone you know sought support — how was it handled?",
+    "2. Find 3 examples of stigmatising mental health language and suggest respectful alternatives",
+    "3. Write a 100-word opinion piece: 'Schools should teach mental health literacy'"
+  ]
+}

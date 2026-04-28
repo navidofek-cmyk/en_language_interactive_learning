@@ -1,0 +1,33 @@
+{
+  "num": "09",
+  "slug": "happiness_science",
+  "title": "The Science of Happiness",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "psychology · wellbeing · research · positive emotions",
+  "description": "Co nás činí šťastnými — věda za pocitem spokojenosti.",
+  "article_text": "THE SCIENCE OF HAPPINESS\n\nFor centuries, philosophers argued about what it means to be happy. Today, psychologists and neuroscientists are approaching the same question with data, brain scans, and large-scale studies — and their findings are both surprising and encouraging.\n\nOne of the most robust findings in happiness research is that money matters, but only up to a point. Studies suggest that once basic needs are met and a person feels financially secure, additional wealth has surprisingly little impact on day-to-day emotional wellbeing. What matters more, according to the research, is the quality of our relationships. A landmark 80-year Harvard study found that people with close, supportive relationships were not only happier but also healthier and lived longer than those who were lonely or socially isolated.\n\nAnother counterintuitive finding is that experiences make us happier than possessions. Buying a new car or a luxury item gives a short burst of pleasure that fades quickly — a phenomenon psychologists call 'hedonic adaptation'. By contrast, spending money on experiences — travel, concerts, meals with friends — tends to provide longer-lasting satisfaction, partly because experiences become part of our identity and shared memories.\n\nPerhaps most encouragingly, research shows that happiness is significantly influenced by our behaviour and mindset, not just our circumstances. Regular exercise, adequate sleep, acts of kindness, gratitude practices, and time in nature have all been shown to boost wellbeing reliably. Mindfulness — the practice of paying deliberate attention to the present moment — has been particularly well-studied and shown to reduce anxiety and increase life satisfaction.\n\nThe science is clear: happiness is not a destination we arrive at — it is a practice.",
+  "vocabulary": [
+    {"en": "wellbeing", "cz": "pohoda, blaho"},
+    {"en": "counterintuitive", "cz": "neintuitivní, překvapivý"},
+    {"en": "hedonic adaptation", "cz": "hedonická adaptace (zvyknutí na potěšení)"},
+    {"en": "robust finding", "cz": "spolehlivý/silný výsledek"},
+    {"en": "landmark study", "cz": "přelomová studie"},
+    {"en": "socially isolated", "cz": "sociálně izolovaný"},
+    {"en": "gratitude", "cz": "vděčnost"},
+    {"en": "mindfulness", "cz": "všímavost, mindfulness"},
+    {"en": "circumstance", "cz": "okolnost"},
+    {"en": "reliably", "cz": "spolehlivě"}
+  ],
+  "examples": [
+    {"en": "What does the study say about money and happiness?", "cz": "Money matters up to a point, but additional wealth has little impact beyond financial security."},
+    {"en": "What did the Harvard study find?", "cz": "People with close relationships were happier, healthier, and lived longer."},
+    {"en": "What is 'hedonic adaptation'?", "cz": "The fading of pleasure from material purchases — we quickly get used to new possessions."},
+    {"en": "Name three behaviours that science shows increase happiness.", "cz": "Any three: exercise, sleep, kindness, gratitude, time in nature, mindfulness."},
+    {"en": "What is the article's conclusion about happiness?", "cz": "Happiness is a practice influenced by behaviour and mindset, not just circumstances."}
+  ],
+  "tasks": [
+    "1. Write about three things that make you happy — are they experiences or possessions?",
+    "2. Try a gratitude practice: write 5 things you're grateful for today, in English",
+    "3. Summarise the article in 5 sentences without looking at it"
+  ]
+}

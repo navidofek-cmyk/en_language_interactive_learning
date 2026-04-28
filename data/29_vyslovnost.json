@@ -7,18 +7,116 @@
   "description": "Nejčastější výslovnostní chyby Čechů v angličtině.",
   "vocabulary": [
     {
-      "en": "desc",
-      "cz": "The"
+      "en": "the /ðə/ or /ði/",
+      "cz": "člen THE — před souhláskou /ðə/, před samohláskou /ði/"
+    },
+    {
+      "en": "this /ðɪs/",
+      "cz": "toto — NE 'zis', JE 'this' (jazyk ven)"
+    },
+    {
+      "en": "three /θriː/",
+      "cz": "tři — NE 'tree', JE 'th-ree'"
+    },
+    {
+      "en": "think /θɪŋk/",
+      "cz": "myslet — NE 'sink', JE 'think'"
+    },
+    {
+      "en": "wine /waɪn/",
+      "cz": "víno — NE 'vine', W = zakulacené rty"
+    },
+    {
+      "en": "very /ˈveri/",
+      "cz": "velmi — NE 'wery', V = zuby na ret"
+    },
+    {
+      "en": "ship /ʃɪp/",
+      "cz": "loď — krátké I"
+    },
+    {
+      "en": "sheep /ʃiːp/",
+      "cz": "ovce — dlouhé EE"
+    },
+    {
+      "en": "live /lɪv/",
+      "cz": "žít — krátké I"
+    },
+    {
+      "en": "leave /liːv/",
+      "cz": "odejít — dlouhé EE"
+    },
+    {
+      "en": "know /nəʊ/",
+      "cz": "vědět — K je němé"
+    },
+    {
+      "en": "write /raɪt/",
+      "cz": "psát — W je němé"
+    },
+    {
+      "en": "Wednesday /ˈwenzdeɪ/",
+      "cz": "středa — D je němé"
+    },
+    {
+      "en": "could /kʊd/",
+      "cz": "mohl/a — L je němé"
+    },
+    {
+      "en": "schwa /ə/",
+      "cz": "šva — nejčastější zvuk angličtiny: about, the, a"
     }
   ],
   "dialogue": [],
   "notes": [
-    "\\n ✓ Say each pair 5 times, exaggerating the difference.",
-    "✓ Record yourself and compare to an online pronunciation tool.",
-    "✓ Resources: forvo.com, youglish.com, Cambridge Dictionary audio"
+    "TH sounds — two types:",
+    "  Voiced /ð/: the, this, that, they, brother — tongue between teeth, buzz",
+    "  Voiceless /θ/: think, three, thank, mouth — tongue between teeth, no buzz",
+    "W vs V: W = rounded lips, blow air | V = top teeth on lower lip",
+    "Short vs long vowels: ship/sheep | live/leave | pull/pool",
+    "Silent letters: know, write, knife, Wednesday, doubt, could",
+    "Schwa /ə/ — the most common English sound: 'a-BOUT', 'the', 'to-DAY'"
   ],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "Think /θɪŋk/ — NOT 'sink' or 'tink'",
+      "cz": "Jazyk musí vyjít mezi zuby pro TH"
+    },
+    {
+      "en": "Wine /waɪn/ vs vine /vaɪn/",
+      "cz": "W = kulatá ústa | V = zuby na ret"
+    },
+    {
+      "en": "I live /lɪv/ in Prague. I leave /liːv/ at 8.",
+      "cz": "Bydlím v Praze. Odcházím v 8."
+    },
+    {
+      "en": "Wednesday = /ˈwenzdeɪ/ — not 'Wed-nes-day'",
+      "cz": "Středa — D se nevyslovuje"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "'Three' rhymes with: tree, free, or zee?",
+      "answer": "tree / free"
+    },
+    {
+      "type": "fill",
+      "sentence": "The silent letter in 'knife' is: k, n, or e?",
+      "answer": "k"
+    },
+    {
+      "type": "fill",
+      "sentence": "'Ship' has a ___ vowel; 'sheep' has a ___ vowel.",
+      "answer": "short / long"
+    },
+    {
+      "type": "fill",
+      "sentence": "W as in 'wine': lips are ___ (rounded/flat).",
+      "answer": "rounded"
+    }
+  ],
   "tasks": [
     "1. Record yourself reading the first 10 words from the TH section",
     "2. Find 5 words you regularly mispronounce — look them up in a dictionary",

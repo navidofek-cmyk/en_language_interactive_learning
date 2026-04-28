@@ -1,0 +1,33 @@
+{
+  "num": "15",
+  "slug": "languages_world",
+  "title": "Languages of the World",
+  "level": "⭐⭐⭐ B1 | Pre-Intermediate",
+  "topics": "linguistics · culture · diversity · language learning",
+  "description": "Jazyky světa — rozmanitost, ohrožené jazyky a co nám říkají o lidské kultuře.",
+  "article_text": "LANGUAGES OF THE WORLD\n\nThere are approximately 7,000 languages spoken in the world today. They range from Mandarin Chinese, spoken by over a billion people, to languages with only a handful of speakers left — some known only to a single elderly person in a remote village.\n\nThis extraordinary diversity reflects the equally extraordinary diversity of human cultures, histories, and ways of thinking. Language is not merely a communication tool. It shapes how we perceive time, space, colour, and relationships. In some languages, there is no word for 'left' and 'right' — speakers navigate using cardinal directions (north, south, east, west) even when describing where to pass the salt. Research suggests this linguistic habit shapes spatial awareness in profound ways.\n\nSadly, this diversity is under severe threat. Linguists estimate that by the end of this century, half of the world's languages may have disappeared. The pressures are economic and social: speakers abandon minority languages when dominant languages offer better opportunities for education and employment. When a language disappears, it takes with it a unique way of understanding the world — oral histories, ecological knowledge, and ways of categorising experience that exist nowhere else.\n\nEfforts to revitalise endangered languages have had mixed results. Welsh in Wales, Irish in Ireland, and Hebrew — revived after centuries as a purely liturgical language — are among the few success stories. The key factors appear to be political will, formal education in the language, and critically, a generation of young speakers who choose to use it in daily life.\n\nEvery language lost is a library burned. Every language learned is a window opened.",
+  "vocabulary": [
+    {"en": "linguistic", "cz": "jazykový, lingvistický"},
+    {"en": "cardinal direction", "cz": "světová strana"},
+    {"en": "spatial awareness", "cz": "prostorové vnímání"},
+    {"en": "minority language", "cz": "menšinový jazyk"},
+    {"en": "dominant language", "cz": "dominantní jazyk"},
+    {"en": "revitalise", "cz": "revitalizovat, oživit"},
+    {"en": "endangered", "cz": "ohrožený"},
+    {"en": "liturgical", "cz": "liturgický (náboženský)"},
+    {"en": "oral history", "cz": "ústní tradice"},
+    {"en": "categorise", "cz": "kategorizovat, třídit"}
+  ],
+  "examples": [
+    {"en": "How many languages are spoken today?", "cz": "Approximately 7,000."},
+    {"en": "How does language affect cognition, according to the article?", "cz": "It shapes perception of time, space, colour, and relationships — e.g. cardinal direction languages affect spatial awareness."},
+    {"en": "What percentage of languages might disappear by 2100?", "cz": "Around half (50%)."},
+    {"en": "Name one language revival success story.", "cz": "Welsh, Irish, or Hebrew."},
+    {"en": "What does the final sentence mean?", "cz": "Each lost language removes a unique way of knowing; each learned language expands understanding."}
+  ],
+  "tasks": [
+    "1. Research: how many languages are spoken in the Czech Republic?",
+    "2. Write about why you are learning English — what opportunities does it open?",
+    "3. Find out about an endangered language — write 5 facts about it in English"
+  ]
+}

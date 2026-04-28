@@ -2,19 +2,58 @@
   "num": "20",
   "slug": "stupnovani",
   "title": "Comparatives & Superlatives",
-  "level": "⭐⭐ Level: A2–B1 | Elementary",
-  "topics": "-er/-est · more/most · irregular · as...as · too/enough",
-  "description": "Stupňování přídavných jmen a příslovcí.",
-  "vocabulary": [],
-  "dialogue": [],
-  "notes": [
-    "✓ Correct!\\n"
+  "level": "⭐⭐ A2–B1 | Elementary",
+  "topics": "comparatives · superlatives · irregular · as...as · too/enough",
+  "description": "Stupňování přídavných jmen a příslovcí — pravidla a výjimky.",
+  "vocabulary": [
+    {"en": "tall → taller → the tallest", "cz": "vysoký → vyšší → nejvyšší"},
+    {"en": "short → shorter → the shortest", "cz": "krátký → kratší → nejkratší"},
+    {"en": "fast → faster → the fastest", "cz": "rychlý → rychlejší → nejrychlejší"},
+    {"en": "cheap → cheaper → the cheapest", "cz": "levný → levnější → nejlevnější"},
+    {"en": "big → bigger → the biggest", "cz": "velký → větší → největší"},
+    {"en": "hot → hotter → the hottest", "cz": "horký → teplejší → nejhorší"},
+    {"en": "nice → nicer → the nicest", "cz": "pěkný → hezčí → nejhezčí"},
+    {"en": "happy → happier → the happiest", "cz": "šťastný → šťastnější → nejšťastnější"},
+    {"en": "heavy → heavier → the heaviest", "cz": "těžký → těžší → nejtěžší"},
+    {"en": "expensive → more expensive → the most expensive", "cz": "drahý → dražší → nejdražší"},
+    {"en": "interesting → more interesting → the most interesting", "cz": "zajímavý → zajímavější → nejzajímavější"},
+    {"en": "beautiful → more beautiful → the most beautiful", "cz": "krásný → krásnější → nejkrásnější"},
+    {"en": "difficult → more difficult → the most difficult", "cz": "těžký → obtížnější → nejobtížnější"},
+    {"en": "good → better → the best", "cz": "dobrý → lepší → nejlepší"},
+    {"en": "bad → worse → the worst", "cz": "špatný → horší → nejhorší"},
+    {"en": "far → further → the furthest", "cz": "daleko → dál → nejdál"},
+    {"en": "many/much → more → the most", "cz": "mnoho → více → nejvíce"},
+    {"en": "little → less → the least", "cz": "málo → méně → nejméně"}
   ],
-  "examples": [],
-  "quiz": [],
+  "notes": [
+    "1 syllable → add -er/-est: tall → taller → tallest",
+    "Silent -e → add -r/-st: large → larger → largest",
+    "Short vowel + consonant → double: big → bigger → biggest",
+    "2+ syllables → more/most: interesting → more interesting",
+    "Ends in -y → ier/iest: happy → happier → happiest",
+    "⚠️  Irregular: good/better/best | bad/worse/worst | far/further/furthest",
+    "✓ Comparative + THAN: Prague is bigger THAN Brno.",
+    "✓ AS...AS: She is as tall as her brother.",
+    "✓ TOO + adj: It's too expensive. (more than I want)",
+    "✓ Adj + ENOUGH: She is old enough to drive."
+  ],
+  "examples": [
+    {"en": "The Nile is the longest river in the world.", "cz": "Nil je nejdelší řeka na světě."},
+    {"en": "Electric cars are more expensive than petrol cars.", "cz": "Elektrická auta jsou dražší než benzínová."},
+    {"en": "This is the most interesting book I've ever read.", "cz": "Toto je nejzajímavější kniha, kterou jsem kdy četl/a."},
+    {"en": "She speaks English more fluently than her brother.", "cz": "Mluví anglicky plynněji než její bratr."},
+    {"en": "Is the train faster than the bus?", "cz": "Je vlak rychlejší než autobus?"}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "Prague is ___ (big) than Brno.", "answer": "bigger"},
+    {"type": "fill", "sentence": "This is the ___ (bad) film I've ever seen.", "answer": "worst"},
+    {"type": "fill", "sentence": "She is ___ (good) at maths than her sister.", "answer": "better"},
+    {"type": "fill", "sentence": "The exam was ___ (difficult) than I expected.", "answer": "more difficult"},
+    {"type": "fill", "sentence": "He is as ___ (tall) as his father.", "answer": "tall"}
+  ],
   "tasks": [
     "1. Compare three cities you know using comparatives and superlatives",
     "2. Write 5 sentences using 'as...as' and 5 using 'not as...as'",
-    "3. Write a short product review comparing two items you own"
+    "3. Write a product review comparing two items you own"
   ]
 }

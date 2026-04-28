@@ -5,7 +5,72 @@
   "level": "⭐⭐ Level: A2–B1 | Elementary",
   "topics": "countable · uncountable · some/any · much/many · few/little · enough/too",
   "description": "Kvantifikátory — some, any, much, many, few, little, a lot of...",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "some",
+      "cz": "nějaký, trochu (affirmative)"
+    },
+    {
+      "en": "any",
+      "cz": "nějaký (questions/negative)"
+    },
+    {
+      "en": "much",
+      "cz": "hodně (uncountable)"
+    },
+    {
+      "en": "many",
+      "cz": "hodně (countable)"
+    },
+    {
+      "en": "a lot of / lots of",
+      "cz": "hodně (obojí)"
+    },
+    {
+      "en": "a few",
+      "cz": "několik, pár (positive)"
+    },
+    {
+      "en": "few",
+      "cz": "málo, skoro žádný (negative)"
+    },
+    {
+      "en": "a little",
+      "cz": "trochu (positive)"
+    },
+    {
+      "en": "little",
+      "cz": "málo, skoro žádné (negative)"
+    },
+    {
+      "en": "enough",
+      "cz": "dostatek"
+    },
+    {
+      "en": "too many",
+      "cz": "příliš mnoho (countable)"
+    },
+    {
+      "en": "too much",
+      "cz": "příliš mnoho (uncountable)"
+    },
+    {
+      "en": "several",
+      "cz": "několik (více než 2)"
+    },
+    {
+      "en": "both",
+      "cz": "oba, obě"
+    },
+    {
+      "en": "neither",
+      "cz": "ani jeden, ani druhý"
+    },
+    {
+      "en": "each / every",
+      "cz": "každý (individual / all)"
+    }
+  ],
   "dialogue": [],
   "notes": [
     "⚠️ Common Czech mistakes:",

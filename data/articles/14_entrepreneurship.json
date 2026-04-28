@@ -1,0 +1,33 @@
+{
+  "num": "14",
+  "slug": "entrepreneurship",
+  "title": "Starting a Business — What They Don't Tell You",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "business · entrepreneurship · risk · motivation",
+  "description": "Podnikání — co se o něm obvykle neříká a co skutečně rozhoduje o úspěchu.",
+  "article_text": "STARTING A BUSINESS — WHAT THEY DON'T TELL YOU\n\nThe entrepreneurship narrative is seductive: have an idea, take a risk, work hard, become successful. Social media feeds us a constant stream of 26-year-old founders and overnight success stories. The reality, as any honest entrepreneur will tell you, is considerably messier.\n\nAround 20% of new businesses fail in their first year. By the fifth year, roughly half have closed. These are not failures of effort or intelligence — they are often failures of timing, market conditions, or simply bad luck. The survivor bias in entrepreneurship stories is extreme: we hear endlessly about the successes and almost nothing about the failures.\n\nWhat actually predicts success? Research points to a few consistent factors. Domain expertise matters: founders who understand their industry deeply tend to outperform those who don't. Resilience — the ability to absorb setbacks and keep going — is perhaps more important than any business skill. And the ability to listen: successful entrepreneurs talk about iterating based on customer feedback far more than following their original vision.\n\nFinancing is another reality that surprises many first-time founders. Bank loans are hard to secure without a trading history. Venture capital is available to very few. Most small businesses are self-funded or rely on friends and family — a situation that mixes personal relationships with financial risk in uncomfortable ways.\n\nNone of this means you shouldn't start a business. The rewards — autonomy, meaning, financial upside — can be extraordinary. But going in with clear eyes about the difficulty is not pessimism. It is the first step towards building something that lasts.",
+  "vocabulary": [
+    {"en": "seductive", "cz": "svůdný, lákavý"},
+    {"en": "survivor bias", "cz": "zkreslení přeživšími"},
+    {"en": "domain expertise", "cz": "odborné znalosti v oboru"},
+    {"en": "resilience", "cz": "odolnost, houževnatost"},
+    {"en": "setback", "cz": "neúspěch, nezdar"},
+    {"en": "iterate", "cz": "iterovat, postupně zlepšovat"},
+    {"en": "venture capital", "cz": "rizikový kapitál"},
+    {"en": "self-funded", "cz": "financovaný z vlastních zdrojů"},
+    {"en": "autonomy", "cz": "autonomie, nezávislost"},
+    {"en": "trading history", "cz": "obchodní historie"}
+  ],
+  "examples": [
+    {"en": "What percentage of businesses fail in the first year?", "cz": "Around 20%."},
+    {"en": "What is 'survivor bias' in entrepreneurship?", "cz": "We only hear success stories — failures are invisible, distorting our view of the odds."},
+    {"en": "Name three factors that research links to business success.", "cz": "Domain expertise, resilience, ability to listen to customer feedback."},
+    {"en": "Why is financing difficult for first-time founders?", "cz": "Bank loans need trading history, venture capital is rare, most rely on self-funding."},
+    {"en": "What is the article's final message?", "cz": "Entrepreneurship is hard — go in with clear eyes, but the rewards can be extraordinary."}
+  ],
+  "tasks": [
+    "1. Describe a business idea you have — what would be the main risks?",
+    "2. Write about a business that failed — what could they have done differently?",
+    "3. Interview someone who runs their own business — write 5 questions and report their answers"
+  ]
+}

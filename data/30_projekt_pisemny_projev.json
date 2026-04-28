@@ -7,8 +7,52 @@
   "description": "Projekt: formální a neformální psaný projev.",
   "vocabulary": [
     {
-      "en": "title",
-      "cz": "Informal Email (to a friend)"
+      "en": "Dear Mr/Ms [surname]",
+      "cz": "Vážený pane/Vážená paní (formal)"
+    },
+    {
+      "en": "I am writing to enquire",
+      "cz": "Píši vám ohledně (formal opening)"
+    },
+    {
+      "en": "Please find attached",
+      "cz": "V příloze naleznete"
+    },
+    {
+      "en": "I look forward to hearing from you",
+      "cz": "Těším se na vaši odpověď"
+    },
+    {
+      "en": "Yours sincerely",
+      "cz": "S úctou (known recipient)"
+    },
+    {
+      "en": "Yours faithfully",
+      "cz": "S úctou (Dear Sir/Madam)"
+    },
+    {
+      "en": "Hi [name]",
+      "cz": "Ahoj (informal email)"
+    },
+    {
+      "en": "Hope you're well",
+      "cz": "Doufám, že se máš dobře"
+    },
+    {
+      "en": "Let me know",
+      "cz": "Dej mi vědět"
+    },
+    {
+      "en": "I am writing to express my dissatisfaction",
+      "cz": "Píši, abych vyjádřil/a nespokojenost (complaint)"
+    },
+    {
+      "en": "I would be grateful if you could",
+      "cz": "Byl/a bych vděčný/á, kdybystě"
+    },
+    {
+      "en": "I enclose / I attach",
+      "cz": "Přikládám"
     }
   ],
   "dialogue": [],

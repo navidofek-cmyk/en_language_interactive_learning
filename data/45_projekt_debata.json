@@ -5,14 +5,132 @@
   "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
   "topics": "argument structure · for/against · conceding · discussion phrases",
   "description": "Projekt: strukturovaná diskuze a argumentace v angličtině.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "In my opinion",
+      "cz": "Podle mého názoru"
+    },
+    {
+      "en": "I believe that",
+      "cz": "Věřím, že"
+    },
+    {
+      "en": "Personally, I think",
+      "cz": "Osobně si myslím"
+    },
+    {
+      "en": "I completely agree",
+      "cz": "Naprosto souhlasím"
+    },
+    {
+      "en": "I'm not sure I agree",
+      "cz": "Nejsem si jistý/á, že souhlasím"
+    },
+    {
+      "en": "I see your point, but",
+      "cz": "Chápu váš názor, ale"
+    },
+    {
+      "en": "With all due respect",
+      "cz": "S veškerou úctou"
+    },
+    {
+      "en": "Fair enough",
+      "cz": "Tak tedy dobře, ták"
+    },
+    {
+      "en": "You have a point",
+      "cz": "Máte pravdu"
+    },
+    {
+      "en": "I accept that, but",
+      "cz": "Přijímám to, ale"
+    },
+    {
+      "en": "Furthermore",
+      "cz": "Navíc, dále"
+    },
+    {
+      "en": "For example",
+      "cz": "Například"
+    },
+    {
+      "en": "In conclusion",
+      "cz": "Na závěr"
+    },
+    {
+      "en": "On the one hand",
+      "cz": "Na jedné straně"
+    },
+    {
+      "en": "On the other hand",
+      "cz": "Na druhé straně"
+    },
+    {
+      "en": "Having said that",
+      "cz": "Ale na druhou stranu"
+    },
+    {
+      "en": "It depends on",
+      "cz": "Záleží na"
+    },
+    {
+      "en": "There are concerns that",
+      "cz": "Panují obavy, že"
+    },
+    {
+      "en": "Evidence suggests",
+      "cz": "Důkazy naznačují"
+    },
+    {
+      "en": "It could be argued that",
+      "cz": "Lze tvrdit, že"
+    }
+  ],
   "dialogue": [],
   "notes": [
-    "\\n ✓ Check: Did you state your position clearly? Did you acknowledge the other side?",
-    "✓ Tip: A strong argument concedes a point, then counters it."
+    "Structure: state position → give reasons → acknowledge counterargument → rebut",
+    "✓ Concession + rebuttal: 'Fair enough, but...' / 'Admittedly, however...'",
+    "✓ A strong argument acknowledges the other side — then counters it",
+    "⚠️  Avoid: 'I think because...' | Use: 'I think... because...'",
+    "✓ End with a clear conclusion — not 'I don't know, it depends'"
   ],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "I see your point, but the evidence suggests otherwise.",
+      "cz": "Chápu váš argument, ale důkazy naznačují opak."
+    },
+    {
+      "en": "On the one hand, remote work saves commuting time. On the other, it can lead to isolation.",
+      "cz": "Na jedné straně práce z domova šetří čas na dojíždění. Na druhé straně může vést k izolaci."
+    },
+    {
+      "en": "In conclusion, I believe the benefits clearly outweigh the drawbacks.",
+      "cz": "Na závěr věřím, že přínosy jasně převažují nad nevýhodami."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "___ my opinion, social media does more harm than good.",
+      "answer": "In"
+    },
+    {
+      "type": "fill",
+      "sentence": "I see your point, ___ I still disagree.",
+      "answer": "but"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ the one hand... On the other hand...",
+      "answer": "On"
+    },
+    {
+      "type": "fill",
+      "sentence": "In ___, the evidence supports stricter regulation.",
+      "answer": "conclusion"
+    }
+  ],
   "tasks": [
     "1. Write a full for/against essay on one topic (200–250 words)",
     "2. Prepare a 2-minute spoken argument on your chosen position",

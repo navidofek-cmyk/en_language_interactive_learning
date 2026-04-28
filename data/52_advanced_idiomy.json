@@ -5,11 +5,139 @@
   "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
   "topics": "formal idioms · business idioms · debate expressions · literary idioms",
   "description": "Pokročilé idiomy a ustálené výrazy na úrovni C1.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "cast doubt on",
+      "cz": "zpochybnit"
+    },
+    {
+      "en": "shed light on",
+      "cz": "osvětlit, objasnit"
+    },
+    {
+      "en": "turn over a new leaf",
+      "cz": "začít nový život"
+    },
+    {
+      "en": "be at a crossroads",
+      "cz": "být na životní křižovatce"
+    },
+    {
+      "en": "go from strength to strength",
+      "cz": "nabírat na síle, prosperovat"
+    },
+    {
+      "en": "nip in the bud",
+      "cz": "zlikvidovat v zárodku"
+    },
+    {
+      "en": "burn one's bridges",
+      "cz": "spálit za sebou mosty"
+    },
+    {
+      "en": "keep a low profile",
+      "cz": "nepoutat na sebe pozornost"
+    },
+    {
+      "en": "go the extra mile",
+      "cz": "udělat více, než se čeká"
+    },
+    {
+      "en": "bear the brunt of",
+      "cz": "odnést to nejhůř"
+    },
+    {
+      "en": "pass the buck",
+      "cz": "hodit to na druhého"
+    },
+    {
+      "en": "beat around the bush",
+      "cz": "chodit kolem horké kaše"
+    },
+    {
+      "en": "read between the lines",
+      "cz": "číst mezi řádky"
+    },
+    {
+      "en": "get straight to the point",
+      "cz": "jít rovnou k věci"
+    },
+    {
+      "en": "take the bull by the horns",
+      "cz": "vzít býka za rohy"
+    },
+    {
+      "en": "sit on the fence",
+      "cz": "sedět na plotě, nerozhodovat se"
+    },
+    {
+      "en": "hit the jackpot",
+      "cz": "trefit jackpot, mít velké štěstí"
+    },
+    {
+      "en": "fall flat",
+      "cz": "nevyjít, skončit nezdarem"
+    },
+    {
+      "en": "miss the boat",
+      "cz": "zmeškat příležitost"
+    },
+    {
+      "en": "on thin ice",
+      "cz": "na tenkém ledě"
+    }
+  ],
   "dialogue": [],
   "notes": [],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "New evidence cast doubt on the official version of events.",
+      "cz": "Nové důkazy zpochybnily oficiální verzi událostí."
+    },
+    {
+      "en": "She's at a crossroads in her career.",
+      "cz": "Je na životní křižovatce ve své kariéře."
+    },
+    {
+      "en": "Stop beating around the bush — just tell me what happened.",
+      "cz": "Přestaň chodit kolem horké kaše — jen mi řekni, co se stalo."
+    },
+    {
+      "en": "If you keep missing deadlines, you'll be on thin ice.",
+      "cz": "Pokud budeš stále přetahovat termíny, budeš na tenkém ledě."
+    },
+    {
+      "en": "The company went from strength to strength after the merger.",
+      "cz": "Firma po fúzi nabírala na síle."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "Stop ___ around the bush and say what you mean.",
+      "answer": "beating"
+    },
+    {
+      "type": "fill",
+      "sentence": "She ___ the jackpot with that investment.",
+      "answer": "hit"
+    },
+    {
+      "type": "fill",
+      "sentence": "The new study ___ doubt on previous findings.",
+      "answer": "cast"
+    },
+    {
+      "type": "fill",
+      "sentence": "He always ___ the buck — never takes responsibility.",
+      "answer": "passes"
+    },
+    {
+      "type": "fill",
+      "sentence": "It's time to take the ___ by the horns.",
+      "answer": "bull"
+    }
+  ],
   "tasks": [
     "1. Use 8 idioms from this lesson in sentences about your work or life",
     "2. Write a short speech using at least 5 idioms naturally (not forced)",

@@ -7,32 +7,64 @@
   "description": "Formální vs neformální angličtina — stejná myšlenka, jiný styl.",
   "vocabulary": [
     {
-      "en": "Formal (no contractions)",
-      "cz": "Informal (contractions OK)"
+      "en": "formal: I would like to",
+      "cz": "informal: I want to / I'd like to"
     },
     {
-      "en": "It is",
-      "cz": "It"
+      "en": "formal: I am writing to enquire",
+      "cz": "informal: I'm getting in touch about"
     },
     {
-      "en": "We are",
-      "cz": "We"
+      "en": "formal: I would be grateful if",
+      "cz": "informal: Could you / Can you"
     },
     {
-      "en": "do not",
-      "cz": "don"
+      "en": "formal: commence",
+      "cz": "informal: start / begin"
     },
     {
-      "en": "cannot",
-      "cz": "can"
+      "en": "formal: terminate",
+      "cz": "informal: stop / end"
     },
     {
-      "en": "would not",
-      "cz": "wouldn"
+      "en": "formal: require",
+      "cz": "informal: need"
     },
     {
-      "en": "they are",
-      "cz": "they"
+      "en": "formal: assist",
+      "cz": "informal: help"
+    },
+    {
+      "en": "formal: obtain",
+      "cz": "informal: get"
+    },
+    {
+      "en": "formal: sufficient",
+      "cz": "informal: enough"
+    },
+    {
+      "en": "formal: approximately",
+      "cz": "informal: about / around"
+    },
+    {
+      "en": "formal: subsequently",
+      "cz": "informal: then / after that"
+    },
+    {
+      "en": "formal: nevertheless",
+      "cz": "informal: but / however"
+    },
+    {
+      "en": "formal: in order to",
+      "cz": "informal: to"
+    },
+    {
+      "en": "formal: due to the fact that",
+      "cz": "informal: because"
+    },
+    {
+      "en": "no contractions (formal)",
+      "cz": "contractions OK (informal)"
     }
   ],
   "dialogue": [],

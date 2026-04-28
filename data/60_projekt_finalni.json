@@ -7,14 +7,105 @@
   "description": "Finální projekt: demonstrace všech dovedností kurzu. Combines: all tenses · advanced grammar · vocabulary · style · register",
   "vocabulary": [
     {
-      "en": "prompt",
-      "cz": "Technology is making human interaction increasingly unnecessary."
+      "en": "articulate",
+      "cz": "výřečný, srozumitelně se vyjadřující"
+    },
+    {
+      "en": "nuanced",
+      "cz": "nuancovaný, jemně rozlišující"
+    },
+    {
+      "en": "sophisticated",
+      "cz": "sofistikovaný, vyspělý"
+    },
+    {
+      "en": "eloquent",
+      "cz": "výmluvný, plynný"
+    },
+    {
+      "en": "concise",
+      "cz": "stručný a výstižný"
+    },
+    {
+      "en": "compelling",
+      "cz": "přesvědčivý, poutavý"
+    },
+    {
+      "en": "coherent",
+      "cz": "soudržný, logický"
+    },
+    {
+      "en": "precise",
+      "cz": "přesný"
+    },
+    {
+      "en": "fluent",
+      "cz": "plynný"
+    },
+    {
+      "en": "register",
+      "cz": "jazykový registr (formální/neformální)"
+    },
+    {
+      "en": "tone",
+      "cz": "tón, zabarvení"
+    },
+    {
+      "en": "genre",
+      "cz": "žánr, typ textu"
+    },
+    {
+      "en": "audience",
+      "cz": "publikum, cílová skupina"
+    },
+    {
+      "en": "purpose",
+      "cz": "záměr, účel textu"
+    },
+    {
+      "en": "draft",
+      "cz": "koncept, návrh"
     }
   ],
   "dialogue": [],
-  "notes": [],
-  "examples": [],
-  "quiz": [],
+  "notes": [
+    "C1 checklist: varied grammar, wide vocabulary, appropriate register, coherent structure",
+    "✓ Use: inversion, cleft sentences, mixed conditionals, subjunctive, participle clauses",
+    "✓ Vocabulary: collocations, idioms, academic word list, discourse markers",
+    "✓ Style: formal where needed, natural where appropriate",
+    "C2 = near-native: differentiate fine shades of meaning, use idioms naturally"
+  ],
+  "examples": [
+    {
+      "en": "Her argument was both nuanced and compelling.",
+      "cz": "Její argument byl zároveň nuancovaný a přesvědčivý."
+    },
+    {
+      "en": "He expressed his views with remarkable precision.",
+      "cz": "Vyjádřil své názory s pozoruhodnou přesností."
+    },
+    {
+      "en": "The report was concise yet comprehensive.",
+      "cz": "Zpráva byla stručná, ale přesto komplexní."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "A C1 speaker uses ___ grammar structures, not just simple ones.",
+      "answer": "varied / complex"
+    },
+    {
+      "type": "fill",
+      "sentence": "Using the right ___ (formal/informal) for the situation is key.",
+      "answer": "register"
+    },
+    {
+      "type": "fill",
+      "sentence": "A ___ argument acknowledges the other side before rebutting it.",
+      "answer": "nuanced / strong"
+    }
+  ],
   "tasks": [
     "1. Grammar mistakes",
     "2. Vocabulary you wish you had used",

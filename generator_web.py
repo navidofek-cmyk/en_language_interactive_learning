@@ -257,27 +257,91 @@ footer{text-align:center;padding:2rem;color:var(--muted);font-size:.77rem;
 .tag-accent{background:rgba(124,158,245,.12);border-color:rgba(124,158,245,.3);color:var(--accent)}
 .alert{background:rgba(242,201,76,.08);border:1px solid rgba(242,201,76,.3);
   border-radius:10px;padding:.8rem 1.1rem;font-size:.87rem;margin-bottom:1rem;color:var(--yellow)}
+/* ─ Audio button ─ */
+.audio-btn{background:none;border:none;color:var(--muted);font-size:.85rem;
+  padding:0 .25rem;cursor:pointer;transition:color .12s;vertical-align:middle}
+.audio-btn:hover{color:var(--accent)}
+/* ─ PWA banner ─ */
+.pwa-banner{display:none;align-items:center;justify-content:space-between;
+  background:var(--surface);border:1px solid var(--accent);border-radius:10px;
+  padding:.7rem 1rem;margin-bottom:1rem;gap:.8rem;flex-wrap:wrap}
+.pwa-banner p{font-size:.88rem;color:var(--text)}
+/* ─ Daily challenge ─ */
+.daily-card{background:linear-gradient(135deg,rgba(124,158,245,.15),rgba(187,135,252,.1));
+  border:1px solid rgba(124,158,245,.3);border-radius:14px;padding:1.2rem 1.5rem;
+  margin-bottom:1.8rem;display:flex;align-items:center;gap:1.2rem}
+.daily-emoji{font-size:2.2rem}
+.daily-label{font-size:.75rem;color:var(--accent);font-weight:700;
+  text-transform:uppercase;letter-spacing:.06em;margin-bottom:.2rem}
+.daily-title{font-size:1rem;font-weight:700}
+.daily-level{font-size:.78rem;color:var(--muted);margin-top:.15rem}
 @media(max-width:600px){
   main{padding:1rem 1rem 4rem}
   .quiz-options{grid-template-columns:1fr}
   header{padding:.6rem 1rem}
   .hero h1{font-size:1.4rem}
   #search-input{width:120px}
+  .daily-card{flex-direction:column;align-items:flex-start}
 }
 """
 
 # ── JavaScript ────────────────────────────────────────────────────────────────
 
 JS_BASE = """
+// ─ Theme ─
 const themeBtn = document.getElementById('theme-btn');
 if(localStorage.getItem('theme')==='light') document.body.classList.add('light');
 function syncBtn(){ if(themeBtn) themeBtn.textContent = document.body.classList.contains('light')? '🌙 Dark':'☀️ Light'; }
 syncBtn();
 if(themeBtn) themeBtn.addEventListener('click',()=>{ document.body.classList.toggle('light'); localStorage.setItem('theme',document.body.classList.contains('light')?'light':'dark'); syncBtn(); });
+
+// ─ Progress ─
 function getScore(s){ return JSON.parse(localStorage.getItem('score_'+s)||'null'); }
 function setScore(s,score,total){ const p=getScore(s); if(!p||score>=p.score){ localStorage.setItem('score_'+s,JSON.stringify({score,total,date:new Date().toISOString().slice(0,10)})); } const f=document.querySelector('.progress-fill[data-slug="'+s+'"]'); if(f) f.style.width=Math.round(score/total*100)+'%'; }
+
+// ─ Streak ─
 function checkStreak(){ const today=new Date().toISOString().slice(0,10); const d=JSON.parse(localStorage.getItem('streak_data')||'{"days":[],"longest":0}'); if(!d.days.includes(today)){ d.days.push(today); d.days.sort(); let s=1; for(let i=d.days.length-2;i>=0;i--){ const a=new Date(d.days[i]),b=new Date(d.days[i+1]); if((b-a)/86400000===1)s++; else break; } d.longest=Math.max(d.longest||0,s); localStorage.setItem('streak_data',JSON.stringify(d)); } }
 checkStreak();
+
+// ─ Audio pronunciation ─
+function speak(text){
+  if(!('speechSynthesis' in window)) return;
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-GB'; u.rate = 0.85; u.pitch = 1;
+  window.speechSynthesis.speak(u);
+}
+
+// ─ Bookmarks ─
+function getBookmarks(){ return JSON.parse(localStorage.getItem('bookmarks')||'[]'); }
+function isBookmarked(slug){ return getBookmarks().includes(slug); }
+function toggleBookmark(slug){
+  const bm = getBookmarks();
+  const idx = bm.indexOf(slug);
+  if(idx>=0) bm.splice(idx,1); else bm.push(slug);
+  localStorage.setItem('bookmarks', JSON.stringify(bm));
+  const btn = document.getElementById('bm-btn');
+  if(btn){ btn.textContent = bm.includes(slug) ? '★ Saved' : '☆ Save'; btn.classList.toggle('btn-accent', bm.includes(slug)); }
+}
+function initBookmarkBtn(){
+  const btn = document.getElementById('bm-btn');
+  if(!btn || !window.LESSON_SLUG) return;
+  if(isBookmarked(window.LESSON_SLUG)){ btn.textContent='★ Saved'; btn.classList.add('btn-accent'); }
+}
+initBookmarkBtn();
+
+// ─ PWA install ─
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault(); deferredPrompt = e;
+  const banner = document.getElementById('pwa-banner');
+  if(banner) banner.style.display = 'flex';
+});
+function installPWA(){
+  if(!deferredPrompt) return;
+  deferredPrompt.prompt();
+  deferredPrompt.userChoice.then(()=>{ deferredPrompt=null; const b=document.getElementById('pwa-banner'); if(b) b.style.display='none'; });
+}
 """
 
 JS_INDEX = """
@@ -305,15 +369,69 @@ renderQuiz();
 
 JS_FC = """
 const ALL=window.FC_DATA||[]; let cards=[...ALL],idx=0,ok=0,mode='cz-en';
-function shuffle(a){ return a.sort(()=>Math.random()-.5); }
-function start(){ cards=shuffle([...ALL]); idx=0; ok=0; render(); }
-function render(){ const card=document.getElementById('fc-card'),ctr=document.getElementById('fc-counter'); if(!card||!cards.length)return; if(idx>=cards.length){done();return;} card.classList.remove('flipped'); document.getElementById('fc-front-word').textContent=mode==='cz-en'?cards[idx].cz:cards[idx].en; document.getElementById('fc-back-word').textContent=mode==='cz-en'?cards[idx].en:cards[idx].cz; document.getElementById('fc-front-hint').textContent=mode==='cz-en'?'Click to see English':'Click to see Czech'; if(ctr) ctr.textContent=(idx+1)+'/'+cards.length; }
+function shuffle(a){ return [...a].sort(()=>Math.random()-.5); }
+
+// ─ Spaced repetition (simplified SM-2) ─
+function getSR(){ return JSON.parse(localStorage.getItem('sr_data')||'{}'); }
+function saveSR(d){ localStorage.setItem('sr_data', JSON.stringify(d)); }
+function updateSR(word, knew){
+  const d = getSR();
+  const k = btoa(encodeURIComponent(word)).slice(0,20);
+  const c = d[k] || {interval:1, ef:2.5, reps:0};
+  if(knew){ c.reps++; c.interval = c.reps===1?1:c.reps===2?6:Math.round(c.interval*c.ef); c.ef = Math.max(1.3, c.ef+(0.1-(5-4)*(0.08+(5-4)*0.02))); }
+  else { c.reps=0; c.interval=1; c.ef=Math.max(1.3,c.ef-0.2); }
+  c.next = new Date(Date.now()+c.interval*86400000).toISOString().slice(0,10);
+  d[k]=c; saveSR(d);
+}
+function isDue(word){
+  const d=getSR(), k=btoa(encodeURIComponent(word)).slice(0,20);
+  const c=d[k]; if(!c) return true;
+  return c.next <= new Date().toISOString().slice(0,10);
+}
+
+function start(){
+  // prioritise due cards, then new cards
+  const due   = ALL.filter(c=>isDue(mode==='cz-en'?c.cz:c.en));
+  const other = ALL.filter(c=>!isDue(mode==='cz-en'?c.cz:c.en));
+  cards = [...shuffle(due), ...shuffle(other)];
+  idx=0; ok=0; render();
+}
+function render(){
+  const card=document.getElementById('fc-card'),ctr=document.getElementById('fc-counter');
+  if(!card||!cards.length)return;
+  if(idx>=cards.length){done();return;}
+  card.classList.remove('flipped');
+  const front = mode==='cz-en'?cards[idx].cz:cards[idx].en;
+  const back  = mode==='cz-en'?cards[idx].en:cards[idx].cz;
+  document.getElementById('fc-front-word').textContent=front;
+  document.getElementById('fc-back-word').textContent=back;
+  document.getElementById('fc-front-hint').textContent=mode==='cz-en'?'Click / Space to flip':'Click / Space to flip';
+  if(ctr) ctr.textContent=(idx+1)+'/'+cards.length;
+  // audio button
+  const audioBtn = document.getElementById('fc-audio');
+  if(audioBtn) audioBtn.onclick = ()=>speak(mode==='cz-en'?back:front);
+}
 function flip(){ document.getElementById('fc-card').classList.toggle('flipped'); }
-function answer(knew){ if(knew)ok++; idx++; render(); }
-function done(){ const a=document.getElementById('fc-area'); if(!a)return; const pct=Math.round(ok/cards.length*100); a.innerHTML='<div class="quiz-score" style="max-width:360px;margin:2rem auto"><div class="score-num">'+ok+'/'+cards.length+'</div><div class="score-pct">'+pct+'% recalled</div><button class="btn btn-accent" style="margin-top:1rem" onclick="start()">New round</button></div>'; }
+function answer(knew){
+  const word = mode==='cz-en'?cards[idx]?.en:cards[idx]?.cz;
+  if(word) updateSR(word, knew);
+  if(knew)ok++; idx++; render();
+}
+function done(){
+  const a=document.getElementById('fc-area'); if(!a)return;
+  const pct=Math.round(ok/cards.length*100);
+  a.innerHTML='<div class="quiz-score" style="max-width:360px;margin:2rem auto"><div class="score-num">'+ok+'/'+cards.length+'</div><div class="score-pct">'+pct+'% recalled</div><button class="btn btn-accent" style="margin-top:1rem" onclick="start()">New round</button></div>';
+}
 document.getElementById('fc-card').addEventListener('click',flip);
-document.getElementById('mode-btn').addEventListener('click',()=>{ mode=mode==='cz-en'?'en-cz':'cz-en'; document.getElementById('mode-btn').textContent=mode==='cz-en'?'CZ → EN':'EN → CZ'; render(); });
-document.querySelectorAll('.fc-filter-btn').forEach(btn=>{ btn.addEventListener('click',()=>{ document.querySelectorAll('.fc-filter-btn').forEach(b=>b.classList.remove('btn-accent')); btn.classList.add('btn-accent'); cards=btn.dataset.lesson==='all'?[...ALL]:ALL.filter(c=>c.lesson===btn.dataset.lesson); idx=0;ok=0;shuffle(cards);render(); }); });
+document.getElementById('mode-btn').addEventListener('click',()=>{ mode=mode==='cz-en'?'en-cz':'cz-en'; document.getElementById('mode-btn').textContent=mode==='cz-en'?'CZ → EN':'EN → CZ'; start(); });
+document.querySelectorAll('.fc-filter-btn').forEach(btn=>{ btn.addEventListener('click',()=>{ document.querySelectorAll('.fc-filter-btn').forEach(b=>b.classList.remove('btn-accent')); btn.classList.add('btn-accent'); const lesson=btn.dataset.lesson; const base=lesson==='all'?ALL:ALL.filter(c=>c.lesson===lesson); const due=base.filter(c=>isDue(mode==='cz-en'?c.cz:c.en)); cards=[...shuffle(due),...shuffle(base.filter(c=>!isDue(mode==='cz-en'?c.cz:c.en)))]; idx=0;ok=0;render(); }); });
+
+// ─ Keyboard shortcuts ─
+document.addEventListener('keydown',e=>{
+  if(e.code==='Space'){ e.preventDefault(); flip(); }
+  else if(e.code==='ArrowRight') answer(true);
+  else if(e.code==='ArrowLeft')  answer(false);
+});
 start();
 """
 
@@ -328,13 +446,24 @@ if(se)se.textContent=cur; if(le)le.textContent=sd.longest||0; if(te)te.textConte
 
 # ── Page wrapper ──────────────────────────────────────────────────────────────
 
+SW_REG = """
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+}
+"""
+
 def page(title, body, js_extra="", back="index.html"):
     up = "" if back == "index.html" else "../"
+    sw_path = f"{up}sw.js"
+    manifest_path = f"{up}manifest.json"
+    sw_js = f"""if('serviceWorker' in navigator){{ navigator.serviceWorker.register('{sw_path}').catch(()=>{{}}); }}"""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#7c9ef5">
+<link rel="manifest" href="{manifest_path}">
 <title>{esc(title)} — English Course</title>
 <style>{CSS}</style>
 </head>
@@ -351,7 +480,7 @@ def page(title, body, js_extra="", back="index.html"):
 </header>
 <main>{body}</main>
 <footer>English Interactive Course · A1–C2 · Everything runs in your browser · No Python needed</footer>
-<script>{JS_BASE}{js_extra}</script>
+<script>{JS_BASE}{js_extra}{sw_js}</script>
 </body>
 </html>"""
 
@@ -404,6 +533,28 @@ def build_index(lessons, articles):
     if art_grid:
         sections_html += f'<div class="section-title">Reading Articles<span class="section-count">{len(articles)} articles</span></div>\n<div class="grid">{art_grid}</div>\n'
 
+    # daily challenge — deterministic pick based on day of year
+    import datetime
+    day_idx = datetime.date.today().timetuple().tm_yday % len(lessons)
+    daily = lessons[day_idx]
+    daily_card = f"""<div class="daily-card">
+  <div class="daily-emoji">⚡</div>
+  <div>
+    <div class="daily-label">Today's lesson</div>
+    <a href="lekce/{daily['slug']}.html" style="text-decoration:none;color:var(--text)">
+      <div class="daily-title">L{daily['num']} — {esc(daily['title'])}</div>
+      <div class="daily-level">{esc(daily['level'])} · {esc(daily['topics'])}</div>
+    </a>
+  </div>
+  <a href="lekce/{daily['slug']}.html" class="btn btn-accent" style="margin-left:auto;white-space:nowrap">Start →</a>
+</div>"""
+
+    pwa_banner = """<div class="pwa-banner" id="pwa-banner">
+  <p>📱 Install this course as an app — works offline too!</p>
+  <button class="btn btn-accent" onclick="installPWA()">Install</button>
+  <button class="btn" onclick="document.getElementById('pwa-banner').style.display='none'">✕</button>
+</div>"""
+
     hero = f"""<div class="hero">
   <h1>English Interactive Course</h1>
   <p class="hero-sub">Czech → English · A1 to C2 · Interactive quizzes · Runs entirely in your browser</p>
@@ -413,7 +564,9 @@ def build_index(lessons, articles):
     <div class="stat"><span class="stat-num">A1–C2</span><span class="stat-label">All levels</span></div>
     <div class="stat"><span class="stat-num">0</span><span class="stat-label">Python needed</span></div>
   </div>
-</div>"""
+</div>
+{pwa_banner}
+{daily_card}"""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -451,9 +604,14 @@ def build_lesson(les, prev_l, next_l, total):
 
     # vocabulary
     vocab_rows = "".join(
-        f'<tr><td class="vocab-en">{esc(v["en"])}</td>'
+        f'<tr>'
+        f'<td class="vocab-en">'
+        f'  <button class="audio-btn" onclick="speak(\'{esc(v["en"])}\')">🔊</button>'
+        f'  {esc(v["en"])}'
+        f'</td>'
         f'<td class="vocab-cz hidden-cz">{esc(v["cz"])}</td>'
-        f'<td><button class="vocab-toggle" onclick="toggleCz(this)">Show</button></td></tr>\n'
+        f'<td><button class="vocab-toggle" onclick="toggleCz(this)">Show</button></td>'
+        f'</tr>\n'
         for v in les.get("vocabulary", [])
     )
     vocab_sec = ""
@@ -515,6 +673,7 @@ def build_lesson(les, prev_l, next_l, total):
     <span class="tag tag-accent">Lesson {les['num']}</span>
     <span class="tag tag-level">{esc(les['level'])}</span>
     <span style="color:var(--muted);font-size:.8rem">{esc(les['topics'])}</span>
+    <button id="bm-btn" class="btn" style="margin-left:auto;font-size:.8rem" onclick="toggleBookmark('{les['slug']}')">☆ Save</button>
   </div>
 </div>
 <div class="course-progress">
@@ -670,6 +829,55 @@ def build_vocab(lessons):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def build_pwa_files(out, lessons, articles):
+    """Generate PWA manifest and service worker."""
+    manifest = {
+        "name": "English Interactive Course",
+        "short_name": "English Course",
+        "description": "Interactive English course A1–C2 for Czech speakers",
+        "start_url": "./index.html",
+        "display": "standalone",
+        "background_color": "#0f0f17",
+        "theme_color": "#7c9ef5",
+        "icons": [
+            {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+            {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+        ]
+    }
+    (out / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+
+    # Generate a simple SVG icon (blue gradient flag emoji style)
+    svg = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+<rect width="192" height="192" rx="32" fill="#1a1a2e"/>
+<text x="96" y="130" font-size="120" text-anchor="middle">🇬🇧</text>
+</svg>'''
+    (out / "icon-192.png").write_bytes(b'')   # placeholder — GitHub Actions can't generate PNG
+    (out / "icon-512.png").write_bytes(b'')
+
+    # All pages to cache
+    all_pages = ["./index.html", "./flashkarty.html", "./pokrok.html", "./slovnik.html"]
+    for les in lessons:
+        all_pages.append(f"./lekce/{les['slug']}.html")
+    for art in articles:
+        all_pages.append(f"./clanky/{art['slug']}.html")
+
+    sw = f"""const CACHE = 'english-course-v2';
+const URLS = {json.dumps(all_pages, indent=2)};
+
+self.addEventListener('install', e => {{
+  e.waitUntil(caches.open(CACHE).then(c => c.addAll(URLS)));
+}});
+self.addEventListener('activate', e => {{
+  e.waitUntil(caches.keys().then(keys =>
+    Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))
+  ));
+}});
+self.addEventListener('fetch', e => {{
+  e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
+}});
+"""
+    (out / "sw.js").write_text(sw, encoding="utf-8")
+
 def main():
     out      = pathlib.Path("web")
     lekce    = out / "lekce"
@@ -692,6 +900,8 @@ def main():
 
     for art in articles:
         (clanky / f"{art['slug']}.html").write_text(build_article(art, articles), encoding="utf-8")
+
+    build_pwa_files(out, lessons, articles)
 
     print(f"✓ Built {len(lessons)} lessons + {len(articles)} articles → web/")
 

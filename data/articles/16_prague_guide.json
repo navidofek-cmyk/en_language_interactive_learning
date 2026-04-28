@@ -1,0 +1,33 @@
+{
+  "num": "16",
+  "slug": "prague_guide",
+  "title": "Prague — More Than a Postcard",
+  "level": "⭐⭐ A2–B1 | Elementary",
+  "topics": "travel · culture · history · describing a city",
+  "description": "Praha jako destinace — pro procvičení popisného jazyka a turistické angličtiny.",
+  "article_text": "PRAGUE — MORE THAN A POSTCARD\n\nPrague is often called the 'City of a Hundred Spires', and it is easy to see why. The skyline of the Czech capital is a dramatic collage of Gothic towers, Baroque domes, and Art Nouveau facades that have survived wars, revolutions, and the passage of centuries largely intact.\n\nMost visitors begin in the Old Town (Staré Město), where the famous Astronomical Clock — built in 1410 — still marks the hour with a procession of mechanical apostles. Nearby, the Old Town Square is one of the most beautiful public spaces in Europe, surrounded by pastel-coloured buildings and dominated by the twin towers of the Church of Our Lady before Týn.\n\nCross the Charles Bridge (Karlův most) — lined with 30 Baroque statues of saints — and you climb into the Castle District (Hradčany), home to one of the largest castle complexes in the world. Prague Castle houses the Cathedral of St Vitus, the Royal Palace, and galleries containing centuries of Czech artistic heritage.\n\nBeyond the tourist trail, Prague rewards exploration. The Vinohrady and Žižkov districts offer authentic neighbourhood cafés, independent bookshops, and the kind of lived-in city life that photographs rarely capture. The city's literary heritage is rich — Franz Kafka, Milan Kundera, and Bohumil Hrabal all lived and wrote here.\n\nPrague is also renowned for its beer culture. Czech lager, brewed according to centuries-old traditions, is considered by many aficionados to be the finest in the world. Sitting in a traditional Czech pub (hospoda) with a glass of Pilsner Urquell or Kozel is as authentic a Prague experience as any castle tour.\n\nCome in spring or autumn to avoid the summer crowds. And take time to get lost — some of the city's best discoveries are down unmarked alleyways.",
+  "vocabulary": [
+    {"en": "spire", "cz": "věž s jehlancovou střechou"},
+    {"en": "facade", "cz": "fasáda"},
+    {"en": "intact", "cz": "nepoškozený, zachovalý"},
+    {"en": "astronomical clock", "cz": "orloj"},
+    {"en": "apostle", "cz": "apoštol"},
+    {"en": "Baroque", "cz": "barokní"},
+    {"en": "castle complex", "cz": "hradní komplex"},
+    {"en": "authentic", "cz": "autentický"},
+    {"en": "aficionado", "cz": "znalec, milovník (piva)"},
+    {"en": "alleyway", "cz": "ulička, průchod"}
+  ],
+  "examples": [
+    {"en": "Why is Prague called the 'City of a Hundred Spires'?", "cz": "Because of its dramatic skyline of Gothic towers, Baroque domes, and Art Nouveau facades."},
+    {"en": "When was the Astronomical Clock built?", "cz": "In 1410."},
+    {"en": "Name two literary figures connected to Prague.", "cz": "Any two: Franz Kafka, Milan Kundera, Bohumil Hrabal."},
+    {"en": "Which districts does the article recommend for authentic local life?", "cz": "Vinohrady and Žižkov."},
+    {"en": "When does the article recommend visiting Prague?", "cz": "Spring or autumn — to avoid summer crowds."}
+  ],
+  "tasks": [
+    "1. Write a tourist guide entry (100 words) for your own city or town in English",
+    "2. Describe Prague to someone who has never been — use vocabulary from this article",
+    "3. Plan a 2-day itinerary for a friend visiting Prague — write it in English"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "num": "13",
+  "slug": "digital_privacy",
+  "title": "Digital Privacy — Who Owns Your Data?",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "technology · rights · society · surveillance",
+  "description": "Digitální soukromí — kdo vlastní vaše data a jak se chránit.",
+  "article_text": "DIGITAL PRIVACY — WHO OWNS YOUR DATA?\n\nEvery time you use a search engine, scroll through social media, or make an online purchase, you leave behind a trail of data. Your location, browsing habits, purchasing patterns, political interests, and even your emotional state — inferred from the content you engage with — are recorded, analysed, and in many cases sold.\n\nThis data economy has made a handful of technology companies extraordinarily wealthy. It has also raised profound questions about privacy, consent, and power.\n\nMost people are vaguely aware that they are being tracked online, yet continue to use services that track them. This is partly due to convenience — these services are genuinely useful — and partly due to what researchers call the 'privacy paradox': people say they value privacy but behave as though they don't. In reality, the trade-off is rarely presented clearly. The terms and conditions that govern data collection run to tens of thousands of words that almost nobody reads.\n\nThe legal landscape is shifting. The European Union's General Data Protection Regulation (GDPR), introduced in 2018, gave citizens the right to know what data is held about them, to have it deleted, and to withhold consent for its collection. It has been a significant step, though enforcement remains patchy.\n\nPrivacy advocates argue for stronger measures: data minimisation requirements, banning the sale of personal data, and treating data as a public resource rather than a corporate asset. Critics warn that over-regulation stifles innovation.\n\nThe debate is ultimately about power: who controls information controls influence. In an age when data is sometimes called 'the new oil', the question of who owns yours has never been more urgent.",
+  "vocabulary": [
+    {"en": "trail of data", "cz": "datová stopa"},
+    {"en": "infer", "cz": "usuzovat, odvozovat"},
+    {"en": "privacy paradox", "cz": "paradox soukromí"},
+    {"en": "trade-off", "cz": "kompromis, výměna"},
+    {"en": "GDPR", "cz": "GDPR — nařízení o ochraně osobních údajů"},
+    {"en": "patchy", "cz": "nesourodý, nerovnoměrný"},
+    {"en": "data minimisation", "cz": "minimalizace dat"},
+    {"en": "stifle", "cz": "dusit, potlačovat"},
+    {"en": "corporate asset", "cz": "firemní aktivum"},
+    {"en": "enforcement", "cz": "vymáhání, prosazování"}
+  ],
+  "examples": [
+    {"en": "What is the 'privacy paradox'?", "cz": "People say they value privacy but behave as though they don't."},
+    {"en": "What rights does GDPR give citizens?", "cz": "Right to know what data is held, have it deleted, and withhold consent."},
+    {"en": "Why do people continue using tracking services?", "cz": "Convenience and the fact that terms & conditions are rarely read."},
+    {"en": "What do privacy advocates argue for?", "cz": "Data minimisation, banning sale of personal data, treating data as a public resource."},
+    {"en": "What is the central argument of the article?", "cz": "Control over data is control over influence — who owns your data matters."}
+  ],
+  "tasks": [
+    "1. Review the privacy settings on one app you use — what data does it collect?",
+    "2. Write a letter to a tech company requesting deletion of your data under GDPR",
+    "3. Discuss: 'Privacy is a luxury that only wealthy people can afford.' Do you agree?"
+  ]
+}

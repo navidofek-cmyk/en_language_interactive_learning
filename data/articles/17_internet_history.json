@@ -1,0 +1,33 @@
+{
+  "num": "17",
+  "slug": "internet_history",
+  "title": "The Internet — 50 Years of Connection",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "technology · history · society · change",
+  "description": "Historie internetu — od vojenského projektu po globální infrastrukturu.",
+  "article_text": "THE INTERNET — 50 YEARS OF CONNECTION\n\nIn October 1969, a researcher at UCLA sent the first message over ARPANET — the US military network that would eventually become the internet. The message was 'LO'. The system crashed before the third letter could be sent. It was not an auspicious beginning for a technology that would reshape every aspect of human life.\n\nThe internet as we know it took shape gradually. In 1991, Tim Berners-Lee published the first website and invented the World Wide Web — a system of linked pages accessible through a browser. This was the moment that transformed a technical network used by academics and the military into something the public could use. By 1995, Amazon and eBay had launched. By 2004, Facebook existed. By 2007, the iPhone had put the internet in everyone's pocket.\n\nThe pace of change has been extraordinary. In 2023, over 5 billion people — roughly two thirds of humanity — use the internet. Global internet traffic is measured in exabytes per month. The digital economy is estimated to represent more than 15% of global GDP.\n\nThe social consequences have been profound and mixed. The internet has democratised information, connected people across continents, and given individuals a platform to reach global audiences. It has also enabled the rapid spread of misinformation, facilitated surveillance, and contributed to the erosion of privacy.\n\nPerhaps most significantly, the internet has concentrated power. A small number of platforms — Google, Meta, Amazon, Apple — now mediate much of human communication, commerce, and information. How society governs these platforms — or fails to — may be one of the defining political questions of the coming decades.",
+  "vocabulary": [
+    {"en": "auspicious", "cz": "příznivý, slibný"},
+    {"en": "World Wide Web", "cz": "celosvětová síť (www)"},
+    {"en": "exabyte", "cz": "exabajt (10^18 bajtů)"},
+    {"en": "democratise", "cz": "demokratizovat, zpřístupnit všem"},
+    {"en": "misinformation", "cz": "dezinformace"},
+    {"en": "surveillance", "cz": "sledování, dohled"},
+    {"en": "erosion", "cz": "eroze, postupné narušování"},
+    {"en": "mediate", "cz": "zprostředkovávat"},
+    {"en": "concentrate power", "cz": "koncentrovat moc"},
+    {"en": "GDP", "cz": "HDP (hrubý domácí produkt)"}
+  ],
+  "examples": [
+    {"en": "What was ARPANET and when was the first message sent?", "cz": "A US military network — the first message was sent in October 1969."},
+    {"en": "What did Tim Berners-Lee invent and when?", "cz": "The World Wide Web in 1991."},
+    {"en": "How many people use the internet today?", "cz": "Over 5 billion — roughly two thirds of humanity."},
+    {"en": "Name two positive and two negative effects of the internet.", "cz": "Positive: democratised information, global connection. Negative: misinformation, erosion of privacy."},
+    {"en": "What does the article identify as a key political question for the future?", "cz": "How society governs powerful internet platforms like Google, Meta, and Amazon."}
+  ],
+  "tasks": [
+    "1. Describe how the internet has changed your daily life — give 5 specific examples",
+    "2. Write a paragraph: what would your life look like without internet access?",
+    "3. Research: who invented the World Wide Web — find 3 interesting facts about them"
+  ]
+}

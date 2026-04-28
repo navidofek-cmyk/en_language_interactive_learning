@@ -1,0 +1,33 @@
+{
+  "num": "12",
+  "slug": "space_exploration",
+  "title": "Space Exploration — Why It Matters",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "science · technology · debate · investment",
+  "description": "Průzkum vesmíru — proč je důležitý a zda stojí za vynaložené prostředky.",
+  "article_text": "SPACE EXPLORATION — WHY IT MATTERS\n\nIn July 1969, Neil Armstrong became the first human to walk on the Moon. Watching from Earth, 600 million people shared a moment of collective wonder. More than five decades later, humanity is preparing to return — and to go further than ever before.\n\nThe case for space exploration rests on several pillars. First, it drives technological innovation with benefits far beyond aerospace. Technologies we take for granted — GPS, weather satellites, memory foam, water purification systems — all originated in space programmes. The spin-off technologies from NASA alone are estimated to have generated hundreds of billions of dollars in economic value.\n\nSecond, space exploration addresses existential questions. Understanding the origins of our solar system, searching for signs of past or present life on Mars, and studying potentially hazardous asteroids are not abstract scientific pursuits — they are directly relevant to our long-term survival as a species.\n\nThird, there is the argument for planetary insurance. If humanity is to survive in the long run, we cannot remain confined to a single planet. The philosopher Bertrand Russell once observed that the universe is indifferent to human existence. Space exploration is our response to that indifference.\n\nCritics argue that the billions spent on space should be directed towards solving immediate problems on Earth: poverty, disease, climate change. It is a reasonable objection. But it presents a false choice. Investment in space and investment in Earth's problems are not mutually exclusive — and history suggests that nations which invest in frontier science consistently outperform those that do not.\n\nThe universe is vast, largely unknown, and full of possibility. The question is not whether to explore it, but how urgently.",
+  "vocabulary": [
+    {"en": "pillar", "cz": "pilíř, základní argument"},
+    {"en": "spin-off technology", "cz": "vedlejší technologický produkt"},
+    {"en": "existential", "cz": "existenciální"},
+    {"en": "hazardous asteroid", "cz": "nebezpečný asteroid"},
+    {"en": "planetary insurance", "cz": "planetární pojistka (záloha)"},
+    {"en": "indifferent", "cz": "lhostejný"},
+    {"en": "mutually exclusive", "cz": "vzájemně se vylučující"},
+    {"en": "frontier science", "cz": "průkopnická věda"},
+    {"en": "confined to", "cz": "omezený na, uzavřený v"},
+    {"en": "collective wonder", "cz": "kolektivní úžas"}
+  ],
+  "examples": [
+    {"en": "Give two technologies from space programmes mentioned in the article.", "cz": "Any two: GPS, weather satellites, memory foam, water purification systems."},
+    {"en": "What is the 'planetary insurance' argument?", "cz": "Humanity must not remain confined to one planet to ensure long-term survival."},
+    {"en": "What is the main criticism of space spending?", "cz": "Money should be used for Earth's problems: poverty, disease, climate change."},
+    {"en": "How does the author respond to this criticism?", "cz": "It's a false choice — space and Earth investment are not mutually exclusive."},
+    {"en": "Who is Bertrand Russell and what did he say?", "cz": "A philosopher who observed that the universe is indifferent to human existence."}
+  ],
+  "tasks": [
+    "1. Write a 150-word argument FOR or AGAINST spending money on space exploration",
+    "2. Research: name 3 technologies in everyday use that came from space programmes",
+    "3. Write a short science fiction opening (100 words): humanity's first colony on Mars"
+  ]
+}

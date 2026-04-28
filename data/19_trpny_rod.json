@@ -5,7 +5,48 @@
   "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
   "topics": "be + past participle · tenses in passive · by-agent · causative",
   "description": "Trpný rod — kdy a jak ho použít.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "is/are + past participle",
+      "cz": "present simple passive"
+    },
+    {
+      "en": "was/were + past participle",
+      "cz": "past simple passive"
+    },
+    {
+      "en": "has/have been + past participle",
+      "cz": "present perfect passive"
+    },
+    {
+      "en": "will be + past participle",
+      "cz": "future passive"
+    },
+    {
+      "en": "is being + past participle",
+      "cz": "present continuous passive"
+    },
+    {
+      "en": "had been + past participle",
+      "cz": "past perfect passive"
+    },
+    {
+      "en": "can/must be + past participle",
+      "cz": "modal passive"
+    },
+    {
+      "en": "by + agent",
+      "cz": "kým / čím (kdo to udělal)"
+    },
+    {
+      "en": "have something done",
+      "cz": "nechat si něco udělat (causative)"
+    },
+    {
+      "en": "get something done",
+      "cz": "nechat si udělat (informal causative)"
+    }
+  ],
   "dialogue": [],
   "notes": [
     "\\n📚 ACTIVE → PASSIVE:",
@@ -13,31 +54,57 @@
   ],
   "examples": [
     {
-      "en": "Present cont.",
-      "cz": "is/are being + PP"
+      "en": "English is spoken worldwide.",
+      "cz": "Angličtinou se mluví po celém světě."
     },
     {
-      "en": "Active:  They build cars here.",
-      "cz": "Passive: Cars are built here."
+      "en": "The bridge was built in 1890.",
+      "cz": "Most byl postaven v roce 1890."
     },
     {
-      "en": "Active:  Someone stole my wallet.",
-      "cz": "Passive: My wallet was stolen."
+      "en": "The email has been sent.",
+      "cz": "Email byl odeslán."
     },
     {
-      "en": "Active:  The chef is cooking dinner.",
-      "cz": "Passive: Dinner is being cooked."
+      "en": "The road is being repaired.",
+      "cz": "Silnice se opravuje."
     },
     {
-      "en": "Active:  We will finish the project next week.",
-      "cz": "Passive: The project will be finished next week."
+      "en": "The form must be completed online.",
+      "cz": "Formulář musí být vyplněn online."
     },
     {
-      "en": "Active:  They have cancelled the flight.",
-      "cz": "Passive: The flight has been cancelled."
+      "en": "I had my car repaired.",
+      "cz": "Nechal jsem si opravit auto. (causative)"
     }
   ],
-  "quiz": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "English ___ spoken in many countries. (is)",
+      "answer": "is"
+    },
+    {
+      "type": "fill",
+      "sentence": "The window ___ broken last night. (was)",
+      "answer": "was"
+    },
+    {
+      "type": "fill",
+      "sentence": "The report ___ been submitted. (has)",
+      "answer": "has"
+    },
+    {
+      "type": "fill",
+      "sentence": "The form must ___ signed by the manager.",
+      "answer": "be"
+    },
+    {
+      "type": "fill",
+      "sentence": "She had her hair ___. (cut)",
+      "answer": "cut"
+    }
+  ],
   "tasks": [
     "1. Rewrite these active sentences in passive:",
     "2. Find 5 passive sentences in a news article",

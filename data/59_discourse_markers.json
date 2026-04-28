@@ -5,22 +5,140 @@
   "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
   "topics": "spoken · written · contrast · addition · result · position",
   "description": "Diskurzní markery — spojky a přechodové výrazy pro plynulý text.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "furthermore",
+      "cz": "navíc, dále"
+    },
+    {
+      "en": "moreover",
+      "cz": "kromě toho, navíc (formal)"
+    },
+    {
+      "en": "in addition",
+      "cz": "navíc, k tomu"
+    },
+    {
+      "en": "what is more",
+      "cz": "co víc, navíc"
+    },
+    {
+      "en": "nevertheless",
+      "cz": "nicméně, přesto"
+    },
+    {
+      "en": "nonetheless",
+      "cz": "přesto, nicméně"
+    },
+    {
+      "en": "on the other hand",
+      "cz": "na druhé straně"
+    },
+    {
+      "en": "notwithstanding",
+      "cz": "bez ohledu na, přesto (formal)"
+    },
+    {
+      "en": "therefore",
+      "cz": "proto, tudíž"
+    },
+    {
+      "en": "consequently",
+      "cz": "v důsledku toho"
+    },
+    {
+      "en": "as a result",
+      "cz": "v důsledku, proto"
+    },
+    {
+      "en": "admittedly",
+      "cz": "přiznám, pravda je"
+    },
+    {
+      "en": "granted",
+      "cz": "uznávám, pravda"
+    },
+    {
+      "en": "to illustrate",
+      "cz": "pro ilustraci"
+    },
+    {
+      "en": "a case in point",
+      "cz": "typický příklad"
+    },
+    {
+      "en": "in conclusion",
+      "cz": "na závěr"
+    },
+    {
+      "en": "on balance",
+      "cz": "celkově vzato"
+    },
+    {
+      "en": "all things considered",
+      "cz": "po zralé úvaze"
+    },
+    {
+      "en": "that is to say",
+      "cz": "to znamená, jinými slovy"
+    },
+    {
+      "en": "it is worth noting",
+      "cz": "stojí za zmínku"
+    }
+  ],
   "dialogue": [],
   "notes": [
-    "✓ Correct!\\n"
+    "Beginning of sentence + comma: 'Furthermore, the results were inconclusive.'",
+    "Middle of sentence with commas: 'The results, moreover, were inconclusive.'",
+    "After semicolon: 'The plan failed; nevertheless, we persisted.'",
+    "⚠️  despite + noun: 'Despite the rain,...' (NOT 'Despite it rained')",
+    "⚠️  although + clause: 'Although it rained,...' (NOT 'Although the rain')",
+    "⚠️  'Moreover' sounds unnatural in speech — use 'also' or 'what's more'"
   ],
-  "examples": [],
+  "examples": [
+    {
+      "en": "The plan was expensive. Furthermore, it was risky.",
+      "cz": "Plán byl drahý. Navíc byl riskantní."
+    },
+    {
+      "en": "Sales fell; nevertheless, the company remained profitable.",
+      "cz": "Prodeje klesly; přesto společnost zůstala zisková."
+    },
+    {
+      "en": "As a result of the changes, productivity increased.",
+      "cz": "V důsledku změn se produktivita zvýšila."
+    },
+    {
+      "en": "On balance, the benefits outweigh the risks.",
+      "cz": "Celkově vzato přínosy převažují nad riziky."
+    }
+  ],
   "quiz": [
     {
       "type": "fill",
-      "sentence": "The results were positive. ___, the cost was too high. (contrast)",
-      "answer": "However / Nevertheless"
+      "sentence": "The plan failed. ___, we persisted. (contrast)",
+      "answer": "Nevertheless / Nonetheless"
     },
     {
       "type": "fill",
-      "sentence": "She studied hard. ___, she passed with distinction. (result)",
+      "sentence": "She worked hard. ___, she got promoted. (result)",
       "answer": "As a result / Consequently"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ the difficulties, she succeeded. (despite)",
+      "answer": "Despite"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ the plan was flawed, it was approved. (admittedly)",
+      "answer": "Admittedly / Granted"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ all things considered, it was the right decision.",
+      "answer": "On balance"
     }
   ],
   "tasks": [

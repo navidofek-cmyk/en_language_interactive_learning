@@ -5,13 +5,112 @@
   "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
   "topics": "narrative tenses · story structure · connectors · vivid writing",
   "description": "Projekt: napsat krátký příběh v angličtině.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "narrator",
+      "cz": "vypravěč"
+    },
+    {
+      "en": "plot twist",
+      "cz": "nečekaný zvrat"
+    },
+    {
+      "en": "cliffhanger",
+      "cz": "napětí na konci kapitoly"
+    },
+    {
+      "en": "foreshadowing",
+      "cz": "naznačení budoucích událostí"
+    },
+    {
+      "en": "setting",
+      "cz": "prostředí, místo děje"
+    },
+    {
+      "en": "character",
+      "cz": "postava"
+    },
+    {
+      "en": "conflict",
+      "cz": "konflikt, spor"
+    },
+    {
+      "en": "resolution",
+      "cz": "rozuzlení"
+    },
+    {
+      "en": "flashback",
+      "cz": "retrospektiva, vzpomínka"
+    },
+    {
+      "en": "atmosphere",
+      "cz": "atmosféra"
+    },
+    {
+      "en": "vivid description",
+      "cz": "živý popis"
+    },
+    {
+      "en": "dialogue",
+      "cz": "dialog"
+    },
+    {
+      "en": "pace",
+      "cz": "tempo (vyprávění)"
+    },
+    {
+      "en": "tension",
+      "cz": "napětí"
+    },
+    {
+      "en": "hook",
+      "cz": "háček, chytlavý úvod"
+    }
+  ],
   "dialogue": [],
   "notes": [
-    "\\n ✓ Check: Did you use all 3 narrative tenses? Story connectors? Vivid verbs?"
+    "Narrative tenses: past simple (events) + past continuous (background) + past perfect (before)",
+    "✓ Show, don't tell: 'Her hands trembled.' (not: 'She was scared.')",
+    "✓ Short sentences = tension: He ran. The door slammed. Silence.",
+    "✓ Longer sentences = description, slower pace",
+    "✓ Use senses: smell, sound, touch, taste — not just sight",
+    "✓ Strong verbs: sprinted, whispered, glared (not: ran fast, said quietly)"
   ],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "It was past midnight when I heard the noise.",
+      "cz": "Bylo po půlnoci, když jsem uslyšel/a ten hluk."
+    },
+    {
+      "en": "She had never seen him before — yet something felt familiar.",
+      "cz": "Nikdy ho předtím neviděla — přesto něco působilo povědomě."
+    },
+    {
+      "en": "The smell of coffee filled the room.",
+      "cz": "Místnost se naplnila vůní kávy. (smyslový detail)"
+    },
+    {
+      "en": "'Are you sure about this?' she whispered.",
+      "cz": "'Jsi si tím jistý/á?' zašeptala."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "She ___ (sit) at her desk when the phone rang. (past cont.)",
+      "answer": "was sitting"
+    },
+    {
+      "type": "fill",
+      "sentence": "By the time he arrived, she ___ (leave) already. (past perf.)",
+      "answer": "had left"
+    },
+    {
+      "type": "fill",
+      "sentence": "'Show don't tell': Instead of 'He was angry', write: 'He ___ his fist.'",
+      "answer": "clenched / slammed"
+    }
+  ],
   "tasks": [
     "1. Expand your story to 200 words, adding dialogue and sensory details",
     "2. Write a second version of the same story from a different character's perspective",

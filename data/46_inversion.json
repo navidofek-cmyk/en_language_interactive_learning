@@ -5,13 +5,116 @@
   "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
   "topics": "negative adverbials · conditional inversion · formal emphasis",
   "description": "Inverze — zdůraznění větnou inverzí (formální/literární styl).",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "Never have I...",
+      "cz": "Nikdy jsem..."
+    },
+    {
+      "en": "Rarely does she...",
+      "cz": "Jen zřídka ona..."
+    },
+    {
+      "en": "Not only did he...",
+      "cz": "Nejenže on..."
+    },
+    {
+      "en": "Hardly had I... when...",
+      "cz": "Sotva jsem... když..."
+    },
+    {
+      "en": "No sooner had... than...",
+      "cz": "Sotva... než..."
+    },
+    {
+      "en": "Not until... did...",
+      "cz": "Teprve tehdy..."
+    },
+    {
+      "en": "Only then did...",
+      "cz": "Teprve tehdy..."
+    },
+    {
+      "en": "On no account should...",
+      "cz": "Za žádných okolností..."
+    },
+    {
+      "en": "Under no circumstances will...",
+      "cz": "Za žádných okolností..."
+    },
+    {
+      "en": "Had I known...",
+      "cz": "Kdybych byl/a věděl/a..."
+    },
+    {
+      "en": "Were it not for...",
+      "cz": "Nebýt..."
+    },
+    {
+      "en": "Should you need...",
+      "cz": "Pokud byste potřeboval/a..."
+    },
+    {
+      "en": "Little did she know...",
+      "cz": "Málo tušila, že..."
+    }
+  ],
   "dialogue": [],
   "notes": [
-    "✓ Correct!\\n"
+    "Inversion = auxiliary verb BEFORE subject (for emphasis in formal English)",
+    "Normal: I have never felt so proud.",
+    "Inverted: Never HAVE I felt so proud.",
+    "✓ Used after negative adverbials: Never, Rarely, Seldom, Hardly, Not only, Not until",
+    "✓ Conditional inversion replaces 'if':",
+    "  If I had known → HAD I known",
+    "  If it were → WERE it",
+    "  If you should need → SHOULD you need"
   ],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "Never have I seen such beautiful scenery.",
+      "cz": "Nikdy jsem neviděl/a tak krásnou krajinu."
+    },
+    {
+      "en": "Not only did he fail the exam, but he also lost his scholarship.",
+      "cz": "Nejenže neudělal zkoušku, ale také přišel o stipendium."
+    },
+    {
+      "en": "Had I known the truth, I would have acted differently.",
+      "cz": "Kdybych byl/a znal/a pravdu, jednal/a bych jinak."
+    },
+    {
+      "en": "Should you have any questions, please contact us.",
+      "cz": "Pokud budete mít jakékoli otázky, kontaktujte nás."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "___ had she sat down when the phone rang. (Hardly)",
+      "answer": "Hardly"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ I known, I would have helped. (Had)",
+      "answer": "Had"
+    },
+    {
+      "type": "fill",
+      "sentence": "Not only ___ he lie, but he also stole.",
+      "answer": "did"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ no circumstances should you open that file.",
+      "answer": "Under"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ it not for your help, I would have failed.",
+      "answer": "Were"
+    }
+  ],
   "tasks": [
     "1. Rewrite 5 ordinary sentences using negative adverbial inversion",
     "2. Rewrite these conditionals using inversion:",

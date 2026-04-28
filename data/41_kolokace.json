@@ -7,64 +7,84 @@
   "description": "Kolokace — které slova přirozeně patří k sobě.",
   "vocabulary": [
     {
-      "en": "very good",
-      "cz": "excellent, outstanding, superb, brilliant, exceptional"
+      "en": "make a decision",
+      "cz": "učinit rozhodnutí"
     },
     {
-      "en": "very bad",
-      "cz": "terrible, awful, dreadful, appalling, disastrous"
+      "en": "make a mistake",
+      "cz": "udělat chybu"
     },
     {
-      "en": "very big",
-      "cz": "enormous, massive, huge, vast, gigantic"
+      "en": "make progress",
+      "cz": "dělat pokroky"
     },
     {
-      "en": "very small",
-      "cz": "tiny, miniature, microscopic, minuscule"
+      "en": "make an effort",
+      "cz": "vyvinout úsilí"
     },
     {
-      "en": "very tired",
-      "cz": "exhausted, drained, shattered, worn out"
+      "en": "make a suggestion",
+      "cz": "navrhnout"
     },
     {
-      "en": "very surprised",
-      "cz": "astonished, astounded, stunned, gobsmacked"
+      "en": "do homework",
+      "cz": "dělat domácí úkoly"
     },
     {
-      "en": "very angry",
-      "cz": "furious, livid, outraged, incensed"
+      "en": "do the shopping",
+      "cz": "jít nakoupit"
     },
     {
-      "en": "very happy",
-      "cz": "thrilled, delighted, ecstatic, overjoyed"
+      "en": "do research",
+      "cz": "provádět výzkum"
     },
     {
-      "en": "very cold",
-      "cz": "freezing, icy, bitter, arctic"
+      "en": "do your best",
+      "cz": "udělat maximum"
     },
     {
-      "en": "very hot",
-      "cz": "boiling, sweltering, scorching, blazing"
+      "en": "do damage",
+      "cz": "způsobit škodu"
     },
     {
-      "en": "very dirty",
-      "cz": "filthy, disgusting, grimy"
+      "en": "have a break",
+      "cz": "dát si přestávku"
     },
     {
-      "en": "very clean",
-      "cz": "spotless, immaculate, pristine"
+      "en": "have a meeting",
+      "cz": "mít schůzku"
     },
     {
-      "en": "very hungry",
-      "cz": "starving, famished, ravenous"
+      "en": "have a look",
+      "cz": "podívat se"
     },
     {
-      "en": "very funny",
-      "cz": "hilarious, side-splitting"
+      "en": "take a photo",
+      "cz": "vyfotit"
     },
     {
-      "en": "very scared",
-      "cz": "terrified, petrified, horrified"
+      "en": "take a risk",
+      "cz": "riskovat"
+    },
+    {
+      "en": "take notes",
+      "cz": "dělat si poznámky"
+    },
+    {
+      "en": "take medicine",
+      "cz": "brát léky"
+    },
+    {
+      "en": "absolutely exhausted",
+      "cz": "naprosto vyčerpaný"
+    },
+    {
+      "en": "completely freezing",
+      "cz": "úplně zmrzlý"
+    },
+    {
+      "en": "deeply concerned",
+      "cz": "hluboce znepokojený"
     }
   ],
   "dialogue": [],

@@ -1,0 +1,33 @@
+{
+  "num": "18",
+  "slug": "mindfulness",
+  "title": "Mindfulness — Hype or Help?",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "health · psychology · evidence · lifestyle",
+  "description": "Mindfulness — co říká věda a jak rozlišit skutečný přínos od módního trendu.",
+  "article_text": "MINDFULNESS — HYPE OR HELP?\n\nMindfulness has become one of the most talked-about wellness trends of the past two decades. Apps, corporate programmes, school curricula, and bestselling books have all embraced the practice. But beneath the commercial packaging, is there substance?\n\nMindfulness, at its core, is the practice of paying deliberate, non-judgmental attention to the present moment — noticing thoughts, feelings, and physical sensations without immediately reacting to them. The technique draws on ancient Buddhist meditation practices but was adapted for secular, clinical use by the American scientist Jon Kabat-Zinn in the late 1970s.\n\nThe research base has grown substantially. Numerous controlled studies show that mindfulness-based interventions reduce symptoms of anxiety and depression, often as effectively as medication in mild to moderate cases. It appears to lower cortisol levels (a stress hormone), improve sleep quality, and strengthen immune function. Neuroimaging studies show measurable changes in brain structure after regular practice — particularly in areas associated with attention and emotional regulation.\n\nHowever, the field is not without critics. Some researchers point to methodological weaknesses in many studies: small sample sizes, inadequate control groups, and publication bias — the tendency for positive results to be published and negative results to go unreported. A 2018 review found that many mindfulness claims are overstated.\n\nThe truth is probably somewhere in between. Mindfulness is a genuine, evidence-based tool with real benefits for many people. It is not, as some enthusiasts suggest, a cure-all. Used realistically — as one component of a broader approach to mental and physical health — it has much to offer.\n\nPerhaps the most honest recommendation is the simplest: try it. Ten minutes of focused breathing costs nothing and harms no one.",
+  "vocabulary": [
+    {"en": "hype", "cz": "přehnaná reklama, bublina"},
+    {"en": "secular", "cz": "světský, nenáboženský"},
+    {"en": "cortisol", "cz": "kortizol (stresový hormon)"},
+    {"en": "neuroimaging", "cz": "zobrazování mozku"},
+    {"en": "publication bias", "cz": "zkreslení publikací (jen pozitivní výsledky)"},
+    {"en": "overstated", "cz": "přehnaný, přeceněný"},
+    {"en": "cure-all", "cz": "zázračný lék na vše"},
+    {"en": "methodological", "cz": "metodologický"},
+    {"en": "intervention", "cz": "intervence, terapeutický zásah"},
+    {"en": "deliberate", "cz": "záměrný, vědomý"}
+  ],
+  "examples": [
+    {"en": "How does the article define mindfulness?", "cz": "Paying deliberate, non-judgmental attention to the present moment without immediately reacting."},
+    {"en": "Who adapted mindfulness for secular use?", "cz": "Jon Kabat-Zinn in the late 1970s."},
+    {"en": "What physical effects does mindfulness research show?", "cz": "Lower cortisol, better sleep, stronger immunity, measurable brain changes."},
+    {"en": "What is 'publication bias'?", "cz": "Tendency for positive results to be published and negative results to go unreported."},
+    {"en": "What is the article's final conclusion?", "cz": "Mindfulness is a genuine tool with real benefits — try it, but don't expect a cure-all."}
+  ],
+  "tasks": [
+    "1. Try a 5-minute mindfulness exercise and write about the experience in English",
+    "2. Write: 'I tried mindfulness for one week — here is what I noticed'",
+    "3. Find one scientific study about mindfulness — summarise its findings in 5 sentences"
+  ]
+}

@@ -7,12 +7,44 @@
   "description": "Podmínkové věty — real, unreal a past conditions.",
   "vocabulary": [
     {
-      "en": "structure",
-      "cz": "If + present simple, present simple"
+      "en": "If + present simple, will + inf.",
+      "cz": "1st conditional (real future)"
     },
     {
-      "en": "use",
-      "cz": "General truth / scientific fact"
+      "en": "If + past simple, would + inf.",
+      "cz": "2nd conditional (unreal present)"
+    },
+    {
+      "en": "If + past perfect, would have + pp",
+      "cz": "3rd conditional (unreal past)"
+    },
+    {
+      "en": "unless",
+      "cz": "pokud ne, jestliže ne"
+    },
+    {
+      "en": "provided / providing that",
+      "cz": "za podmínky, pokud"
+    },
+    {
+      "en": "as long as",
+      "cz": "pokud, za předpokladu"
+    },
+    {
+      "en": "even if",
+      "cz": "i kdyby"
+    },
+    {
+      "en": "supposing",
+      "cz": "představ si, co by bylo kdyby"
+    },
+    {
+      "en": "but for",
+      "cz": "nebýt, bez"
+    },
+    {
+      "en": "were it not for",
+      "cz": "nebýt (formal)"
     }
   ],
   "dialogue": [],

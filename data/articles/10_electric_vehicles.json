@@ -1,0 +1,33 @@
+{
+  "num": "10",
+  "slug": "electric_vehicles",
+  "title": "Electric Vehicles — The Road Ahead",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "technology · environment · transport · future",
+  "description": "Elektrická vozidla — přínosy, výzvy a budoucnost dopravy.",
+  "article_text": "ELECTRIC VEHICLES — THE ROAD AHEAD\n\nIn 2010, there were approximately 17,000 electric vehicles on the world's roads. By 2023, that number had surpassed 40 million. The shift to electric transport is no longer a distant possibility — it is already happening, and at extraordinary speed.\n\nThe case for electric vehicles is compelling. They produce zero tailpipe emissions, reducing air pollution in cities and cutting the carbon footprint of personal transport. Running costs are significantly lower than petrol or diesel — electricity is cheaper per kilometre, and electric motors require far less maintenance than combustion engines. Governments around the world have offered generous incentives: tax credits, subsidies, and in some cities, free parking and access to bus lanes.\n\nYet significant obstacles remain. The upfront purchase price of an electric vehicle is still higher than a comparable petrol car, though this gap is narrowing rapidly as battery costs fall. Range anxiety — the fear of running out of charge before reaching a destination — remains a concern for many drivers, despite the fact that average daily driving distances are well within the range of modern EVs. Charging infrastructure, particularly in rural areas and apartment buildings, is still insufficient.\n\nThere are also questions about sustainability. Electric vehicles are only as clean as the electricity used to charge them. In countries reliant on coal-fired power generation, the emissions savings are modest. And the extraction of lithium, cobalt, and other minerals needed for batteries raises serious environmental and ethical concerns.\n\nDespite these challenges, the trajectory is clear. Most major manufacturers have committed to ending the sale of new petrol and diesel cars within the next decade. The question is no longer whether electric vehicles will dominate — but how quickly, and at what cost.",
+  "vocabulary": [
+    {"en": "tailpipe emissions", "cz": "výfukové emise"},
+    {"en": "combustion engine", "cz": "spalovací motor"},
+    {"en": "range anxiety", "cz": "úzkost z dojezdu"},
+    {"en": "charging infrastructure", "cz": "infrastruktura pro nabíjení"},
+    {"en": "upfront cost", "cz": "počáteční náklady"},
+    {"en": "subsidy", "cz": "dotace, subvence"},
+    {"en": "trajectory", "cz": "trajektorie, směr vývoje"},
+    {"en": "extraction", "cz": "těžba, extrakce"},
+    {"en": "cobalt", "cz": "kobalt"},
+    {"en": "modest", "cz": "skromný, mírný"}
+  ],
+  "examples": [
+    {"en": "How many EVs were on the road in 2023?", "cz": "Over 40 million."},
+    {"en": "What is 'range anxiety'?", "cz": "Fear of running out of charge before reaching a destination."},
+    {"en": "Why are EVs not always environmentally clean?", "cz": "They are only as clean as the electricity used to charge them — in coal-heavy countries, savings are modest."},
+    {"en": "Name two obstacles to EV adoption mentioned in the article.", "cz": "Any two: high purchase price / range anxiety / insufficient charging infrastructure / battery mineral extraction concerns."},
+    {"en": "What have most major manufacturers committed to?", "cz": "Ending the sale of new petrol and diesel cars within the next decade."}
+  ],
+  "tasks": [
+    "1. Write a for/against paragraph (100 words) on whether EVs are the right solution for climate change",
+    "2. Research: what is the current range of the most popular EV in your country?",
+    "3. Write 5 predictions about personal transport in 2040 using future language from lesson 71"
+  ]
+}

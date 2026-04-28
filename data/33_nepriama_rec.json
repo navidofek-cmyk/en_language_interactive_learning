@@ -5,16 +5,114 @@
   "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
   "topics": "tense backshift · reporting verbs · questions · commands",
   "description": "Nepřímá řeč — jak převést přímou řeč do nepřímé.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "said (that)",
+      "cz": "řekl/a (že)"
+    },
+    {
+      "en": "told me (that)",
+      "cz": "řekl/a mi (že)"
+    },
+    {
+      "en": "asked if/whether",
+      "cz": "zeptal/a se, zda"
+    },
+    {
+      "en": "asked where/when/why",
+      "cz": "zeptal/a se kde/kdy/proč"
+    },
+    {
+      "en": "told me to",
+      "cz": "řekl/a mi, abych"
+    },
+    {
+      "en": "warned me not to",
+      "cz": "varoval/a mě, abych ne"
+    },
+    {
+      "en": "admitted (that)",
+      "cz": "přiznal/a (že)"
+    },
+    {
+      "en": "denied (that)",
+      "cz": "popřel/a (že)"
+    },
+    {
+      "en": "promised (that)",
+      "cz": "slíbil/a (že)"
+    },
+    {
+      "en": "suggested (that)",
+      "cz": "navrhl/a (že / aby)"
+    },
+    {
+      "en": "claimed (that)",
+      "cz": "tvrdil/a (že)"
+    },
+    {
+      "en": "explained (that)",
+      "cz": "vysvětlil/a (že)"
+    }
+  ],
   "dialogue": [],
   "notes": [
-    "Yes/No question → if / whether:",
-    "WH-question → same wh-word, normal word order:",
-    "⚠️ No question mark, no auxiliary do/does/did in reported questions",
-    "✓ Correct!\\n"
+    "Tense backshift: present simple → past simple",
+    "✓ 'I work here.' → She said she WORKED there.",
+    "Tense backshift: will → would",
+    "✓ 'I will call.' → He said he WOULD call.",
+    "Tense backshift: present perfect → past perfect",
+    "✓ 'I have finished.' → She said she HAD finished.",
+    "⚠️  Questions — no question mark, normal word order:",
+    "✓ 'Where do you live?' → He asked where I LIVED.",
+    "⚠️  Commands: tell/ask + to + infinitive",
+    "✓ 'Sit down!' → She told me TO SIT down."
   ],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "'I am very happy,' she said.",
+      "cz": "She said (that) she was very happy."
+    },
+    {
+      "en": "'Will you come?' he asked.",
+      "cz": "He asked if/whether I would come."
+    },
+    {
+      "en": "'Don't open that door!' she warned.",
+      "cz": "She warned me not to open that door."
+    },
+    {
+      "en": "'Where does she work?' he asked.",
+      "cz": "He asked where she worked."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "'I am tired.' → She said she ___ tired.",
+      "answer": "was"
+    },
+    {
+      "type": "fill",
+      "sentence": "'Are you coming?' → He asked ___ I was coming.",
+      "answer": "if / whether"
+    },
+    {
+      "type": "fill",
+      "sentence": "'Don't be late!' → She told him ___ to be late.",
+      "answer": "not"
+    },
+    {
+      "type": "fill",
+      "sentence": "'I will help you.' → She promised she ___ help me.",
+      "answer": "would"
+    },
+    {
+      "type": "fill",
+      "sentence": "'Where do you live?' → He asked where I ___.",
+      "answer": "lived"
+    }
+  ],
   "tasks": [
     "1. Report what someone said to you recently (5 sentences)",
     "2. Convert this dialogue to reported speech:",

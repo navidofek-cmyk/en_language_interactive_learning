@@ -5,11 +5,130 @@
   "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
   "topics": "body idioms · time · feelings · work · everyday idioms",
   "description": "Nejběžnější anglické idiomy — výrazy, které nelze přeložit doslova.",
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "en": "it's raining cats and dogs",
+      "cz": "lije jako z konve"
+    },
+    {
+      "en": "break the ice",
+      "cz": "prolomit ledy"
+    },
+    {
+      "en": "bite the bullet",
+      "cz": "skousnout to"
+    },
+    {
+      "en": "cost an arm and a leg",
+      "cz": "stát jmění"
+    },
+    {
+      "en": "hit the nail on the head",
+      "cz": "trefit hřebík na hlavičku"
+    },
+    {
+      "en": "spill the beans",
+      "cz": "prozradit tajemství"
+    },
+    {
+      "en": "under the weather",
+      "cz": "být pod psa, nemocný"
+    },
+    {
+      "en": "once in a blue moon",
+      "cz": "jednou za uherský rok"
+    },
+    {
+      "en": "in the nick of time",
+      "cz": "na poslední chvíli"
+    },
+    {
+      "en": "kill two birds with one stone",
+      "cz": "zabít dvě mouchy jednou ranou"
+    },
+    {
+      "en": "a blessing in disguise",
+      "cz": "skryté požehnání"
+    },
+    {
+      "en": "get cold feet",
+      "cz": "dostat strach na poslední chvíli"
+    },
+    {
+      "en": "burn the midnight oil",
+      "cz": "pracovat do noci"
+    },
+    {
+      "en": "get the ball rolling",
+      "cz": "rozhýbat věci"
+    },
+    {
+      "en": "hit the sack",
+      "cz": "jít spát"
+    },
+    {
+      "en": "let the cat out of the bag",
+      "cz": "prozradit tajemství"
+    },
+    {
+      "en": "pull someone's leg",
+      "cz": "dělat si z někoho legraci"
+    },
+    {
+      "en": "be in hot water",
+      "cz": "mít potíže"
+    },
+    {
+      "en": "the last straw",
+      "cz": "přetékající pohár"
+    },
+    {
+      "en": "speak of the devil",
+      "cz": "vzpomínali jsme na tebe!"
+    }
+  ],
   "dialogue": [],
   "notes": [],
-  "examples": [],
-  "quiz": [],
+  "examples": [
+    {
+      "en": "Every cloud has a silver lining.",
+      "cz": "Každá zlá věc je k něčemu dobrá."
+    },
+    {
+      "en": "It was a blessing in disguise — losing that job led to a better one.",
+      "cz": "Bylo to skryté požehnání — ztráta té práce vedla k lepší."
+    },
+    {
+      "en": "We arrived in the nick of time — the train was just leaving.",
+      "cz": "Přijeli jsme na poslední chvíli — vlak právě odjížděl."
+    },
+    {
+      "en": "Are you pulling my leg, or did you really win?",
+      "cz": "Děláš si ze mě legraci, nebo jsi opravdu vyhrál?"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "It's ___ cats and dogs outside — take an umbrella.",
+      "answer": "raining"
+    },
+    {
+      "type": "fill",
+      "sentence": "He told a joke to ___ the ice at the meeting.",
+      "answer": "break"
+    },
+    {
+      "type": "fill",
+      "sentence": "I only see her once in a ___ moon.",
+      "answer": "blue"
+    },
+    {
+      "type": "fill",
+      "sentence": "She burned the ___ oil to finish the report.",
+      "answer": "midnight"
+    }
+  ],
   "tasks": [
     "1. Choose 5 idioms and use each in your own sentence about real life",
     "2. Find 3 idioms you've heard in films or songs — look up their meanings",

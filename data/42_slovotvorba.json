@@ -7,20 +7,64 @@
   "description": "Tvoření slov — předpony, přípony a konverze.",
   "vocabulary": [
     {
-      "en": "noun",
-      "cz": "education, educator"
+      "en": "un- (negation)",
+      "cz": "unhappy, unfair, unable"
     },
     {
-      "en": "verb",
-      "cz": "educate"
+      "en": "re- (again)",
+      "cz": "redo, rewrite, rebuild"
     },
     {
-      "en": "adjective",
-      "cz": "educated, educational"
+      "en": "over- (too much)",
+      "cz": "overwork, overeat, overestimate"
     },
     {
-      "en": "adverb",
-      "cz": "educationally"
+      "en": "under- (too little)",
+      "cz": "underestimate, underpay"
+    },
+    {
+      "en": "mis- (wrongly)",
+      "cz": "misunderstand, mislead, mistake"
+    },
+    {
+      "en": "dis- (opposite)",
+      "cz": "disagree, dishonest, disconnect"
+    },
+    {
+      "en": "-tion/-sion (noun)",
+      "cz": "education, decision, permission"
+    },
+    {
+      "en": "-ment (noun)",
+      "cz": "development, agreement, improvement"
+    },
+    {
+      "en": "-ness (noun)",
+      "cz": "happiness, darkness, kindness"
+    },
+    {
+      "en": "-ful (adjective)",
+      "cz": "hopeful, useful, careful"
+    },
+    {
+      "en": "-less (without)",
+      "cz": "hopeless, useless, careless"
+    },
+    {
+      "en": "-able/-ible (can be done)",
+      "cz": "readable, accessible, possible"
+    },
+    {
+      "en": "-ous (having quality)",
+      "cz": "dangerous, famous, nervous"
+    },
+    {
+      "en": "-er/-or (person)",
+      "cz": "teacher, doctor, director"
+    },
+    {
+      "en": "self- (by oneself)",
+      "cz": "self-employed, self-confident"
     }
   ],
   "dialogue": [],
