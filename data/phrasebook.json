@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "name": "Greetings & Small Talk",
+      "icon": "👋",
+      "phrases": [
+        {"en": "How are you doing?", "cz": "Jak se máš/máte?"},
+        {"en": "Not bad, thanks. And you?", "cz": "Ujde to, díky. A ty/vy?"},
+        {"en": "Long time no see!", "cz": "Dlouho jsme se neviděli!"},
+        {"en": "What have you been up to?", "cz": "Co jsi dělal/a? Co je nového?"},
+        {"en": "Give my regards to...", "cz": "Pozdravuj..."},
+        {"en": "Nice to meet you.", "cz": "Těší mě."},
+        {"en": "How's everything going?", "cz": "Jak to jde?"},
+        {"en": "I'm afraid I have to go.", "cz": "Obávám se, že musím jít."}
+      ]
+    },
+    {
+      "name": "Travel & Transport",
+      "icon": "✈️",
+      "phrases": [
+        {"en": "Which platform for the train to...?", "cz": "Které nástupiště pro vlak do...?"},
+        {"en": "A return ticket to..., please.", "cz": "Zpáteční do..., prosím."},
+        {"en": "How long does the journey take?", "cz": "Jak dlouho trvá cesta?"},
+        {"en": "Is this seat taken?", "cz": "Je toto místo obsazeno?"},
+        {"en": "I've missed my connection.", "cz": "Zmeškal/a jsem přestup."},
+        {"en": "My luggage hasn't arrived.", "cz": "Mé zavazadlo nedorazilo."},
+        {"en": "Could you call me a taxi?", "cz": "Mohl/a byste mi zavolat taxi?"},
+        {"en": "Where is the nearest bus stop?", "cz": "Kde je nejbližší zastávka?"},
+        {"en": "Is the flight on time?", "cz": "Letí letadlo včas?"},
+        {"en": "I'd like to check in.", "cz": "Rád/a bych se ubytoval/a."}
+      ]
+    },
+    {
+      "name": "Hotel & Accommodation",
+      "icon": "🏨",
+      "phrases": [
+        {"en": "I have a reservation under the name...", "cz": "Mám rezervaci na jméno..."},
+        {"en": "Could I have a room with a view?", "cz": "Mohl/a bych dostat pokoj s výhledem?"},
+        {"en": "What time is breakfast served?", "cz": "V kolik hodin se podává snídaně?"},
+        {"en": "Could I have a wake-up call at 7?", "cz": "Mohl/a bych mít budíček v 7?"},
+        {"en": "The Wi-Fi isn't working.", "cz": "Wi-Fi nefunguje."},
+        {"en": "Could I have an extra pillow?", "cz": "Mohl/a bych dostat další polštář?"},
+        {"en": "What time is check-out?", "cz": "V kolik je odjezd?"},
+        {"en": "I'd like to extend my stay.", "cz": "Rád/a bych prodloužil/a pobyt."}
+      ]
+    },
+    {
+      "name": "Restaurant & Food",
+      "icon": "🍽️",
+      "phrases": [
+        {"en": "Could I see the menu, please?", "cz": "Mohl/a bych dostat jídelní lístek?"},
+        {"en": "I'd like to order, please.", "cz": "Rád/a bych si objednal/a."},
+        {"en": "What do you recommend?", "cz": "Co doporučujete?"},
+        {"en": "I'm allergic to nuts.", "cz": "Jsem alergický/á na ořechy."},
+        {"en": "Could I have it without...?", "cz": "Mohl/a bych to dostat bez...?"},
+        {"en": "The bill, please.", "cz": "Účet, prosím."},
+        {"en": "Is service included?", "cz": "Je zahrnuta obsluha?"},
+        {"en": "This is delicious!", "cz": "To je vynikající!"},
+        {"en": "Could I take this away?", "cz": "Mohl/a bych si to vzít s sebou?"},
+        {"en": "Enjoy your meal!", "cz": "Dobrou chuť!"}
+      ]
+    },
+    {
+      "name": "Shopping",
+      "icon": "🛍️",
+      "phrases": [
+        {"en": "How much does this cost?", "cz": "Kolik to stojí?"},
+        {"en": "Do you have this in a size M?", "cz": "Máte toto ve velikosti M?"},
+        {"en": "Can I try this on?", "cz": "Mohu si to vyzkoušet?"},
+        {"en": "It's a bit tight/loose.", "cz": "Je to trochu těsné/volné."},
+        {"en": "Do you accept card?", "cz": "Přijímáte kartu?"},
+        {"en": "Can I have a receipt?", "cz": "Mohu dostat účtenku?"},
+        {"en": "Can I return this?", "cz": "Mohu to vrátit?"},
+        {"en": "Is there a sale on?", "cz": "Máte výprodej?"}
+      ]
+    },
+    {
+      "name": "Medical & Emergency",
+      "icon": "🏥",
+      "phrases": [
+        {"en": "Call an ambulance!", "cz": "Zavolejte záchranku!"},
+        {"en": "I need a doctor.", "cz": "Potřebuji lékaře."},
+        {"en": "I have a severe headache.", "cz": "Silně mě bolí hlava."},
+        {"en": "I'm allergic to penicillin.", "cz": "Jsem alergický/á na penicilin."},
+        {"en": "I've been robbed.", "cz": "Byl/a jsem okraden/a."},
+        {"en": "I've lost my passport.", "cz": "Ztratil/a jsem pas."},
+        {"en": "Please speak more slowly.", "cz": "Mluvte prosím pomaleji."},
+        {"en": "Where is the nearest hospital?", "cz": "Kde je nejbližší nemocnice?"},
+        {"en": "I need this prescription filled.", "cz": "Potřebuji vydat tento recept."},
+        {"en": "Is this available without a prescription?", "cz": "Je to dostupné bez receptu?"}
+      ]
+    },
+    {
+      "name": "Work & Business",
+      "icon": "💼",
+      "phrases": [
+        {"en": "Let's schedule a meeting.", "cz": "Domluvme si schůzku."},
+        {"en": "I'll get back to you on that.", "cz": "Vrátím se k tomu."},
+        {"en": "Could you send me the report?", "cz": "Mohl/a byste mi poslat zprávu?"},
+        {"en": "I'm afraid I can't make that date.", "cz": "Obávám se, že to datum mi nevyhovuje."},
+        {"en": "Let me check my calendar.", "cz": "Nechte mě zkontrolovat kalendář."},
+        {"en": "That's outside the scope of our agreement.", "cz": "To je mimo rozsah naší dohody."},
+        {"en": "We'll need to think that over.", "cz": "Budeme to muset promyslet."},
+        {"en": "Could we postpone this to next week?", "cz": "Mohli bychom to odložit na příští týden?"}
+      ]
+    },
+    {
+      "name": "Asking for Help",
+      "icon": "🙋",
+      "phrases": [
+        {"en": "Could you help me, please?", "cz": "Mohl/a byste mi pomoci, prosím?"},
+        {"en": "Could you repeat that?", "cz": "Mohl/a byste to zopakovat?"},
+        {"en": "I don't quite understand.", "cz": "Úplně tomu nerozumím."},
+        {"en": "Could you speak more slowly?", "cz": "Mohl/a byste mluvit pomaleji?"},
+        {"en": "How do you spell that?", "cz": "Jak se to píše?"},
+        {"en": "What does this mean?", "cz": "Co to znamená?"},
+        {"en": "Could you write that down?", "cz": "Mohl/a byste to napsat?"},
+        {"en": "I'm looking for...", "cz": "Hledám..."},
+        {"en": "Excuse me, where is...?", "cz": "Promiňte, kde je...?"},
+        {"en": "Is there anyone who speaks Czech?", "cz": "Je tu někdo, kdo mluví česky?"}
+      ]
+    }
+  ]
+}

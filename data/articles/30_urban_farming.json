@@ -1,0 +1,26 @@
+{
+  "num": "30", "slug": "urban_farming",
+  "title": "Urban Farming — Growing Food in Cities",
+  "level": "⭐⭐⭐ B1 | Pre-Intermediate",
+  "topics": "food · environment · cities · innovation",
+  "description": "Městské zemědělství — jak cities pěstují vlastní potraviny.",
+  "article_text": "URBAN FARMING — GROWING FOOD IN CITIES\n\nThe global food system is one of the leading contributors to climate change, responsible for roughly a third of all greenhouse gas emissions. Much of this impact comes from the long supply chains — the thousands of miles that food travels from farm to fork. Urban farming offers one response to this challenge.\n\nUrban farming takes many forms. Community gardens in parks and vacant lots allow city dwellers to grow vegetables, herbs, and fruit. Rooftop farms use the vast unused space above buildings in dense cities. Vertical farms — multi-storey indoor facilities where crops are grown under artificial light — can produce enormous yields in tiny footprints and operate year-round regardless of climate.\n\nThe benefits extend beyond reducing food miles. Urban green spaces improve air quality, reduce urban heat island effects, support biodiversity, and provide mental health benefits to city residents. Community gardens build social connections across neighbourhoods. Vertical farms can be located in former industrial buildings, contributing to urban regeneration.\n\nThe challenges are real. Land in cities is expensive. Vertical farming, while efficient in terms of space, requires significant energy for lighting and climate control. And the scale of urban food production — even optimistically — could supply only a small fraction of a city's food needs.\n\nUrban farming is not a solution to the global food challenge. But as a complement to larger systemic changes — in agricultural methods, food waste, and dietary shifts — it plays a valuable role in making cities more resilient, connected, and liveable.",
+  "vocabulary": [
+    {"en": "supply chain", "cz": "dodavatelský řetězec"},
+    {"en": "food miles", "cz": "vzdálenost, kterou potraviny ujedou"},
+    {"en": "urban heat island", "cz": "tepelný ostrov (v městě)"},
+    {"en": "vertical farm", "cz": "vertikální farma"},
+    {"en": "yield", "cz": "výnos, produkce"},
+    {"en": "urban regeneration", "cz": "revitalizace měst"},
+    {"en": "resilient", "cz": "odolný, schopný adaptace"},
+    {"en": "complement", "cz": "doplněk, doplnit"}
+  ],
+  "examples": [
+    {"en": "What percentage of greenhouse gas emissions does the food system produce?", "cz": "Roughly a third (33%)."},
+    {"en": "Name three forms of urban farming mentioned.", "cz": "Community gardens, rooftop farms, vertical farms."},
+    {"en": "What are the non-food benefits of urban green spaces?", "cz": "Better air quality, reduced heat island effect, biodiversity, mental health, social connections."},
+    {"en": "What is the main challenge of vertical farming?", "cz": "High energy consumption for lighting and climate control."},
+    {"en": "What is the article's conclusion about urban farming?", "cz": "It's not a complete solution, but a valuable complement to larger systemic food system changes."}
+  ],
+  "tasks": ["1. Is there any community garden or urban farm near you? Write about it.", "2. Design a rooftop farm for a building in your city — what would you grow and why?", "3. Research: which city in the world leads in urban farming? What makes their approach successful?"]
+}

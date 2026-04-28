@@ -1,0 +1,26 @@
+{
+  "num": "26", "slug": "biodiversity",
+  "title": "The Biodiversity Crisis",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "environment · science · extinction · solutions",
+  "description": "Krize biodiverzity — proč je vymírání druhů stejně vážné jako klimatická změna.",
+  "article_text": "THE BIODIVERSITY CRISIS\n\nClimate change receives most of the environmental attention. But scientists argue that a parallel — and equally serious — crisis is unfolding largely unnoticed: the collapse of biodiversity.\n\nWe are currently experiencing what biologists call the sixth mass extinction event in Earth's history. The previous five were caused by asteroid impacts, volcanic eruptions, and other natural catastrophes. This one is caused by us. Species are disappearing at a rate estimated to be between 100 and 1,000 times higher than the natural background rate. Vertebrate populations have declined by an average of 69 percent since 1970, according to WWF's Living Planet Report.\n\nThe causes are well-documented: habitat destruction (primarily driven by agriculture and urban expansion), overexploitation through hunting and fishing, invasive species, pollution, and — increasingly — climate change itself. Tropical forests, wetlands, and coral reefs are particularly vulnerable.\n\nWhy does this matter beyond aesthetics? Ecosystems provide services on which human civilisation depends: pollination, water purification, carbon storage, flood regulation, and the natural checks on pest and disease populations. When biodiversity collapses, these services collapse with it.\n\nThe solutions require the same political will as climate action: protecting and restoring natural habitats, reforming agricultural practices, reducing consumption of animal products, and establishing international agreements with enforceable targets. The 2022 Kunming-Montreal Global Biodiversity Framework committed countries to protecting 30 percent of land and ocean by 2030 — an ambition that will require significant behavioural change to achieve.\n\nClimate and biodiversity are not separate crises. They are two facets of the same emergency.",
+  "vocabulary": [
+    {"en": "mass extinction event", "cz": "hromadné vymírání"},
+    {"en": "background rate", "cz": "přirozená míra (vymírání)"},
+    {"en": "vertebrate", "cz": "obratlovci"},
+    {"en": "overexploitation", "cz": "nadměrné využívání"},
+    {"en": "invasive species", "cz": "invazní druhy"},
+    {"en": "pollination", "cz": "opylování"},
+    {"en": "enforceable", "cz": "vymahatelný"},
+    {"en": "facet", "cz": "aspekt, stránka (problému)"}
+  ],
+  "examples": [
+    {"en": "What is the 'sixth mass extinction' and what causes it?", "cz": "The current extinction event — caused by human activity, unlike previous natural catastrophes."},
+    {"en": "By how much have vertebrate populations declined since 1970?", "cz": "By an average of 69 percent."},
+    {"en": "Name three ecosystem services that depend on biodiversity.", "cz": "Any three: pollination, water purification, carbon storage, flood regulation, pest control."},
+    {"en": "What did the 2022 Kunming-Montreal Framework commit to?", "cz": "Protecting 30% of land and ocean by 2030."},
+    {"en": "What is the article's final argument?", "cz": "Climate and biodiversity are two facets of the same emergency."}
+  ],
+  "tasks": ["1. Research: name three species that have gone extinct in the past 50 years", "2. Write about one thing you could change in your life to reduce your impact on biodiversity", "3. Write a short speech (200 words) to persuade a government to take biodiversity seriously"]
+}

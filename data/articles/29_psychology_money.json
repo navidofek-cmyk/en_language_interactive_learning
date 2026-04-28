@@ -1,0 +1,26 @@
+{
+  "num": "29", "slug": "psychology_money",
+  "title": "The Psychology of Money",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "finance · psychology · behaviour · decisions",
+  "description": "Psychologie peněz — proč se rozhodujeme iracionálně v otázkách financí.",
+  "article_text": "THE PSYCHOLOGY OF MONEY\n\nMost people believe they make rational decisions about money. Decades of behavioural economics research suggest otherwise.\n\nOne of the most powerful concepts in this field is loss aversion. Losing £100 feels roughly twice as bad as gaining £100 feels good, even though the financial outcome is identical. This asymmetry leads people to make poor decisions: holding onto failing investments too long to avoid realising a loss, or avoiding sensible risks because the potential downside looms larger than the equivalent upside.\n\nAnchoring is another pervasive bias. When we see a jacket marked down from £200 to £80, we feel we are getting a bargain — even if the true value of the jacket is £60. The initial price, however arbitrary, anchors our perception of value. Retailers exploit this constantly.\n\nMental accounting — the tendency to treat money differently depending on its source or intended use — leads to other distortions. People spend a tax refund more freely than regular income, even though the money is identical. They keep separate mental 'pots' for savings and debt, even when it would be financially rational to use savings to pay off high-interest debt.\n\nThe most important insight from behavioural economics may be the simplest: we are not purely rational actors. Understanding our biases does not eliminate them, but it gives us a chance to design systems — automatic savings, cooling-off periods before large purchases — that protect us from our own worst instincts.",
+  "vocabulary": [
+    {"en": "loss aversion", "cz": "averze ke ztrátě"},
+    {"en": "anchoring", "cz": "ukotvení (kognitivní zkreslení)"},
+    {"en": "mental accounting", "cz": "mentální účetnictví"},
+    {"en": "pervasive", "cz": "rozšířený, všudypřítomný"},
+    {"en": "asymmetry", "cz": "asymetrie"},
+    {"en": "arbitrary", "cz": "arbitrární, libovolný"},
+    {"en": "distortion", "cz": "zkreslení"},
+    {"en": "cooling-off period", "cz": "lhůta na rozmyšlení"}
+  ],
+  "examples": [
+    {"en": "What is loss aversion?", "cz": "Losing £100 feels ~twice as bad as gaining £100 feels good."},
+    {"en": "How does anchoring affect purchasing decisions?", "cz": "A reduced price from a high 'original' makes us feel we're getting a bargain, regardless of true value."},
+    {"en": "What is mental accounting?", "cz": "Treating money differently based on its source — e.g., spending a tax refund more freely."},
+    {"en": "What practical system does the article suggest?", "cz": "Automatic savings and cooling-off periods before large purchases."},
+    {"en": "What is the main insight from behavioural economics?", "cz": "We are not purely rational — understanding biases helps us design systems to protect against them."}
+  ],
+  "tasks": ["1. Describe a financial decision you regret — which bias might have influenced it?", "2. Design a personal 'anti-bias' system for spending: what rules would you set?", "3. Research: what is 'nudge theory' and how is it used in financial policy?"]
+}

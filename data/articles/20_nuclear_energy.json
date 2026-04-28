@@ -1,0 +1,26 @@
+{
+  "num": "20", "slug": "nuclear_energy",
+  "title": "Nuclear Energy — The Comeback",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "energy · environment · technology · debate",
+  "description": "Jaderná energie — návrat jako řešení klimatické krize?",
+  "article_text": "NUCLEAR ENERGY — THE COMEBACK\n\nFor two decades after the Chernobyl and Fukushima disasters, nuclear energy seemed to be in terminal decline. Plant closures outpaced new construction, public opinion was hostile, and renewable energy appeared to be the only path forward. Then something shifted.\n\nAs the urgency of the climate crisis has grown, a reassessment of nuclear power has begun — including among some environmentalists who had previously opposed it. The core argument is straightforward: nuclear generates large amounts of reliable, low-carbon electricity. Unlike solar and wind, it is not intermittent — it produces power regardless of weather conditions. A single nuclear plant can generate as much electricity as hundreds of wind turbines, on a much smaller land footprint.\n\nThe safety record of nuclear power, examined statistically, is better than its reputation. Per unit of energy produced, nuclear causes fewer deaths than coal, oil, gas, or even some renewable sources. The fear of catastrophic accidents, while understandable, reflects availability bias rather than statistical reality.\n\nThe objections are real, however. Nuclear waste remains radioactive for thousands of years and no country has yet found a permanent solution for its disposal. New nuclear plants are extraordinarily expensive to build and take many years to complete — time the climate does not have. And the association with nuclear weapons is a political and psychological barrier that is difficult to overcome.\n\nThe current consensus among energy experts is that nuclear should be part of the solution but cannot be the whole solution. The real question is whether it deserves a larger role than many climate policies currently assign it.",
+  "vocabulary": [
+    {"en": "terminal decline", "cz": "nevratný úpadek"},
+    {"en": "intermittent", "cz": "přerušovaný, nespolehlivý"},
+    {"en": "land footprint", "cz": "plocha půdy potřebná pro provoz"},
+    {"en": "availability bias", "cz": "kognitivní zkreslení dostupností"},
+    {"en": "radioactive waste", "cz": "radioaktivní odpad"},
+    {"en": "disposal", "cz": "likvidace, uložení"},
+    {"en": "reassessment", "cz": "přehodnocení"},
+    {"en": "per unit of energy", "cz": "na jednotku energie"}
+  ],
+  "examples": [
+    {"en": "What is the core argument for nuclear power?", "cz": "It generates reliable, low-carbon electricity regardless of weather."},
+    {"en": "How does nuclear's safety record compare statistically?", "cz": "Per unit of energy, nuclear causes fewer deaths than coal, oil, or gas."},
+    {"en": "What does 'availability bias' mean in this context?", "cz": "We overestimate nuclear risk because disasters are memorable, not because they're common."},
+    {"en": "Name two major objections to nuclear energy.", "cz": "Radioactive waste with no permanent disposal solution; high cost and long construction time."},
+    {"en": "What is the current expert consensus on nuclear?", "cz": "It should be part of the solution but cannot be the whole solution."}
+  ],
+  "tasks": ["1. Write a paragraph arguing FOR nuclear energy as a climate solution", "2. Research: which countries are building new nuclear plants? Which are closing them?", "3. Debate: 'Nuclear energy is too dangerous to be part of our energy future.'"]
+}

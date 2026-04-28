@@ -1,0 +1,26 @@
+{
+  "num": "28", "slug": "immigration",
+  "title": "Immigration — Facts and Fears",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "society · politics · economics · identity",
+  "description": "Imigrace — fakta, obavy a ekonomická realita.",
+  "article_text": "IMMIGRATION — FACTS AND FEARS\n\nImmigration is one of the most politically charged topics in contemporary democracies. The debate is often conducted at a high emotional temperature and a low factual level. A closer look at the evidence reveals a more complex picture than either side typically acknowledges.\n\nThe economic evidence on immigration is broadly positive. Immigrants tend to be disproportionately entrepreneurial — they start businesses, create jobs, and pay taxes. Studies consistently show that immigration increases GDP and that immigrants, taken as a group, contribute more in taxes than they receive in benefits. High-skilled immigration in particular has been a major driver of innovation: a disproportionate share of Nobel Prize winners, patent holders, and technology company founders in the United States are immigrants or the children of immigrants.\n\nThe picture at the lower end of the skills spectrum is more nuanced. There is evidence that low-skilled immigration can exert modest downward pressure on wages for some workers already in the lower-wage labour market. The communities that bear this pressure are often those with the fewest resources to absorb it.\n\nCulturally, the evidence on integration is mixed. Successful integration requires investment — in language training, housing, education, and social infrastructure — that many host societies have been reluctant to make. Without it, parallel communities can develop, fuelling resentment on both sides.\n\nThe debate benefits from more facts and less fear. Neither the nativist claim that immigration is purely harmful nor the liberal claim that borders should be irrelevant captures the genuine complexity of the challenge.",
+  "vocabulary": [
+    {"en": "politically charged", "cz": "politicky citlivý"},
+    {"en": "entrepreneurial", "cz": "podnikatelský"},
+    {"en": "disproportionate", "cz": "neúměrný, nepřiměřený"},
+    {"en": "nuanced", "cz": "nuancovaný"},
+    {"en": "integration", "cz": "integrace"},
+    {"en": "nativist", "cz": "nativistický (pro-místní)"},
+    {"en": "resentment", "cz": "zášť, nelibost"},
+    {"en": "host society", "cz": "přijímající společnost"}
+  ],
+  "examples": [
+    {"en": "What does the economic evidence on immigration generally show?", "cz": "Immigrants increase GDP, are entrepreneurial, and contribute more in taxes than they receive."},
+    {"en": "Where does the more complex picture emerge?", "cz": "At the lower end of the skills spectrum — modest downward wage pressure for low-wage workers."},
+    {"en": "What is needed for successful integration?", "cz": "Investment in language training, housing, education, and social infrastructure."},
+    {"en": "What does the article say about the debate?", "cz": "It needs more facts and less fear — neither extreme captures the complexity."},
+    {"en": "Name one field where immigrant contribution is disproportionately high.", "cz": "Technology, Nobel Prizes, patents — or business creation."}
+  ],
+  "tasks": ["1. Write about a way immigration has affected your country or city", "2. Find one statistic about immigration in the Czech Republic — explain it in English", "3. Write a balanced 200-word discussion: 'Open borders would benefit everyone'"]
+}

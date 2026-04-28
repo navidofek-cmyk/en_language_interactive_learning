@@ -1,0 +1,26 @@
+{
+  "num": "21", "slug": "loneliness",
+  "title": "The Loneliness Epidemic",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "health · society · relationships · modern life",
+  "description": "Epidemie osamělosti — proč jsme navzdory připojenosti stále osamělejší.",
+  "article_text": "THE LONELINESS EPIDEMIC\n\nIn 2018, the United Kingdom became the first country in the world to appoint a Minister for Loneliness. The decision reflected growing evidence that loneliness had become a serious public health problem — one that affects not just the elderly, but people of all ages.\n\nLoneliness is not the same as being alone. Many people choose solitude and thrive in it. Loneliness is the painful gap between the social connection a person wants and the connection they actually have. By this definition, surveys suggest that between 20 and 40 percent of adults in developed countries experience significant loneliness at some point.\n\nThe health consequences are severe. Chronic loneliness has been linked to increased risks of heart disease, stroke, dementia, and premature death. A landmark meta-analysis found that social isolation increases mortality risk by around 29 percent — comparable to smoking 15 cigarettes a day.\n\nThe causes are complex. Urbanisation, longer working hours, the breakdown of traditional community structures, and increased geographic mobility all play a role. Social media presents a paradox: while it connects people superficially, research suggests heavy use is associated with greater feelings of isolation rather than less.\n\nAddressing loneliness requires both individual and societal responses. Community spaces, befriending programmes, and urban design that encourages spontaneous social interaction have all shown promise. But so too has something simpler: the practice of genuinely paying attention to the people around us.",
+  "vocabulary": [
+    {"en": "solitude", "cz": "samota (dobrovolná)"},
+    {"en": "chronic loneliness", "cz": "chronická osamělost"},
+    {"en": "meta-analysis", "cz": "metaanalýza (souhrnná studie)"},
+    {"en": "mortality risk", "cz": "riziko úmrtí"},
+    {"en": "geographic mobility", "cz": "geografická mobilita"},
+    {"en": "superficially", "cz": "povrchně"},
+    {"en": "befriending programme", "cz": "program přátelství a podpory"},
+    {"en": "spontaneous", "cz": "spontánní, přirozený"}
+  ],
+  "examples": [
+    {"en": "What is the difference between loneliness and being alone?", "cz": "Being alone is a choice; loneliness is a painful gap between desired and actual social connection."},
+    {"en": "What percentage of adults experience significant loneliness?", "cz": "Between 20 and 40 percent in developed countries."},
+    {"en": "How does loneliness compare to smoking in terms of health risk?", "cz": "Social isolation increases mortality by ~29% — comparable to smoking 15 cigarettes daily."},
+    {"en": "What paradox does social media present?", "cz": "It connects superficially but heavy use is associated with greater isolation."},
+    {"en": "Name two societal responses to loneliness mentioned.", "cz": "Community spaces, befriending programmes, urban design for social interaction."}
+  ],
+  "tasks": ["1. Write about a time when you felt lonely — what caused it and how did it resolve?", "2. Design a community programme to reduce loneliness in your neighbourhood", "3. Discuss: Is social media making us more or less lonely? Use evidence."]
+}

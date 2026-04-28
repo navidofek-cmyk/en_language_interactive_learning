@@ -1,0 +1,26 @@
+{
+  "num": "23", "slug": "reading_habits",
+  "title": "Why We Should Read More",
+  "level": "⭐⭐ A2–B1 | Elementary",
+  "topics": "education · habits · health · technology",
+  "description": "Proč číst více — výzkum o přínosech čtení knih.",
+  "article_text": "WHY WE SHOULD READ MORE\n\nIn an age of social media, streaming, and short-form video, reading books has become increasingly rare. A 2022 survey found that more than a quarter of American adults had not read a single book in the previous year. The trend is similar across Europe. And yet the evidence for the benefits of reading is remarkably strong.\n\nReading fiction, in particular, develops empathy. When we follow a character through their experiences, fears, and decisions, we practice seeing the world through someone else's eyes. Research by psychologist Raymond Mar found that people who read more fiction score consistently higher on tests of empathy and social understanding — skills that matter profoundly in personal and professional life.\n\nReading also builds vocabulary and general knowledge in ways that passive media consumption does not. The language in books is richer and more varied than in conversation or even in films. Studies suggest that regular readers have vocabularies two to three times larger than non-readers of similar intelligence and education.\n\nFor mental health, reading offers what researchers call 'bibliotherapy' — the use of books to reduce stress and anxiety. Just six minutes of reading has been shown to reduce stress levels by 68 percent — more effectively than listening to music or taking a walk.\n\nThe challenge is finding the time and forming the habit. The advice from researchers is simple: start small. Ten minutes before sleep is enough. The key is consistency, not quantity.\n\nThe best time to start reading was twenty years ago. The second best time is tonight.",
+  "vocabulary": [
+    {"en": "empathy", "cz": "empatie"},
+    {"en": "short-form video", "cz": "krátká videa (TikTok apod.)"},
+    {"en": "passive consumption", "cz": "pasivní konzumace"},
+    {"en": "bibliotherapy", "cz": "biblioterapie (léčba knihami)"},
+    {"en": "consistency", "cz": "důslednost, pravidelnost"},
+    {"en": "profoundly", "cz": "hluboce, zásadně"},
+    {"en": "trend", "cz": "trend"},
+    {"en": "remarkably", "cz": "pozoruhodně, nápadně"}
+  ],
+  "examples": [
+    {"en": "What percentage of Americans had not read a book in the previous year?", "cz": "More than a quarter (25%+)."},
+    {"en": "How does reading fiction develop empathy?", "cz": "By practising seeing the world through another character's eyes."},
+    {"en": "How much larger is a regular reader's vocabulary?", "cz": "Two to three times larger than non-readers of similar background."},
+    {"en": "What is bibliotherapy and what effect does reading have on stress?", "cz": "Using books therapeutically — 6 minutes of reading reduces stress by 68%."},
+    {"en": "What advice do researchers give about forming a reading habit?", "cz": "Start small — 10 minutes before sleep, focus on consistency not quantity."}
+  ],
+  "tasks": ["1. Write about a book that influenced you — what did you learn from it?", "2. Set a reading goal: read for 10 minutes every day this week. Keep a log in English.", "3. Recommend a book to a friend in English — write a short review (80 words)"]
+}

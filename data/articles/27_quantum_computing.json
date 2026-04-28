@@ -1,0 +1,26 @@
+{
+  "num": "27", "slug": "quantum_computing",
+  "title": "Quantum Computing — The Next Revolution",
+  "level": "⭐⭐⭐⭐⭐ C1 | Advanced",
+  "topics": "technology · science · future · encryption",
+  "description": "Kvantové počítání — co je, proč je revoluční a proč je nebezpečné.",
+  "article_text": "QUANTUM COMPUTING — THE NEXT REVOLUTION\n\nConventional computers operate on bits — binary units that exist as either 0 or 1. Quantum computers operate on qubits, which exploit the principles of quantum mechanics to exist in multiple states simultaneously — a property called superposition. Combined with another quantum phenomenon called entanglement, this allows quantum computers to process certain types of calculations at speeds that are, in principle, exponentially faster than anything classical computers can achieve.\n\nThe practical implications are profound. Drug discovery could be transformed: quantum computers could simulate molecular interactions at a level of detail that classical computers cannot approach, potentially accelerating the development of new medicines by years or decades. Climate modelling, materials science, financial optimisation, and logistics are among the other fields that could be revolutionised.\n\nBut quantum computing also poses serious threats. The encryption systems that protect most of the world's digital communications — banking, government, personal data — rely on mathematical problems that classical computers would take thousands of years to solve. A sufficiently powerful quantum computer could solve them in hours. This prospect, sometimes called 'Q-day', is taken seriously by intelligence agencies and cybersecurity experts.\n\nThe race to build a practical, large-scale quantum computer is intensely competitive, with major investments from governments, technology companies, and startups worldwide. No one has yet built a machine powerful enough to threaten current encryption, but the timeline is uncertain.\n\nQuantum computing is not an imminent consumer technology. But its implications — for medicine, for security, for the balance of global power — are sufficiently significant to warrant close attention now.",
+  "vocabulary": [
+    {"en": "qubit", "cz": "qubit (kvantový bit)"},
+    {"en": "superposition", "cz": "superpozice (kvantová)"},
+    {"en": "entanglement", "cz": "kvantové provázání"},
+    {"en": "exponentially", "cz": "exponenciálně"},
+    {"en": "encryption", "cz": "šifrování"},
+    {"en": "Q-day", "cz": "Q-den (den kdy kvantový počítač prolomí šifrování)"},
+    {"en": "imminent", "cz": "bezprostřední, blízký"},
+    {"en": "warrant attention", "cz": "zaslouhat si pozornost"}
+  ],
+  "examples": [
+    {"en": "What is superposition?", "cz": "The ability of a qubit to exist in multiple states simultaneously."},
+    {"en": "Name two fields that quantum computing could transform.", "cz": "Any two: drug discovery, climate modelling, materials science, financial optimisation, logistics."},
+    {"en": "What is 'Q-day'?", "cz": "The moment when a quantum computer becomes powerful enough to break current encryption."},
+    {"en": "Why is current encryption vulnerable to quantum computers?", "cz": "It relies on maths problems that classical computers can't solve — but quantum computers could."},
+    {"en": "Is quantum computing an imminent consumer technology?", "cz": "No — but its implications for medicine, security, and global power are already significant."}
+  ],
+  "tasks": ["1. Explain quantum superposition in your own words to a non-technical friend", "2. Research: which companies are leading the quantum computing race?", "3. Write a short scenario: what would happen on 'Q-day' if it arrived suddenly?"]
+}

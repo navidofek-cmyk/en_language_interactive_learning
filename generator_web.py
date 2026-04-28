@@ -303,6 +303,22 @@ function setScore(s,score,total){ const p=getScore(s); if(!p||score>=p.score){ l
 function checkStreak(){ const today=new Date().toISOString().slice(0,10); const d=JSON.parse(localStorage.getItem('streak_data')||'{"days":[],"longest":0}'); if(!d.days.includes(today)){ d.days.push(today); d.days.sort(); let s=1; for(let i=d.days.length-2;i>=0;i--){ const a=new Date(d.days[i]),b=new Date(d.days[i+1]); if((b-a)/86400000===1)s++; else break; } d.longest=Math.max(d.longest||0,s); localStorage.setItem('streak_data',JSON.stringify(d)); } }
 checkStreak();
 
+// ─ XP & Badges ─
+function getAllXP(){ return parseInt(localStorage.getItem('total_xp')||'0'); }
+function addXP(amount){ const cur=getAllXP(); localStorage.setItem('total_xp',cur+amount); checkBadges(); }
+const BADGES=[
+  {id:'first_quiz',label:'First Quiz',icon:'🎯',check:()=>getAllXP()>=5},
+  {id:'streak_3',label:'3-day Streak',icon:'🔥',check:()=>{ const d=JSON.parse(localStorage.getItem('streak_data')||'{"longest":0}'); return (d.longest||0)>=3; }},
+  {id:'streak_7',label:'7-day Streak',icon:'⚡',check:()=>{ const d=JSON.parse(localStorage.getItem('streak_data')||'{"longest":0}'); return (d.longest||0)>=7; }},
+  {id:'xp_100',label:'100 XP',icon:'💯',check:()=>getAllXP()>=100},
+  {id:'xp_500',label:'500 XP',icon:'🏆',check:()=>getAllXP()>=500},
+  {id:'xp_1000',label:'Master',icon:'🌟',check:()=>getAllXP()>=1000},
+];
+function checkBadges(){ BADGES.forEach(b=>{ if(b.check()&&!localStorage.getItem('badge_'+b.id)){ localStorage.setItem('badge_'+b.id,'1'); showBadgeToast(b); } }); }
+function showBadgeToast(badge){ const t=document.createElement('div'); t.style.cssText='position:fixed;bottom:1.5rem;right:1.5rem;background:var(--surface);border:1px solid var(--yellow);border-radius:10px;padding:.8rem 1.2rem;z-index:9999;font-size:.9rem;box-shadow:var(--shadow);animation:fadeIn .3s ease'; t.innerHTML=badge.icon+' <strong>Badge unlocked: '+badge.label+'</strong>'; document.body.appendChild(t); setTimeout(()=>t.remove(),3500); }
+function renderBadges(){ const el=document.getElementById('badges-row'); if(!el) return; BADGES.forEach(b=>{ const earned=localStorage.getItem('badge_'+b.id); const span=document.createElement('span'); span.title=b.label; span.style.cssText='font-size:1.5rem;opacity:'+(earned?'1':'.25')+';cursor:default'; span.textContent=b.icon; el.appendChild(span); }); }
+checkBadges();
+
 // ─ Audio pronunciation ─
 function speak(text){
   if(!('speechSynthesis' in window)) return;
@@ -345,15 +361,61 @@ function installPWA(){
 """
 
 JS_INDEX = """
+// Search
 const s=document.getElementById('search-input');
-if(s){ s.addEventListener('input',()=>{ const q=s.value.toLowerCase(); document.querySelectorAll('.card').forEach(c=>{ c.style.display=(!q||c.textContent.toLowerCase().includes(q))?'':'none'; }); }); }
-document.querySelectorAll('.progress-fill[data-slug]').forEach(f=>{ const sc=getScore(f.dataset.slug); if(sc) f.style.width=Math.round(sc.score/sc.total*100)+'%'; });
+if(s){ s.addEventListener('input',filter); }
+
+// Level filter
+let activeLevel='all';
+document.querySelectorAll('.lvl-btn').forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    document.querySelectorAll('.lvl-btn').forEach(b=>b.classList.remove('btn-accent'));
+    btn.classList.add('btn-accent');
+    activeLevel = btn.dataset.level;
+    filter();
+  });
+});
+
+function filter(){
+  const q = s ? s.value.toLowerCase() : '';
+  document.querySelectorAll('.card').forEach(c=>{
+    const text = c.textContent.toLowerCase();
+    const level = (c.dataset.level||'').toLowerCase();
+    const matchQ = !q || text.includes(q);
+    const matchL = activeLevel==='all' || level.includes(activeLevel.toLowerCase());
+    c.style.display = (matchQ && matchL) ? '' : 'none';
+  });
+}
+
+// Progress bars
+document.querySelectorAll('.progress-fill[data-slug]').forEach(f=>{
+  const sc=getScore(f.dataset.slug); if(sc) f.style.width=Math.round(sc.score/sc.total*100)+'%';
+});
+
+// Word of the day
+const wotd = window.WOTD;
+if(wotd){
+  const el = document.getElementById('wotd-word');
+  const cz = document.getElementById('wotd-cz');
+  if(el) el.textContent = wotd.en;
+  if(cz) cz.textContent = wotd.cz;
+}
+
+// XP display
+const xp = getAllXP();
+const xpEl = document.getElementById('hero-xp');
+if(xpEl) xpEl.textContent = xp + ' XP';
+
+// Badges
+renderBadges();
 """
 
 JS_LESSON = """
 function toggleCz(btn){ const td=btn.closest('tr').querySelector('.vocab-cz'); if(td.classList.contains('hidden-cz')){ td.classList.remove('hidden-cz'); btn.textContent='Hide'; } else { td.classList.add('hidden-cz'); btn.textContent='Show'; } }
 function toggleAllCz(){ const all=document.querySelectorAll('.vocab-cz'); const h=[...all].every(t=>t.classList.contains('hidden-cz')); all.forEach(t=>{ h?t.classList.remove('hidden-cz'):t.classList.add('hidden-cz'); }); document.getElementById('toggle-all-btn').textContent=h?'Hide all':'Show all'; }
 function showModelAnswer(btn){ const el=btn.nextElementSibling; if(el){ el.style.display='block'; btn.style.display='none'; } }
+
+// ─ Quiz ─
 const QUIZ=window.QUIZ_DATA||[]; let qIdx=0,correct=0;
 function escH(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
 function renderQuiz(){ const c=document.getElementById('quiz-area'); if(!c||!QUIZ.length) return; if(qIdx>=QUIZ.length){ showScore(); return; } const q=QUIZ[qIdx]; c.innerHTML=''; const div=document.createElement('div'); div.className='quiz-q';
@@ -362,8 +424,50 @@ function renderQuiz(){ const c=document.getElementById('quiz-area'); if(!c||!QUI
   c.appendChild(div); }
 function checkMC(btn,chosen,ans,div){ div.querySelectorAll('.quiz-opt').forEach(b=>{ b.disabled=true; if(b.textContent===ans) b.classList.add('correct'); }); if(chosen===ans){btn.classList.add('correct');correct++;} else btn.classList.add('wrong'); qIdx++; setTimeout(renderQuiz,900); }
 function checkFill(){ const inp=document.getElementById('fi'); const fb=document.getElementById('fb'); if(!inp)return; const q=QUIZ[qIdx]; const ok=inp.value.trim().toLowerCase()===q.answer.toLowerCase(); if(ok){fb.innerHTML='<span style="color:var(--green)">✓ Correct!</span>';correct++;} else{fb.innerHTML='<span style="color:var(--red)">✗ Answer: <strong>'+escH(q.answer)+'</strong></span>';} inp.disabled=true; inp.closest('.fill-blank').querySelector('.check-btn').disabled=true; qIdx++; setTimeout(renderQuiz,1000); }
-function showScore(){ const c=document.getElementById('quiz-area'); if(!c)return; const pct=Math.round(correct/QUIZ.length*100); const msg=pct>=90?'🏆 Excellent!':pct>=70?'👍 Good job!':pct>=50?'📖 Keep practising!':'💪 Review and try again!'; c.innerHTML='<div class="quiz-score"><div class="score-num">'+correct+'/'+QUIZ.length+'</div><div class="score-pct">'+pct+'%</div><div class="score-msg">'+msg+'</div><button class="btn btn-accent" style="margin-top:.8rem" onclick="restartQuiz()">Restart</button></div>'; setScore(window.LESSON_SLUG,correct,QUIZ.length); }
+function showScore(){ const c=document.getElementById('quiz-area'); if(!c)return; const pct=Math.round(correct/QUIZ.length*100); const msg=pct>=90?'🏆 Excellent!':pct>=70?'👍 Good job!':pct>=50?'📖 Keep practising!':'💪 Review and try again!'; const xpGain=pct>=90?20:pct>=70?10:5; addXP(xpGain); c.innerHTML='<div class="quiz-score"><div class="score-num">'+correct+'/'+QUIZ.length+'</div><div class="score-pct">'+pct+'%</div><div class="score-msg">'+msg+'</div><div style="color:var(--yellow);font-size:.85rem;margin-top:.4rem">+'+xpGain+' XP earned!</div><button class="btn btn-accent" style="margin-top:.8rem" onclick="restartQuiz()">Restart</button></div>'; setScore(window.LESSON_SLUG,correct,QUIZ.length); }
 function restartQuiz(){ qIdx=0; correct=0; renderQuiz(); }
+
+// ─ Listening mode ─
+let listening=false, uttIdx=0, utterances=[];
+function buildUtterances(){
+  utterances=[];
+  document.querySelectorAll('.bubble').forEach(b=>{
+    const text=b.querySelector('.bubble-speaker')?.textContent+': '+b.lastChild?.textContent?.trim();
+    if(text){ const u=new SpeechSynthesisUtterance(b.lastChild?.textContent?.trim()||''); u.lang='en-GB'; u.rate=0.85; utterances.push(u); }
+  });
+}
+function playDialogue(){
+  if(!('speechSynthesis' in window)) return;
+  window.speechSynthesis.cancel(); buildUtterances(); uttIdx=0;
+  function playNext(){ if(uttIdx>=utterances.length){ listening=false; const btn=document.getElementById('listen-btn'); if(btn) btn.textContent='🔊 Listen'; return; } const u=utterances[uttIdx++]; u.onend=playNext; window.speechSynthesis.speak(u); }
+  playNext(); listening=true; const btn=document.getElementById('listen-btn'); if(btn) btn.textContent='⏹ Stop';
+}
+function stopDialogue(){ window.speechSynthesis.cancel(); listening=false; const btn=document.getElementById('listen-btn'); if(btn) btn.textContent='🔊 Listen'; }
+function toggleListen(){ listening?stopDialogue():playDialogue(); }
+
+// ─ Notes ─
+const notesKey = 'notes_'+(window.LESSON_SLUG||'');
+const notesEl = document.getElementById('lesson-notes');
+if(notesEl){
+  notesEl.value = localStorage.getItem(notesKey)||'';
+  notesEl.addEventListener('input',()=>localStorage.setItem(notesKey, notesEl.value));
+}
+
+// ─ Mark as done ─
+function markDone(){
+  const key='done_'+(window.LESSON_SLUG||'');
+  const done=localStorage.getItem(key)==='1';
+  if(!done){ localStorage.setItem(key,'1'); addXP(5); }
+  const btn=document.getElementById('done-btn');
+  if(btn){ btn.textContent=done?'☐ Mark done':'✅ Done!'; btn.classList.toggle('btn-accent',!done); }
+}
+function initDoneBtn(){
+  const btn=document.getElementById('done-btn'); if(!btn) return;
+  const done=localStorage.getItem('done_'+(window.LESSON_SLUG||''))==='1';
+  btn.textContent=done?'✅ Done!':'☐ Mark done'; if(done) btn.classList.add('btn-accent');
+}
+initDoneBtn();
+
 renderQuiz();
 """
 
@@ -474,7 +578,9 @@ def page(title, body, js_extra="", back="index.html"):
     {"" if back=="index.html" else f'<a href="{up}index.html" class="btn">← Home</a>'}
     <a href="{up}flashkarty.html" class="btn">🎴 Flashcards</a>
     <a href="{up}pokrok.html" class="btn">📊 Progress</a>
-    <a href="{up}slovnik.html" class="btn">📖 Vocab</a>
+    <a href="{up}review.html" class="btn">🔄 Review</a>
+    <a href="{up}gramatika.html" class="btn">📚 Grammar</a>
+    <a href="{up}phrasebook.html" class="btn">💬 Phrases</a>
     <button class="btn" id="theme-btn">☀️ Light</button>
   </div>
 </header>
@@ -515,7 +621,7 @@ def build_index(lessons, articles):
         if not cards: continue
         grid = ""
         for les in cards:
-            grid += f"""<a class="card" href="lekce/{les['slug']}.html" data-slug="{les['slug']}">
+            grid += f"""<a class="card" href="lekce/{les['slug']}.html" data-slug="{les['slug']}" data-level="{esc(les['level'])}">
   <div class="card-num">Lesson {les['num']}</div>
   <div class="card-title">{esc(les['title'])}</div>
   <div class="card-level">{esc(les['level'])}</div>
@@ -555,18 +661,48 @@ def build_index(lessons, articles):
   <button class="btn" onclick="document.getElementById('pwa-banner').style.display='none'">✕</button>
 </div>"""
 
+    # word of the day from all vocab
+    import datetime
+    all_vocab = []
+    for l in lessons:
+        all_vocab.extend(l.get("vocabulary", []))
+    wotd = all_vocab[datetime.date.today().timetuple().tm_yday % len(all_vocab)] if all_vocab else {"en": "hello", "cz": "ahoj"}
+
+    level_filters = """<div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1.2rem;align-items:center">
+  <span style="font-size:.8rem;color:var(--muted)">Level:</span>
+  <button class="btn lvl-btn btn-accent" data-level="all">All</button>
+  <button class="btn lvl-btn" data-level="A1">A1</button>
+  <button class="btn lvl-btn" data-level="A2">A2</button>
+  <button class="btn lvl-btn" data-level="B1">B1</button>
+  <button class="btn lvl-btn" data-level="B2">B2</button>
+  <button class="btn lvl-btn" data-level="C1">C1</button>
+  <button class="btn lvl-btn" data-level="C2">C2</button>
+</div>"""
+
+    wotd_card = f"""<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:.8rem 1.2rem;margin-bottom:1.2rem;display:flex;align-items:center;gap:1rem;box-shadow:var(--shadow-sm)">
+  <span style="font-size:1.6rem">📖</span>
+  <div>
+    <div style="font-size:.72rem;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:.05em">Word of the day</div>
+    <div style="font-weight:700;font-size:1.1rem" id="wotd-word">{esc(wotd["en"])}</div>
+    <div style="color:var(--muted);font-size:.85rem" id="wotd-cz">{esc(wotd["cz"])}</div>
+  </div>
+  <button class="audio-btn" style="font-size:1.2rem;margin-left:auto" onclick="speak('{esc(wotd['en'])}')">🔊</button>
+</div>"""
+
     hero = f"""<div class="hero">
   <h1>English Interactive Course</h1>
   <p class="hero-sub">Czech → English · A1 to C2 · Interactive quizzes · Runs entirely in your browser</p>
   <div class="hero-stats">
     <div class="stat"><span class="stat-num">{len(lessons)}</span><span class="stat-label">Lessons</span></div>
     <div class="stat"><span class="stat-num">{len(articles)}</span><span class="stat-label">Articles</span></div>
-    <div class="stat"><span class="stat-num">A1–C2</span><span class="stat-label">All levels</span></div>
-    <div class="stat"><span class="stat-num">0</span><span class="stat-label">Python needed</span></div>
+    <div class="stat"><span class="stat-num" id="hero-xp">0 XP</span><span class="stat-label">Your XP</span></div>
+    <div class="stat" style="flex:1"><span style="font-size:.85rem;display:flex;gap:.3rem;flex-wrap:wrap" id="badges-row"></span></div>
   </div>
 </div>
 {pwa_banner}
-{daily_card}"""
+{wotd_card}
+{daily_card}
+{level_filters}"""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -630,7 +766,8 @@ def build_lesson(les, prev_l, next_l, total):
         for d in les["dialogue"]:
             cls = "bubble-a" if d["speaker"] in ("A","Waiter","Doctor","Assistant","Interviewer","Teacher") else "bubble-b"
             bubbles += f'<div class="bubble {cls}"><div class="bubble-speaker">{esc(d["speaker"])}</div>{esc(d["text"])}</div>\n'
-        dialogue_sec = f'<div class="section"><h2>💬 Dialogue</h2><div class="dialogue">{bubbles}</div></div>'
+        listen_btn = '<button id="listen-btn" class="btn" style="font-size:.8rem" onclick="toggleListen()">🔊 Listen</button>'
+        dialogue_sec = f'<div class="section"><h2>💬 Dialogue {listen_btn}</h2><div class="dialogue">{bubbles}</div></div>'
 
     # notes
     notes_sec = ""
@@ -666,6 +803,11 @@ def build_lesson(les, prev_l, next_l, total):
     prev_link = f'<a href="{prev_l["slug"]}.html">← {esc(prev_l["title"])}</a>' if prev_l else "<span></span>"
     next_link = f'<a href="{next_l["slug"]}.html">{esc(next_l["title"])} →</a>' if next_l else "<span></span>"
 
+    notes_sec = """<div class="section">
+<h2>📝 My Notes</h2>
+<textarea id="lesson-notes" placeholder="Write your notes here — saved automatically..." style="width:100%;min-height:80px;background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:.6rem .8rem;border-radius:8px;font-size:.87rem;font-family:inherit;resize:vertical;outline:none"></textarea>
+</div>"""
+
     body = f"""
 <div class="lesson-header">
   <h1>{esc(les['title'])}</h1>
@@ -683,6 +825,10 @@ def build_lesson(les, prev_l, next_l, total):
 </div>
 {('<div class="desc-box">'+esc(les['description'])+'</div>') if les.get('description') else ''}
 {vocab_sec}{dialogue_sec}{notes_sec}{examples_sec}{quiz_sec}{tasks_sec}
+{notes_sec}
+<div style="display:flex;gap:.5rem;margin-bottom:1rem">
+  <button id="done-btn" class="btn" style="font-size:.82rem" onclick="markDone()">☐ Mark done</button>
+</div>
 <div class="lesson-nav">{prev_link}{next_link}</div>
 """
     js = f"window.LESSON_SLUG='{les['slug']}';\nwindow.QUIZ_DATA={json.dumps(quiz_data,ensure_ascii=False)};\n{JS_LESSON}"
@@ -829,6 +975,123 @@ def build_vocab(lessons):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def build_grammar_page():
+    data_path = pathlib.Path("data/gramatika.json")
+    if not data_path.exists():
+        return page("Grammar", "<p>Grammar tables coming soon.</p>")
+    d = json.loads(data_path.read_text(encoding="utf-8"))
+
+    # Tenses table
+    tense_rows = "".join(
+        f'<tr><td><strong>{esc(t["name"])}</strong></td>'
+        f'<td><code>{esc(t["form"])}</code></td>'
+        f'<td>{esc(t["use"])}</td>'
+        f'<td>{esc(t["example"])}</td>'
+        f'<td style="color:var(--muted)">{esc(t["czech"])}</td></tr>'
+        for t in d.get("tenses", [])
+    )
+    tenses_html = f"""<div class="section"><h2>📅 Verb Tenses</h2>
+<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:.83rem">
+<thead><tr style="border-bottom:2px solid var(--border)">
+  <th style="text-align:left;padding:.4rem">Tense</th>
+  <th style="text-align:left;padding:.4rem">Form</th>
+  <th style="text-align:left;padding:.4rem">Use</th>
+  <th style="text-align:left;padding:.4rem">Example</th>
+  <th style="text-align:left;padding:.4rem">Czech</th>
+</tr></thead><tbody>{tense_rows}</tbody></table></div></div>"""
+
+    # Irregular verbs
+    irr_rows = "".join(
+        f'<tr><td><button class="audio-btn" onclick="speak(\'{esc(v["base"])}\')">🔊</button>'
+        f'<strong>{esc(v["base"])}</strong></td>'
+        f'<td>{esc(v["past"])}</td><td>{esc(v["pp"])}</td></tr>'
+        for v in d.get("irregular_verbs", [])
+    )
+    irr_html = f"""<div class="section"><h2>🔤 Irregular Verbs ({len(d.get("irregular_verbs",[]))} most common)</h2>
+<input id="irr-search" type="search" placeholder="🔍 Filter..." style="margin-bottom:.8rem;background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:.35rem .8rem;border-radius:8px;font-size:.85rem;outline:none;width:200px">
+<div style="overflow-x:auto"><table id="irr-table" style="width:100%;border-collapse:collapse;font-size:.85rem">
+<thead><tr style="border-bottom:2px solid var(--border)"><th style="text-align:left;padding:.3rem">Base</th><th style="text-align:left;padding:.3rem">Past Simple</th><th style="text-align:left;padding:.3rem">Past Participle</th></tr></thead>
+<tbody>{irr_rows}</tbody></table></div></div>"""
+
+    # Modal verbs
+    mod_rows = "".join(
+        f'<tr><td><strong>{esc(m["modal"])}</strong></td>'
+        f'<td>{esc(m["use"])}</td>'
+        f'<td style="color:var(--muted);font-style:italic">{esc(m["example"])}</td></tr>'
+        for m in d.get("modals", [])
+    )
+    mod_html = f"""<div class="section"><h2>⚙️ Modal Verbs</h2>
+<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:.85rem">
+<thead><tr style="border-bottom:2px solid var(--border)"><th style="text-align:left;padding:.3rem">Modal</th><th style="text-align:left;padding:.3rem">Use</th><th style="text-align:left;padding:.3rem">Example</th></tr></thead>
+<tbody>{mod_rows}</tbody></table></div></div>"""
+
+    irr_js = """
+const irrSearch=document.getElementById('irr-search');
+if(irrSearch){ irrSearch.addEventListener('input',()=>{ const q=irrSearch.value.toLowerCase(); document.querySelectorAll('#irr-table tbody tr').forEach(r=>{ r.style.display=!q||r.textContent.toLowerCase().includes(q)?'':'none'; }); }); }
+"""
+    body = f"""<h1 style="font-size:1.3rem;font-weight:700;margin-bottom:1.5rem">📚 Grammar Reference</h1>
+{tenses_html}{irr_html}{mod_html}"""
+    return page("Grammar Reference", body, js_extra=irr_js)
+
+
+def build_phrasebook_page():
+    data_path = pathlib.Path("data/phrasebook.json")
+    if not data_path.exists():
+        return page("Phrasebook", "<p>Phrasebook coming soon.</p>")
+    d = json.loads(data_path.read_text(encoding="utf-8"))
+
+    cats_html = ""
+    for cat in d.get("categories", []):
+        rows = "".join(
+            f'<div style="display:flex;justify-content:space-between;align-items:center;'
+            f'padding:.4rem .2rem;border-bottom:1px solid var(--border);font-size:.87rem">'
+            f'<span><button class="audio-btn" onclick="speak(\'{esc(p["en"])}\')">🔊</button>'
+            f' {esc(p["en"])}</span>'
+            f'<span style="color:var(--muted)">{esc(p["cz"])}</span></div>'
+            for p in cat["phrases"]
+        )
+        cats_html += f"""<div class="section">
+<h2>{cat['icon']} {esc(cat['name'])}</h2>
+{rows}
+</div>"""
+
+    search_js = """
+const ps=document.getElementById('pb-search');
+if(ps){ ps.addEventListener('input',()=>{ const q=ps.value.toLowerCase(); document.querySelectorAll('.section>div[style*="border-bottom"]').forEach(r=>{ r.style.display=!q||r.textContent.toLowerCase().includes(q)?'':'none'; }); }); }
+"""
+    body = f"""<h1 style="font-size:1.3rem;font-weight:700;margin-bottom:.5rem">💬 Phrasebook</h1>
+<p style="color:var(--muted);margin-bottom:1rem">Essential phrases · Click 🔊 to hear pronunciation</p>
+<input id="pb-search" type="search" placeholder="🔍 Search phrases..." style="margin-bottom:1.2rem;background:var(--surface);border:1px solid var(--border);color:var(--text);padding:.4rem .8rem;border-radius:8px;font-size:.85rem;outline:none;width:100%;max-width:300px">
+{cats_html}"""
+    return page("Phrasebook", body, js_extra=search_js)
+
+
+def build_review_page(lessons):
+    body = """<h1 style="font-size:1.3rem;font-weight:700;margin-bottom:.5rem">🔄 Review — Weak Lessons</h1>
+<p style="color:var(--muted);margin-bottom:1.2rem">Lessons where your score is below 80% or not yet attempted.</p>
+<div id="review-list"></div>"""
+
+    slugs_data = [{"slug": l["slug"], "num": l["num"], "title": l["title"], "level": l["level"]} for l in lessons]
+    review_js = f"""
+const LESSONS={json.dumps(slugs_data, ensure_ascii=False)};
+const el=document.getElementById('review-list');
+const toReview=LESSONS.filter(l=>{{ const s=getScore(l.slug); return !s||Math.round(s.score/s.total*100)<80; }});
+if(!toReview.length){{ el.innerHTML='<div class="alert" style="color:var(--green);border-color:var(--green)">🎉 All lessons at 80%+! Great work.</div>'; }}
+else{{
+  el.innerHTML=toReview.map(l=>{{
+    const s=getScore(l.slug);
+    const pct=s?Math.round(s.score/s.total*100):0;
+    const bar=s?'<div class="mini-bar" style="width:80px"><div class="mini-fill" style="width:'+pct+'%"></div></div>':'<span style="font-size:.75rem;color:var(--muted)">Not attempted</span>';
+    return '<div class="progress-row"><span class="progress-status">'+(s?(pct>=50?'🔄':'❌'):'⬜')+'</span>'
+      +'<span class="progress-title"><a href="lekce/'+l.slug+'.html">L'+l.num+' '+l.title+'</a></span>'
+      +'<span style="font-size:.75rem;color:var(--muted)">'+l.level+'</span>'
+      +bar+'<span class="progress-pct">'+(s?pct+'%':'—')+'</span></div>';
+  }}).join('');
+}}
+"""
+    return page("Review", body, js_extra=review_js)
+
+
 def build_pwa_files(out, lessons, articles):
     """Generate PWA manifest and service worker."""
     manifest = {
@@ -901,9 +1164,12 @@ def main():
     for art in articles:
         (clanky / f"{art['slug']}.html").write_text(build_article(art, articles), encoding="utf-8")
 
+    (out / "gramatika.html").write_text(build_grammar_page(),        encoding="utf-8")
+    (out / "phrasebook.html").write_text(build_phrasebook_page(),   encoding="utf-8")
+    (out / "review.html").write_text(build_review_page(lessons),    encoding="utf-8")
     build_pwa_files(out, lessons, articles)
 
-    print(f"✓ Built {len(lessons)} lessons + {len(articles)} articles → web/")
+    print(f"✓ Built {len(lessons)} lessons + {len(articles)} articles + 6 pages → web/")
 
 if __name__ == "__main__":
     main()

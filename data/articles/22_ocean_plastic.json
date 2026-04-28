@@ -1,0 +1,26 @@
+{
+  "num": "22", "slug": "ocean_plastic",
+  "title": "The Plastic Ocean",
+  "level": "⭐⭐⭐ B1 | Pre-Intermediate",
+  "topics": "environment · pollution · solutions · science",
+  "description": "Plasty v oceánech — rozsah problému a možná řešení.",
+  "article_text": "THE PLASTIC OCEAN\n\nEvery minute, the equivalent of a rubbish truck's worth of plastic enters the world's oceans. Since the mass production of plastic began in the 1950s, humanity has produced over 8 billion tonnes of the material — and roughly 60 percent of it still exists somewhere in the environment.\n\nPlastic is extraordinarily durable. A plastic bottle takes around 450 years to decompose. As it breaks down, it does not disappear — it fragments into smaller and smaller pieces called microplastics, which have now been found in the deepest ocean trenches, in Arctic ice, in the lungs of seabirds, and in human blood.\n\nThe consequences for marine life are severe. Each year, an estimated 100,000 marine mammals and one million seabirds die from plastic entanglement or ingestion. Coral reefs become smothered. Fish mistake plastic fragments for food, which enters the food chain — and eventually our plates.\n\nSolutions exist, though none are simple. Reducing plastic production at source — particularly single-use plastics — is the most effective intervention. Several countries have banned plastic bags, straws, and single-use cutlery. Extended producer responsibility schemes make manufacturers pay for the collection and recycling of their products. Beach clean-ups and ocean plastic collection projects remove existing pollution, though the scale of the problem dwarfs current efforts.\n\nThe technology to reduce plastic pollution exists. What is needed is the political will to implement it, and a shift in consumer culture away from disposability.",
+  "vocabulary": [
+    {"en": "decompose", "cz": "rozložit se, hnít"},
+    {"en": "microplastics", "cz": "mikroplasty"},
+    {"en": "entanglement", "cz": "uvíznutí, zamotání"},
+    {"en": "ingestion", "cz": "pozření, konzumace"},
+    {"en": "food chain", "cz": "potravní řetězec"},
+    {"en": "single-use plastic", "cz": "jednorázový plast"},
+    {"en": "disposability", "cz": "jednorázovost, nahraditelnost"},
+    {"en": "extended producer responsibility", "cz": "rozšířená odpovědnost výrobce"}
+  ],
+  "examples": [
+    {"en": "How long does a plastic bottle take to decompose?", "cz": "Around 450 years."},
+    {"en": "What are microplastics?", "cz": "Tiny plastic fragments formed as plastic breaks down — found in oceans, ice, birds, and human blood."},
+    {"en": "How many marine mammals die from plastic each year?", "cz": "An estimated 100,000."},
+    {"en": "What is 'extended producer responsibility'?", "cz": "Manufacturers pay for collection and recycling of their products."},
+    {"en": "What does the article say is the most effective intervention?", "cz": "Reducing plastic production at source, especially single-use plastics."}
+  ],
+  "tasks": ["1. Calculate how much single-use plastic you use in a week — write it in English", "2. Write a letter to a supermarket asking them to reduce plastic packaging", "3. Research: which countries have the most effective plastic reduction policies?"]
+}

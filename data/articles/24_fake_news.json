@@ -1,0 +1,26 @@
+{
+  "num": "24", "slug": "fake_news",
+  "title": "Fake News — How to Tell Truth from Fiction",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "media · critical thinking · society · language",
+  "description": "Dezinformace — jak je rozpoznat a proč se šíří.",
+  "article_text": "FAKE NEWS — HOW TO TELL TRUTH FROM FICTION\n\nThe term 'fake news' has become so overused that it risks losing all meaning. Politicians apply it to any reporting they dislike. Yet the underlying phenomenon — the deliberate creation and spread of false information — is real, significant, and growing.\n\nFalse information spreads faster than true information on social media. A landmark 2018 study by MIT found that false stories spread six times faster than accurate ones, and reach twenty times more people. The reason appears to be emotional: false stories tend to be more novel and emotionally arousing than true ones, which makes people more likely to share them.\n\nThe consequences are serious. False information about health — vaccine misinformation, in particular — has led to preventable disease outbreaks. Political disinformation has distorted elections. During the COVID-19 pandemic, false cures and conspiracy theories caused real harm.\n\nCritical thinking offers the best defence. Before sharing information, ask: Who published this? Is this a reliable source? Can I find the same story on other reputable outlets? Is the headline misleading? Am I sharing this because it makes me feel something, rather than because I believe it is true?\n\nFact-checking organisations — such as Full Fact in the UK or FactCheck.org in the US — provide independent verification of claims. Lateral reading — checking what others say about a source rather than evaluating the source itself — has been shown to be particularly effective.\n\nThe antidote to fake news is not less information. It is better habits of consumption.",
+  "vocabulary": [
+    {"en": "disinformation", "cz": "dezinformace (záměrně nepravdivé)"},
+    {"en": "misinformation", "cz": "dezinformace (neúmyslně nepravdivé)"},
+    {"en": "emotionally arousing", "cz": "emocionálně vzrušující"},
+    {"en": "reputable outlet", "cz": "důvěryhodný mediální zdroj"},
+    {"en": "lateral reading", "cz": "laterální čtení (ověřování zdroje)"},
+    {"en": "fact-checking", "cz": "ověřování faktů"},
+    {"en": "conspiracy theory", "cz": "konspirační teorie"},
+    {"en": "antidote", "cz": "protijed, řešení"}
+  ],
+  "examples": [
+    {"en": "How much faster does false information spread than true on social media?", "cz": "Six times faster, reaching twenty times more people."},
+    {"en": "Why does false information spread faster?", "cz": "It tends to be more novel and emotionally arousing, making people more likely to share it."},
+    {"en": "Name one real-world consequence of health misinformation.", "cz": "Vaccine misinformation led to preventable disease outbreaks."},
+    {"en": "What is 'lateral reading'?", "cz": "Checking what others say about a source, rather than evaluating the source directly."},
+    {"en": "What is the article's conclusion about the antidote to fake news?", "cz": "Better habits of consumption — not less information."}
+  ],
+  "tasks": ["1. Find a news story and verify it using two independent sources", "2. Write your own checklist for evaluating news — 5 questions to ask before sharing", "3. Discuss: Should social media platforms be legally responsible for fake news on their platforms?"]
+}

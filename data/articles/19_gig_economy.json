@@ -1,0 +1,26 @@
+{
+  "num": "19", "slug": "gig_economy",
+  "title": "The Gig Economy — Freedom or Exploitation?",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "work · economics · rights · technology",
+  "description": "Gig ekonomika — svoboda nebo vykořisťování?",
+  "article_text": "THE GIG ECONOMY — FREEDOM OR EXPLOITATION?\n\nMillions of people around the world now earn their living through app-based platforms: driving for ride-hailing companies, delivering food, completing freelance tasks online. This 'gig economy' has grown explosively over the past decade, and it raises fundamental questions about the future of work.\n\nProponents argue that gig work offers genuine flexibility. Workers can set their own hours, take on as much or as little work as they choose, and — in theory — be their own boss. For students, parents with childcare responsibilities, or people supplementing another income, this flexibility has real value.\n\nCritics tell a different story. Gig workers are typically classified as independent contractors rather than employees, which means they receive none of the protections that traditional employment provides: no sick pay, no holiday pay, no pension contributions, no redundancy protection. They bear all the risk while the platform takes a significant cut of their earnings.\n\nResearch consistently shows that many gig workers earn below minimum wage once vehicle costs, insurance, and unpaid waiting time are factored in. The flexibility, critics argue, is largely illusory — workers often have little real choice about when or how much they work if they need to earn enough to live.\n\nSeveral court cases have begun to shift the legal landscape. In 2021, the UK Supreme Court ruled that Uber drivers are 'workers' entitled to minimum wage and holiday pay. Similar battles are being fought across Europe and the United States.\n\nThe central question is not whether flexibility is valuable — it clearly is — but who should bear the cost of providing it.",
+  "vocabulary": [
+    {"en": "gig economy", "cz": "gig ekonomika (příležitostná práce)"},
+    {"en": "ride-hailing", "cz": "objednávání jízd přes aplikaci"},
+    {"en": "independent contractor", "cz": "nezávislý dodavatel"},
+    {"en": "redundancy protection", "cz": "ochrana před propuštěním"},
+    {"en": "illusory", "cz": "iluzorní, zdánlivý"},
+    {"en": "factored in", "cz": "zahrnutý, započítaný"},
+    {"en": "proponent", "cz": "zastánce, obhájce"},
+    {"en": "ruling", "cz": "soudní rozhodnutí"}
+  ],
+  "examples": [
+    {"en": "What main advantage does gig work offer, according to supporters?", "cz": "Flexibility — workers can set their own hours and be their own boss."},
+    {"en": "What protections do gig workers typically lack?", "cz": "Sick pay, holiday pay, pension, redundancy protection."},
+    {"en": "What did the 2021 UK Supreme Court rule about Uber drivers?", "cz": "That they are 'workers' entitled to minimum wage and holiday pay."},
+    {"en": "Why do critics call the flexibility 'illusory'?", "cz": "Workers often have little real choice if they need to earn enough to live."},
+    {"en": "What is the article's central question?", "cz": "Who should bear the cost of providing flexibility — workers or platforms?"}
+  ],
+  "tasks": ["1. Research: are food delivery riders in your country classified as employees or contractors?", "2. Write a for/against argument: 'Gig platforms should be required to classify workers as employees.'", "3. Interview someone who does gig work — what are the pros and cons from their experience?"]
+}

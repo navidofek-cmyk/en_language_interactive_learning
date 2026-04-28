@@ -1,0 +1,26 @@
+{
+  "num": "25", "slug": "universal_basic_income",
+  "title": "Universal Basic Income — Utopia or Necessity?",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "economics · society · policy · future",
+  "description": "Univerzální základní příjem — utopie nebo nutnost v době automatizace?",
+  "article_text": "UNIVERSAL BASIC INCOME — UTOPIA OR NECESSITY?\n\nUniversal Basic Income (UBI) is a policy proposal in which every citizen receives a regular cash payment from the government, unconditionally and regardless of employment status or income. The idea is not new — it has been advocated by thinkers from Thomas Paine in the 18th century to Milton Friedman and Martin Luther King Jr. in the 20th. But it has recently attracted renewed attention as artificial intelligence and automation threaten to displace large numbers of workers.\n\nSmall-scale UBI experiments have been conducted in Finland, Kenya, Canada, and several US cities. The results have been broadly encouraging: recipients spent money on food, healthcare, and education rather than alcohol or drugs — contradicting a common objection. Mental health improved. Employment rates did not fall significantly, and in some cases rose — people used the security of a basic income to take risks and start businesses.\n\nCritics raise several serious objections. The cost of a meaningful UBI would be enormous — in a large country, paying every adult even a modest sum would cost hundreds of billions annually. Where would this money come from? Higher taxes, reduced public services, or new wealth taxes on technology companies — each option has significant political and economic implications.\n\nThere are also concerns about inflation: if everyone has more money, prices may simply rise, eroding the benefit. And some argue that UBI would undermine the work ethic and reduce incentives to work, invest, and innovate.\n\nWhether or not UBI becomes policy, the question it poses is real: as machines do more of our work, how do we ensure that the benefits are shared widely rather than concentrated in the hands of a few?",
+  "vocabulary": [
+    {"en": "unconditionally", "cz": "bezpodmínečně"},
+    {"en": "displace workers", "cz": "nahradit pracovníky"},
+    {"en": "recipient", "cz": "příjemce"},
+    {"en": "contradicting", "cz": "vyvracet, odporovat"},
+    {"en": "inflation", "cz": "inflace"},
+    {"en": "erode", "cz": "narušovat, oslabovat"},
+    {"en": "work ethic", "cz": "pracovní morálka"},
+    {"en": "wealth tax", "cz": "daň z majetku"}
+  ],
+  "examples": [
+    {"en": "What is Universal Basic Income?", "cz": "A regular cash payment from government to every citizen, unconditionally."},
+    {"en": "What did UBI experiments find about how money was spent?", "cz": "On food, healthcare, and education — not alcohol or drugs."},
+    {"en": "What happened to employment rates in UBI trials?", "cz": "They did not fall significantly; in some cases they rose."},
+    {"en": "Name two criticisms of UBI.", "cz": "Enormous cost; potential inflation; concern about undermining work ethic."},
+    {"en": "What broader question does the UBI debate raise?", "cz": "How do we share the benefits of automation widely rather than concentrating them?"}
+  ],
+  "tasks": ["1. Write a 150-word argument for or against UBI — use evidence from the article", "2. Calculate: if every adult in your country received €500/month, what would it cost annually?", "3. Debate: 'The government should introduce UBI immediately.' Argue both sides."]
+}
