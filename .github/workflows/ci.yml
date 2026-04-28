@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check syntax of all lesson files
+        run: |
+          for f in [0-9][0-9]_*.py generator_web.py; do
+            python3 -m py_compile "$f" && echo "✓ $f"
+          done
+      - name: Test web generator runs without error
+        run: python3 generator_web.py
