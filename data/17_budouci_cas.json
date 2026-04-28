@@ -1,0 +1,77 @@
+{
+  "num": "17",
+  "slug": "budouci_cas",
+  "title": "Future Tenses",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "will · going to · present continuous for future · future time expressions",
+  "description": "Budoucí čas — will, going to, present continuous.",
+  "vocabulary": [
+    {
+      "en": "tomorrow",
+      "cz": "zítra"
+    },
+    {
+      "en": "next week/month",
+      "cz": "příští týden/měsíc"
+    },
+    {
+      "en": "in two days",
+      "cz": "za dva dny"
+    },
+    {
+      "en": "soon",
+      "cz": "brzy"
+    },
+    {
+      "en": "in the future",
+      "cz": "v budoucnosti"
+    },
+    {
+      "en": "by Friday",
+      "cz": "do pátku"
+    },
+    {
+      "en": "this evening",
+      "cz": "dnes večer"
+    },
+    {
+      "en": "at the weekend",
+      "cz": "o víkendu"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "Unplanned, spontaneous → WILL",
+    "Planned intention    → GOING TO",
+    "Fixed arrangement    → PRESENT CONTINUOUS",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "You look cold. I ___ get you a blanket. (spontaneous offer)",
+      "answer": "will /"
+    },
+    {
+      "type": "fill",
+      "sentence": "She ___ start a new job next Monday. (arranged appointment)",
+      "answer": "is starting"
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ travel around Asia next year. (plan already decided)",
+      "answer": "are going to"
+    },
+    {
+      "type": "fill",
+      "sentence": "I think robots ___ replace many jobs in the future. (prediction)",
+      "answer": "will"
+    }
+  ],
+  "tasks": [
+    "1. Write your plans for next weekend using 'going to' (5 sentences)",
+    "2. Write 3 predictions about the world in 2050 using 'will'",
+    "3. Write your diary for tomorrow using present continuous"
+  ]
+}

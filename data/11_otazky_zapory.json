@@ -1,0 +1,102 @@
+{
+  "num": "11",
+  "slug": "otazky_zapory",
+  "title": "Questions & Negatives",
+  "level": "⭐⭐ Level: A2 | Elementary",
+  "topics": "yes/no questions · wh-questions · negatives · question tags",
+  "description": "Jak tvořit otázky a záporné věty v angličtině.",
+  "vocabulary": [
+    {
+      "en": "What",
+      "cz": "Co / Jaký"
+    },
+    {
+      "en": "Who",
+      "cz": "Kdo"
+    },
+    {
+      "en": "Where",
+      "cz": "Kde / Kam"
+    },
+    {
+      "en": "When",
+      "cz": "Kdy"
+    },
+    {
+      "en": "Why",
+      "cz": "Proč"
+    },
+    {
+      "en": "Which",
+      "cz": "Který"
+    },
+    {
+      "en": "How",
+      "cz": "Jak"
+    },
+    {
+      "en": "How much / How many",
+      "cz": "Kolik"
+    },
+    {
+      "en": "How long",
+      "cz": "Jak dlouho"
+    },
+    {
+      "en": "How often",
+      "cz": "Jak často"
+    },
+    {
+      "en": "How far",
+      "cz": "Jak daleko"
+    },
+    {
+      "en": "Whose",
+      "cz": "Čí"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "Who CALLED you? (subject = who → no do/did)",
+    "Who did you CALL? (object = who → need did)",
+    "What HAPPENED?  (subject = what → no did)",
+    "What did you DO? (object = what → need did)",
+    "Rule: positive sentence → negative tag | negative → positive tag\\n",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "Present cont.",
+      "cz": "am/is/are not"
+    },
+    {
+      "en": "She came yesterday, ___?",
+      "cz": "didn"
+    },
+    {
+      "en": "WH-question for underlined: She lives in [Prague].",
+      "cz": "Where does she live?"
+    },
+    {
+      "en": "WH-question for underlined: [Tom] called me.",
+      "cz": "Who called you?"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "She came yesterday, ___?",
+      "answer": "didn"
+    },
+    {
+      "type": "fill",
+      "sentence": "He can swim, ___?",
+      "answer": "can"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 wh-questions you could ask a new friend",
+    "2. Take 5 positive sentences and convert them to:",
+    "3. Write a short interview (10 Q&A pairs) about daily life"
+  ]
+}

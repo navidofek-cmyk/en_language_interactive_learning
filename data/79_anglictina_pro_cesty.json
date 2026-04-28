@@ -1,0 +1,55 @@
+{
+  "num": "79",
+  "slug": "anglictina_pro_cesty",
+  "title": "English for Everyday Life — Quick Reference",
+  "level": "⭐⭐ A2–B1 | Elementary",
+  "topics": "emergencies · phone · post office · bank · pharmacy",
+  "description": "Praktická angličtina pro každodenní situace — pošta, banka, lékárna, tísňová volání.",
+  "vocabulary": [
+    {"en": "Call an ambulance!", "cz": "Zavolejte záchranku!"},
+    {"en": "Call the police!", "cz": "Zavolejte policii!"},
+    {"en": "I need a doctor.", "cz": "Potřebuji lékaře."},
+    {"en": "I've been robbed.", "cz": "Byl/a jsem okraden/a."},
+    {"en": "I've lost my passport.", "cz": "Ztratil/a jsem pas."},
+    {"en": "Is there a hospital nearby?", "cz": "Je tady blízko nemocnice?"},
+    {"en": "Please speak more slowly.", "cz": "Prosím mluvte pomaleji."},
+    {"en": "Could you repeat that?", "cz": "Mohl/a byste to zopakovat?"},
+    {"en": "I don't understand.", "cz": "Nerozumím."},
+    {"en": "I'd like to send this parcel.", "cz": "Chtěl/a bych poslat tento balík."},
+    {"en": "Registered post, please.", "cz": "Doporučeně, prosím."},
+    {"en": "I need to exchange currency.", "cz": "Potřebuji vyměnit měnu."},
+    {"en": "What's the exchange rate?", "cz": "Jaký je kurz?"},
+    {"en": "I'd like to withdraw cash.", "cz": "Chtěl/a bych vybrat hotovost."},
+    {"en": "I need something for a headache.", "cz": "Potřebuji něco na bolest hlavy."},
+    {"en": "Is this available without a prescription?", "cz": "Je to dostupné bez receptu?"},
+    {"en": "Side effects", "cz": "Vedlejší účinky"},
+    {"en": "Dosage", "cz": "Dávkování"},
+    {"en": "Hold the line, please.", "cz": "Zůstaňte prosím na lince."},
+    {"en": "I'll put you through.", "cz": "Přepojím vás."}
+  ],
+  "dialogue": [
+    {"speaker": "A", "text": "Excuse me, I think I've been pickpocketed. My wallet is gone."},
+    {"speaker": "B", "text": "I'm sorry to hear that. You should report it to the police immediately."},
+    {"speaker": "A", "text": "Where is the nearest police station?"},
+    {"speaker": "B", "text": "It's about 200 metres down this street, on the right."},
+    {"speaker": "A", "text": "Thank you. Should I also call my bank to block my cards?"},
+    {"speaker": "B", "text": "Yes, definitely — do that right away."}
+  ],
+  "examples": [
+    {"en": "Could you speak more slowly, please? I'm still learning English.", "cz": "Mohl/a byste prosím mluvit pomaleji? Stále se učím anglicky."},
+    {"en": "I'd like to send this to Prague by registered post.", "cz": "Chtěl/a bych toto poslat do Prahy doporučeně."},
+    {"en": "Is this medication available without a prescription?", "cz": "Je tento lék dostupný bez receptu?"},
+    {"en": "Hold the line — I'll transfer you to the right department.", "cz": "Zůstaňte na lince — přepojím vás na příslušné oddělení."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "Could you ___ that, please? I didn't catch it. (repeat)", "answer": "repeat"},
+    {"type": "fill", "sentence": "I'd like to ___ £100 from my account. (take out)", "answer": "withdraw"},
+    {"type": "fill", "sentence": "Please ___ the line — I'll connect you to the manager.", "answer": "hold"},
+    {"type": "fill", "sentence": "I've ___ my passport. What should I do? (lost)", "answer": "lost"}
+  ],
+  "tasks": [
+    "1. Role-play: you've lost your bag abroad — practise the conversation at a police station",
+    "2. Write the key phrases you'd need in a pharmacy in English",
+    "3. Practise calling a bank in English — what would you say to report a lost card?"
+  ]
+}

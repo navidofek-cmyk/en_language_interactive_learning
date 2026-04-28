@@ -1,0 +1,23 @@
+{
+  "num": "60",
+  "slug": "projekt_finalni",
+  "title": "Final Project — C1 Showcase",
+  "level": "⭐⭐⭐⭐⭐ Level: C1 | Advanced",
+  "topics": "",
+  "description": "Finální projekt: demonstrace všech dovedností kurzu. Combines: all tenses · advanced grammar · vocabulary · style · register",
+  "vocabulary": [
+    {
+      "en": "prompt",
+      "cz": "Technology is making human interaction increasingly unnecessary."
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Grammar mistakes",
+    "2. Vocabulary you wish you had used",
+    "3. Pronunciation issues"
+  ]
+}

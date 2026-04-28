@@ -1,0 +1,70 @@
+{
+  "num": "43",
+  "slug": "registr",
+  "title": "Register — Formal & Informal",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "formal · informal · neutral · contractions · vocabulary level",
+  "description": "Formální vs neformální angličtina — stejná myšlenka, jiný styl.",
+  "vocabulary": [
+    {
+      "en": "Formal (no contractions)",
+      "cz": "Informal (contractions OK)"
+    },
+    {
+      "en": "It is",
+      "cz": "It"
+    },
+    {
+      "en": "We are",
+      "cz": "We"
+    },
+    {
+      "en": "do not",
+      "cz": "don"
+    },
+    {
+      "en": "cannot",
+      "cz": "can"
+    },
+    {
+      "en": "would not",
+      "cz": "wouldn"
+    },
+    {
+      "en": "they are",
+      "cz": "they"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "I would like to...",
+      "cz": "I want to... / I"
+    },
+    {
+      "en": "Please do not hesitate to...",
+      "cz": "Feel free to..."
+    },
+    {
+      "en": "I would be grateful if...",
+      "cz": "Could you... / Can you..."
+    },
+    {
+      "en": "I look forward to hearing from you.",
+      "cz": "Hope to hear from you soon."
+    },
+    {
+      "en": "With reference to...",
+      "cz": "About... / Regarding..."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Rewrite these in the opposite register (formal ↔ informal):",
+    "2. Write the same message in 3 registers: text to a friend, email to a manager,",
+    "3. Find 5 phrasal verbs from lesson 26 and replace them with formal equivalents"
+  ]
+}

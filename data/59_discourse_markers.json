@@ -1,0 +1,31 @@
+{
+  "num": "59",
+  "slug": "discourse_markers",
+  "title": "Discourse Markers & Linking Language",
+  "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
+  "topics": "spoken · written · contrast · addition · result · position",
+  "description": "Diskurzní markery — spojky a přechodové výrazy pro plynulý text.",
+  "vocabulary": [],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "The results were positive. ___, the cost was too high. (contrast)",
+      "answer": "However / Nevertheless"
+    },
+    {
+      "type": "fill",
+      "sentence": "She studied hard. ___, she passed with distinction. (result)",
+      "answer": "As a result / Consequently"
+    }
+  ],
+  "tasks": [
+    "1. Rewrite this paragraph adding at least 5 discourse markers:",
+    "2. Write a paragraph arguing a point, using markers from each category",
+    "3. Read a quality English article and highlight all discourse markers you find"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "num": "34",
+  "slug": "used_to_would",
+  "title": "Used To & Would",
+  "level": "⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "used to · would · be used to · get used to",
+  "description": "Minulé zvyky a stavy — used to, would, be/get used to.",
+  "vocabulary": [
+    {
+      "en": "use",
+      "cz": "Past habit or state that no longer exists"
+    },
+    {
+      "en": "note",
+      "cz": "For BOTH habits AND states in the past"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "would live   ✗ cannot use would for states",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "I used to play football every weekend.",
+      "cz": "Každý víkend jsem hrával fotbal. (už ne)"
+    },
+    {
+      "en": "She used to live in Paris.",
+      "cz": "Dřív žila v Paříži. (teď ne)"
+    },
+    {
+      "en": "Did you use to have long hair?",
+      "cz": "Nosil/a jsi dřív dlouhé vlasy?"
+    },
+    {
+      "en": "When I was young, we would spend summers at the lake.",
+      "cz": "Když jsem byl/a malý/á, trávili jsme léta u jezera."
+    },
+    {
+      "en": "Every Sunday she would bake bread.",
+      "cz": "Každou neděli pekla chléb."
+    },
+    {
+      "en": "He would always forget his keys.",
+      "cz": "Vždy zapomínal klíče."
+    },
+    {
+      "en": "Are you used to driving on the left?",
+      "cz": "Jsi zvyklý/á řídit vpravo? (Británie)"
+    },
+    {
+      "en": "She got used to living alone quickly.",
+      "cz": "Rychle si zvykla na život sama."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "When I was a child, I ___ climb trees every day. (habit)",
+      "answer": "used to / would"
+    },
+    {
+      "type": "fill",
+      "sentence": "Every summer we ___ visit our grandparents. (repeated past action)",
+      "answer": "would / used to"
+    },
+    {
+      "type": "fill",
+      "sentence": "Is he ___ driving on the left yet? (accustomed)",
+      "answer": "used to"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 sentences about what you used to do as a child",
+    "2. Describe a typical childhood summer using 'would'",
+    "3. Write about something you had to get used to (new job, city, habit)"
+  ]
+}

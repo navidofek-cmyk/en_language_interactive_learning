@@ -1,0 +1,174 @@
+{
+  "num": "32",
+  "slug": "gerundy_infinitivy",
+  "title": "Gerunds & Infinitives",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "verb + gerund · verb + infinitive · both (meaning changes) · prepositions",
+  "description": "Gerundy a infinitivy — kdy použít -ing a kdy 'to + verb'.",
+  "vocabulary": [
+    {
+      "en": "enjoy",
+      "cz": "I enjoy swimming in the sea."
+    },
+    {
+      "en": "finish",
+      "cz": "Have you finished eating?"
+    },
+    {
+      "en": "avoid",
+      "cz": "She avoids making eye contact."
+    },
+    {
+      "en": "suggest",
+      "cz": "He suggested going to a film."
+    },
+    {
+      "en": "mind",
+      "cz": "Do you mind waiting a moment?"
+    },
+    {
+      "en": "miss",
+      "cz": "I miss living in Prague."
+    },
+    {
+      "en": "consider",
+      "cz": "Are you considering changing jobs?"
+    },
+    {
+      "en": "practise",
+      "cz": "I need to practise speaking English."
+    },
+    {
+      "en": "keep",
+      "cz": "Keep trying — you"
+    },
+    {
+      "en": "can't stand",
+      "cz": "I can"
+    },
+    {
+      "en": "give up",
+      "cz": "He gave up smoking last year."
+    },
+    {
+      "en": "risk",
+      "cz": "Don"
+    },
+    {
+      "en": "want",
+      "cz": "I want to learn Spanish."
+    },
+    {
+      "en": "need",
+      "cz": "She needs to rest."
+    },
+    {
+      "en": "decide",
+      "cz": "They decided to move abroad."
+    },
+    {
+      "en": "hope",
+      "cz": "I hope to see you soon."
+    },
+    {
+      "en": "plan",
+      "cz": "We plan to visit Rome."
+    },
+    {
+      "en": "refuse",
+      "cz": "He refused to sign the contract."
+    },
+    {
+      "en": "seem",
+      "cz": "You seem to know everyone here."
+    },
+    {
+      "en": "manage",
+      "cz": "Did you manage to fix it?"
+    },
+    {
+      "en": "promise",
+      "cz": "She promised to call."
+    },
+    {
+      "en": "offer",
+      "cz": "He offered to help."
+    },
+    {
+      "en": "expect",
+      "cz": "I expect to finish by Friday."
+    },
+    {
+      "en": "afford",
+      "cz": "We can"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n📝 AFTER PREPOSITIONS → always GERUND:",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "I like swimming.",
+      "cz": "I like to swim."
+    },
+    {
+      "en": "She loves cooking.",
+      "cz": "She loves to cook."
+    },
+    {
+      "en": "He hates waiting.",
+      "cz": "He hates to wait."
+    },
+    {
+      "en": "It began raining.",
+      "cz": "It began to rain."
+    },
+    {
+      "en": "She started crying.",
+      "cz": "She started to cry."
+    },
+    {
+      "en": "I prefer walking.",
+      "cz": "I prefer to walk."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "I enjoy ___ (read) historical novels.",
+      "answer": "reading"
+    },
+    {
+      "type": "fill",
+      "sentence": "She decided ___ (leave) the company.",
+      "answer": "to leave"
+    },
+    {
+      "type": "fill",
+      "sentence": "Have you finished ___ (write) the report?",
+      "answer": "writing"
+    },
+    {
+      "type": "fill",
+      "sentence": "He stopped ___ (smoke) five years ago.",
+      "answer": "smoking"
+    },
+    {
+      "type": "fill",
+      "sentence": "They refused ___ (pay) the fine.",
+      "answer": "to pay"
+    },
+    {
+      "type": "fill",
+      "sentence": "Try ___ (restart) the computer.",
+      "answer": "restarting"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 true sentences about yourself using gerund verbs (enjoy, miss, can't stand...)",
+    "2. Write 5 sentences using infinitive verbs (want, plan, hope, decide...)",
+    "3. Write pairs for: stop / remember / try — both meanings in context"
+  ]
+}

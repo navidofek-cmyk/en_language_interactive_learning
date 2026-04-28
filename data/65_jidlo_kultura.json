@@ -1,0 +1,60 @@
+{
+  "num": "65",
+  "slug": "jidlo_kultura",
+  "title": "Food Culture & Cooking",
+  "level": "⭐⭐ A2–B1 | Elementary",
+  "topics": "cooking verbs · recipes · dietary requirements · food adjectives",
+  "description": "Vaření, recepty, dieta a jak mluvit o jídle v angličtině.",
+  "vocabulary": [
+    {"en": "boil", "cz": "vařit (ve vodě)"},
+    {"en": "fry", "cz": "smažit"},
+    {"en": "bake", "cz": "péct (v troubě)"},
+    {"en": "roast", "cz": "péct (maso, zeleninu)"},
+    {"en": "grill", "cz": "grilovat"},
+    {"en": "steam", "cz": "vařit v páře"},
+    {"en": "chop", "cz": "sekat, krájet na kousky"},
+    {"en": "slice", "cz": "krájet na plátky"},
+    {"en": "stir", "cz": "míchat"},
+    {"en": "simmer", "cz": "pomalu vařit"},
+    {"en": "season", "cz": "ochutit, dochutit"},
+    {"en": "ingredient", "cz": "přísada, ingredience"},
+    {"en": "recipe", "cz": "recept"},
+    {"en": "portion", "cz": "porce"},
+    {"en": "serving", "cz": "servírování, porce"},
+    {"en": "vegetarian", "cz": "vegetarián/ka"},
+    {"en": "vegan", "cz": "vegan/ka"},
+    {"en": "gluten-free", "cz": "bezlepkový"},
+    {"en": "dairy-free", "cz": "bez mléčných výrobků"},
+    {"en": "organic", "cz": "ekologický, bio"},
+    {"en": "tender", "cz": "jemný, měkký (maso)"},
+    {"en": "crispy", "cz": "křupavý"},
+    {"en": "bland", "cz": "mdlý, bez chuti"},
+    {"en": "savoury", "cz": "slaný, pikantní"},
+    {"en": "spicy", "cz": "pálivý, kořeněný"}
+  ],
+  "dialogue": [
+    {"speaker": "A", "text": "This sauce is amazing. How did you make it?"},
+    {"speaker": "B", "text": "I fried the onions first, then added garlic and tomatoes."},
+    {"speaker": "A", "text": "How long do you simmer it?"},
+    {"speaker": "B", "text": "About 20 minutes. Then season with salt, pepper, and fresh basil."},
+    {"speaker": "A", "text": "Do you have the full recipe? I'd love to try it at home."},
+    {"speaker": "B", "text": "Of course! I'll send it to you."}
+  ],
+  "examples": [
+    {"en": "Peel and chop the onions, then fry them in olive oil.", "cz": "Oloupejte a nakrájejte cibuli, pak ji orestujte na olivovém oleji."},
+    {"en": "Bake at 180°C for 25 minutes until golden brown.", "cz": "Pečte při 180 °C po dobu 25 minut do zlatohnědé barvy."},
+    {"en": "Do you have anything gluten-free on the menu?", "cz": "Máte na jídelním lístku něco bezlepkového?"},
+    {"en": "The steak was perfectly cooked — tender and juicy.", "cz": "Steak byl dokonale připraven — jemný a šťavnatý."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "She ___ the vegetables in olive oil for 5 minutes. (fried)", "answer": "fried"},
+    {"type": "fill", "sentence": "I'm ___ — I don't eat meat or dairy. (vegan)", "answer": "vegan"},
+    {"type": "fill", "sentence": "The chicken was ___ in the oven for 45 minutes. (baked)", "answer": "baked"},
+    {"type": "fill", "sentence": "Add salt and pepper to ___ the dish.", "answer": "season"}
+  ],
+  "tasks": [
+    "1. Write a recipe for your favourite Czech dish in English (8–10 steps)",
+    "2. Describe a restaurant experience using food adjectives",
+    "3. Write a dialogue: customer with a food allergy ordering at a restaurant"
+  ]
+}

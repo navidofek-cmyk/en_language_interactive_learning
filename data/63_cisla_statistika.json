@@ -1,0 +1,56 @@
+{
+  "num": "63",
+  "slug": "cisla_statistika",
+  "title": "Numbers, Data & Statistics",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "fractions · percentages · statistics · graphs · approximation",
+  "description": "Jak říct čísla, procenta, zlomky a jak mluvit o grafech a datech.",
+  "vocabulary": [
+    {"en": "a third / one third", "cz": "třetina (1/3)"},
+    {"en": "a quarter / one quarter", "cz": "čtvrtina (1/4)"},
+    {"en": "three quarters", "cz": "tři čtvrtiny (3/4)"},
+    {"en": "two thirds", "cz": "dvě třetiny (2/3)"},
+    {"en": "per cent / percent", "cz": "procent"},
+    {"en": "percentage", "cz": "procentuální podíl"},
+    {"en": "fraction", "cz": "zlomek"},
+    {"en": "decimal", "cz": "desetinné číslo"},
+    {"en": "approximately / roughly", "cz": "přibližně, zhruba"},
+    {"en": "nearly / almost", "cz": "téměř, skoro"},
+    {"en": "just over / just under", "cz": "těsně nad / těsně pod"},
+    {"en": "double / triple", "cz": "dvojnásobek / trojnásobek"},
+    {"en": "halve", "cz": "snížit na polovinu"},
+    {"en": "increase by", "cz": "zvýšit o"},
+    {"en": "decrease by", "cz": "snížit o"},
+    {"en": "rise / fall sharply", "cz": "prudce vzrůst / klesnout"},
+    {"en": "level off / plateau", "cz": "stabilizovat se, vyrovnat"},
+    {"en": "on average", "cz": "v průměru"},
+    {"en": "the majority of", "cz": "většina"},
+    {"en": "a significant proportion", "cz": "výrazný podíl"}
+  ],
+  "notes": [
+    "✓ '3.5' = three point five (NOT three comma five)",
+    "✓ '75%' = seventy-five per cent",
+    "✓ '1/3' = one third, '2/3' = two thirds, '3/4' = three quarters",
+    "✓ Increase OF 10% (amount) vs increase TO 10% (new level) vs increase BY 10% (change)",
+    "⚠️  'a number of' = several (plural verb); 'the number of' = specific count (singular verb)"
+  ],
+  "examples": [
+    {"en": "Sales rose by 15% in the third quarter.", "cz": "Prodeje vzrostly o 15 % ve třetím čtvrtletí."},
+    {"en": "Roughly two thirds of respondents agreed.", "cz": "Přibližně dvě třetiny respondentů souhlasily."},
+    {"en": "The temperature dropped to just under zero.", "cz": "Teplota klesla těsně pod nulu."},
+    {"en": "On average, adults sleep seven to eight hours.", "cz": "Průměrně spí dospělí sedm až osm hodin."},
+    {"en": "The graph shows a sharp increase followed by a plateau.", "cz": "Graf ukazuje prudký nárůst následovaný stabilizací."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "Prices increased ___ 20% last year. (change)", "answer": "by"},
+    {"type": "fill", "sentence": "___ three quarters of students passed the exam.", "answer": "Nearly / Almost"},
+    {"type": "fill", "sentence": "The number of cars ___ doubled since 2000.", "answer": "has"},
+    {"type": "fill", "sentence": "Sales ___ sharply in Q4. (went down)", "answer": "fell / dropped"},
+    {"type": "fill", "sentence": "0.5 in words: ___ point five", "answer": "zero / nought"}
+  ],
+  "tasks": [
+    "1. Read a statistics article and write 5 sentences describing the data in English",
+    "2. Describe a graph or chart you know using rise/fall/plateau vocabulary",
+    "3. Write 5 sentences using fractions and percentages about Czech Republic facts"
+  ]
+}

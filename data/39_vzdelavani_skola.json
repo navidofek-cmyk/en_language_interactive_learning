@@ -1,0 +1,223 @@
+{
+  "num": "39",
+  "slug": "vzdelavani_skola",
+  "title": "Education & School",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "school subjects · UK education system · studying · qualifications",
+  "description": "Vzdělání, škola a britský vzdělávací systém.",
+  "vocabulary": [
+    {
+      "en": "Maths / Mathematics",
+      "cz": "matematika"
+    },
+    {
+      "en": "English",
+      "cz": "angličtina"
+    },
+    {
+      "en": "Science",
+      "cz": "přírodověda / věda"
+    },
+    {
+      "en": "Physics",
+      "cz": "fyzika"
+    },
+    {
+      "en": "Chemistry",
+      "cz": "chemie"
+    },
+    {
+      "en": "Biology",
+      "cz": "biologie"
+    },
+    {
+      "en": "History",
+      "cz": "dějepis"
+    },
+    {
+      "en": "Geography",
+      "cz": "zeměpis"
+    },
+    {
+      "en": "Art",
+      "cz": "výtvarná výchova"
+    },
+    {
+      "en": "Music",
+      "cz": "hudební výchova"
+    },
+    {
+      "en": "PE (Physical Education)",
+      "cz": "tělesná výchova"
+    },
+    {
+      "en": "ICT",
+      "cz": "informatika"
+    },
+    {
+      "en": "Languages",
+      "cz": "jazyky"
+    },
+    {
+      "en": "Economics",
+      "cz": "ekonomie"
+    },
+    {
+      "en": "Philosophy",
+      "cz": "filozofie"
+    },
+    {
+      "en": "Primary school",
+      "cz": "základní škola (4–11 let)"
+    },
+    {
+      "en": "Secondary school",
+      "cz": "střední škola (11–16 let)"
+    },
+    {
+      "en": "Sixth form / college",
+      "cz": "vyšší ročníky / college (16–18 let)"
+    },
+    {
+      "en": "University",
+      "cz": "univerzita (18+)"
+    },
+    {
+      "en": "GCSEs",
+      "cz": "státní zkoušky v 16 letech"
+    },
+    {
+      "en": "A-levels",
+      "cz": "maturita v 18 letech"
+    },
+    {
+      "en": "Bachelor's degree",
+      "cz": "bakalář (BA/BSc)"
+    },
+    {
+      "en": "Master's degree",
+      "cz": "magistr (MA/MSc)"
+    },
+    {
+      "en": "PhD",
+      "cz": "doktorát"
+    },
+    {
+      "en": "term",
+      "cz": "trimest / pololetí"
+    },
+    {
+      "en": "semester",
+      "cz": "semestr"
+    },
+    {
+      "en": "tuition fee",
+      "cz": "školné"
+    },
+    {
+      "en": "scholarship",
+      "cz": "stipendium"
+    },
+    {
+      "en": "gap year",
+      "cz": "rok přestávky po škole"
+    },
+    {
+      "en": "revise",
+      "cz": "opakovat látku"
+    },
+    {
+      "en": "revise for",
+      "cz": "připravovat se na (zkoušku)"
+    },
+    {
+      "en": "sit an exam",
+      "cz": "skládat zkoušku (brit.)"
+    },
+    {
+      "en": "take an exam",
+      "cz": "skládat zkoušku (am.)"
+    },
+    {
+      "en": "pass",
+      "cz": "udělat (zkoušku)"
+    },
+    {
+      "en": "fail",
+      "cz": "neudělat (zkoušku)"
+    },
+    {
+      "en": "retake",
+      "cz": "opakovat zkoušku"
+    },
+    {
+      "en": "graduate",
+      "cz": "promovat, absolvovat"
+    },
+    {
+      "en": "drop out",
+      "cz": "nedokončit školu"
+    },
+    {
+      "en": "apply to",
+      "cz": "přihlásit se na"
+    },
+    {
+      "en": "enrol in",
+      "cz": "zapsat se na"
+    },
+    {
+      "en": "attend",
+      "cz": "navštěvovat (hodiny)"
+    },
+    {
+      "en": "skip",
+      "cz": "vynechat (hodinu)"
+    },
+    {
+      "en": "hand in",
+      "cz": "odevzdat"
+    },
+    {
+      "en": "deadline",
+      "cz": "termín odevzdání"
+    },
+    {
+      "en": "dissertation",
+      "cz": "diplomová práce"
+    },
+    {
+      "en": "plagiarism",
+      "cz": "plagiátorství"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ I am AT university. (NE: in university)",
+    "✓ I study AT Oxford. (NE: in Oxford University)",
+    "✓ I passed the exam. (NE: I passed the exam test)",
+    "✓ I failed the exam. (NE: I didn",
+    "✓ I took a gap year. (NE: I made a gap year)",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "What did you study at university?",
+      "cz": "Co jsi studoval/a na univerzitě?"
+    },
+    {
+      "en": "I graduated in Engineering from Brno University.",
+      "cz": "Absolvoval/a jsem inženýrství na VUT Brno."
+    },
+    {
+      "en": "I had to retake my maths exam twice.",
+      "cz": "Musel/a jsem opakovat zkoušku z matematiky dvakrát."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Describe your educational background in 5–7 sentences",
+    "2. Compare the Czech and British education systems (3 similarities, 3 differences)",
+    "3. Write advice for a student starting university (use should/must/need to)"
+  ]
+}

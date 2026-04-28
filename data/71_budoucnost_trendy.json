@@ -1,0 +1,49 @@
+{
+  "num": "71",
+  "slug": "budoucnost_trendy",
+  "title": "Future Trends & Predictions",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "future language · trends · speculation · probability",
+  "description": "Jak mluvit o budoucnosti, trendech a predikcích — od jistoty po spekulaci.",
+  "vocabulary": [
+    {"en": "trend", "cz": "trend"},
+    {"en": "forecast", "cz": "předpověď, prognóza"},
+    {"en": "prediction", "cz": "predikce, předpověď"},
+    {"en": "scenario", "cz": "scénář"},
+    {"en": "inevitable", "cz": "nevyhnutelný"},
+    {"en": "likely / unlikely", "cz": "pravděpodobný / nepravděpodobný"},
+    {"en": "emerging", "cz": "nově vznikající, rodící se"},
+    {"en": "disruptive", "cz": "disruptivní, průlomový"},
+    {"en": "automation", "cz": "automatizace"},
+    {"en": "obsolete", "cz": "zastaralý"},
+    {"en": "sustainable", "cz": "udržitelný"},
+    {"en": "breakthrough", "cz": "průlom"},
+    {"en": "long-term", "cz": "dlouhodobý"},
+    {"en": "short-term", "cz": "krátkodobý"},
+    {"en": "by 2050", "cz": "do roku 2050"}
+  ],
+  "notes": [
+    "✓ Certain: 'will', 'is going to', 'is bound to', 'is certain to'",
+    "✓ Probable: 'is likely to', 'will probably', 'I expect'",
+    "✓ Possible: 'might', 'could', 'may', 'there is a chance that'",
+    "✓ Unlikely: 'is unlikely to', 'I doubt that', 'probably won't'",
+    "✓ 'It is predicted that...' / 'Experts forecast...' / 'Projections suggest...'"
+  ],
+  "examples": [
+    {"en": "AI is likely to automate many routine jobs within the next decade.", "cz": "AI pravděpodobně automatizuje mnoho rutinních pracovních míst v příštím desetiletí."},
+    {"en": "It is predicted that global temperatures will rise by 2°C by 2050.", "cz": "Předpovídá se, že globální teploty do roku 2050 vzrostou o 2 °C."},
+    {"en": "Electric vehicles are bound to become the standard within 20 years.", "cz": "Elektrická vozidla se jistě stanou standardem do 20 let."},
+    {"en": "There is a chance that fusion energy could solve the climate crisis.", "cz": "Existuje šance, že fúzní energie by mohla vyřešit klimatickou krizi."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "This technology is ___ to replace traditional methods. (certain)", "answer": "bound / certain"},
+    {"type": "fill", "sentence": "Experts ___ that demand will double by 2030.", "answer": "predict / forecast"},
+    {"type": "fill", "sentence": "Remote work is ___ to remain common. (probable)", "answer": "likely"},
+    {"type": "fill", "sentence": "Many jobs that exist today will become ___ by 2040.", "answer": "obsolete"}
+  ],
+  "tasks": [
+    "1. Write 5 predictions about your own field/industry in 10 years",
+    "2. Write a paragraph about a trend you find most interesting or worrying",
+    "3. Compare two scenarios for the future of cities: optimistic vs pessimistic"
+  ]
+}

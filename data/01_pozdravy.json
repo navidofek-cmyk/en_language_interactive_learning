@@ -1,0 +1,111 @@
+{
+  "num": "01",
+  "slug": "pozdravy",
+  "title": "Greetings & Introductions",
+  "level": "⭐ Level: A1 | Beginner",
+  "topics": "greetings · introductions · courtesy phrases",
+  "description": "Základní anglické pozdravy a věty pro první seznámení.",
+  "vocabulary": [
+    {
+      "en": "Hello / Hi",
+      "cz": "Ahoj / Dobrý den"
+    },
+    {
+      "en": "Good morning",
+      "cz": "Dobré ráno"
+    },
+    {
+      "en": "Good afternoon",
+      "cz": "Dobré odpoledne"
+    },
+    {
+      "en": "Good evening",
+      "cz": "Dobrý večer"
+    },
+    {
+      "en": "Goodbye / Bye",
+      "cz": "Nashledanou / Čau"
+    },
+    {
+      "en": "See you later",
+      "cz": "Uvidíme se"
+    },
+    {
+      "en": "How are you?",
+      "cz": "Jak se máš?"
+    },
+    {
+      "en": "I'm fine, thank you",
+      "cz": "Jsem v pořádku, díky"
+    },
+    {
+      "en": "My name is ...",
+      "cz": "Jmenuji se ..."
+    },
+    {
+      "en": "What's your name?",
+      "cz": "Jak se jmenuješ?"
+    },
+    {
+      "en": "Nice to meet you",
+      "cz": "Těší mě"
+    },
+    {
+      "en": "Where are you from?",
+      "cz": "Odkud jsi?"
+    },
+    {
+      "en": "I'm from ...",
+      "cz": "Jsem z ..."
+    },
+    {
+      "en": "Please",
+      "cz": "Prosím"
+    },
+    {
+      "en": "Thank you",
+      "cz": "Děkuji"
+    },
+    {
+      "en": "You're welcome",
+      "cz": "Není zač"
+    },
+    {
+      "en": "Excuse me",
+      "cz": "Promiňte / S dovolením"
+    },
+    {
+      "en": "Sorry",
+      "cz": "Omlouvám se"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "A",
+      "text": "Good morning! My name is Jan. What"
+    },
+    {
+      "speaker": "B",
+      "text": "Hi Jan! I"
+    },
+    {
+      "speaker": "A",
+      "text": "Nice to meet you too! Where are you from?"
+    },
+    {
+      "speaker": "B",
+      "text": "Bye Jan! See you later!"
+    }
+  ],
+  "notes": [
+    "\\n📝 GRAMMAR NOTE:",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Add 5 more courtesy phrases to VOCABULARY",
+    "2. Write a function introduce(name, city) that prints a full",
+    "3. Create an interactive conversation: ask the user their name"
+  ]
+}

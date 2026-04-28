@@ -1,0 +1,85 @@
+{
+  "num": "03",
+  "slug": "climate_change",
+  "title": "Climate Change — The Facts",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "environment · passive voice · statistics · argument",
+  "description": "Klimatická změna — fakta, dopady a řešení.",
+  "vocabulary": [
+    {
+      "en": "profound",
+      "cz": "hluboký, zásadní"
+    },
+    {
+      "en": "ecosystem",
+      "cz": "ekosystém"
+    },
+    {
+      "en": "primarily",
+      "cz": "především, hlavně"
+    },
+    {
+      "en": "unprecedented",
+      "cz": "bezprecedentní"
+    },
+    {
+      "en": "contribute to",
+      "cz": "přispívat k"
+    },
+    {
+      "en": "submerged",
+      "cz": "zaplavený, ponořený"
+    },
+    {
+      "en": "commit to",
+      "cz": "zavázat se k"
+    },
+    {
+      "en": "emissions",
+      "cz": "emise"
+    },
+    {
+      "en": "transition",
+      "cz": "přechod, transformace"
+    },
+    {
+      "en": "consumption",
+      "cz": "spotřeba"
+    },
+    {
+      "en": "political will",
+      "cz": "politická vůle"
+    },
+    {
+      "en": "narrow",
+      "cz": "zužovat se (okno možností)"
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [
+    {
+      "en": "Name three human activities that cause global warming.",
+      "cz": "Burning fossil fuels, deforestation, industrial agriculture."
+    },
+    {
+      "en": "What was agreed in the Paris Agreement?",
+      "cz": "To limit global warming to 1.5°C above pre-industrial levels."
+    },
+    {
+      "en": "What does the article say about renewable energy?",
+      "cz": "It has grown dramatically and is now often cheaper than fossil fuels."
+    },
+    {
+      "en": "According to the article, what is lacking in the fight against climate change?",
+      "cz": "Not technology, but political will and public pressure."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write a 5-sentence summary of the article using your own words",
+    "2. Choose ONE solution mentioned and argue WHY it is the most important",
+    "3. Write a letter to a government minister urging immediate action on climate change"
+  ],
+  "article_text": "CLIMATE CHANGE — THE FACTS\n\nThe Earth's average temperature has risen by approximately 1.2°C since the\nindustrial revolution. This may sound small, but it is having profound effects\non weather patterns, sea levels, and ecosystems across the planet. Scientists\nagree that this warming is primarily caused by human activities — the burning\nof fossil fuels, deforestation, and industrial agriculture.\n\nThe consequences are already visible. Extreme weather events — droughts,\nfloods, and heatwaves — are becoming more frequent and more intense. Arctic\nice is melting at an unprecedented rate, contributing to rising sea levels.\nLow-lying island nations and coastal cities face the real prospect of being\npartially submerged within this century.\n\nIn 2015, nearly 200 countries signed the Paris Agreement, committing to limit\nglobal warming to 1.5°C above pre-industrial levels. Progress has been slow.\nGlobal emissions are still rising, although the rate of increase has slowed.\nRenewable energy — solar and wind in particular — has grown dramatically and\nis now often cheaper than fossil fuels.\n\nThe debate is no longer about whether climate change is happening, but about\nhow fast we can act. The solutions are known: transition to clean energy,\nprotect forests, change agricultural practices, and reduce consumption. What\nis lacking is not technology, but political will and public pressure.\n\nThe window for action is narrowing, but it has not yet closed."
+}

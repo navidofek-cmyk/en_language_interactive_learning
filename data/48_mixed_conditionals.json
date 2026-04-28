@@ -1,0 +1,67 @@
+{
+  "num": "48",
+  "slug": "mixed_conditionals",
+  "title": "Mixed Conditionals & Advanced Conditionals",
+  "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
+  "topics": "mixed type 2/3 · unless · providing/provided · as long as · but for",
+  "description": "Smíšené podmínkové věty a pokročilé kondicionální struktury.",
+  "vocabulary": [
+    {
+      "en": "structure",
+      "cz": "If + past perfect, would + infinitive"
+    },
+    {
+      "en": "meaning",
+      "cz": "Past condition → present result"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "Pure 3rd: If I had studied, I would HAVE PASSED. (past→past)",
+    "Mixed:   If I had studied, I WOULD BE a doctor. (past→present)\\n",
+    "Pure 2nd: If I were rich, I WOULD BUY a yacht. (present→present)",
+    "Mixed:   If I were braver, I WOULD HAVE APPLIED. (present→past)",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "If I had studied medicine, I would be a doctor now.",
+      "cz": "Kdybych studoval/a medicínu, byl/a bych teď doktor/ka."
+    },
+    {
+      "en": "If we had invested in Bitcoin, we would be rich now.",
+      "cz": "Kdybychom investovali do Bitcoinu, byli bychom teď bohatí."
+    },
+    {
+      "en": "If I were braver, I would have applied for that job.",
+      "cz": "Kdybych byl/a odvážnější, přihlásil/a bych se na tu práci."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "If she ___ (study) harder, she would have a degree now.",
+      "answer": "had studied"
+    },
+    {
+      "type": "fill",
+      "sentence": "If I ___ (be) taller, I would have become a basketball player.",
+      "answer": "were"
+    },
+    {
+      "type": "fill",
+      "sentence": "I ___ (help) you yesterday if I had known you needed it.",
+      "answer": "would have helped"
+    },
+    {
+      "type": "fill",
+      "sentence": "You can stay, ___ you behave yourself. (condition)",
+      "answer": "as long as / provided"
+    }
+  ],
+  "tasks": [
+    "1. Write 3 mixed conditionals about your own life:",
+    "2. Complete these with your own ideas:",
+    "3. Write a paragraph about a turning point in your life using mixed conditionals"
+  ]
+}

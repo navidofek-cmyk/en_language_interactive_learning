@@ -1,0 +1,68 @@
+{
+  "num": "42",
+  "slug": "slovotvorba",
+  "title": "Word Formation",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "prefixes · suffixes · noun/verb/adjective formation · word families",
+  "description": "Tvoření slov — předpony, přípony a konverze.",
+  "vocabulary": [
+    {
+      "en": "noun",
+      "cz": "education, educator"
+    },
+    {
+      "en": "verb",
+      "cz": "educate"
+    },
+    {
+      "en": "adjective",
+      "cz": "educated, educational"
+    },
+    {
+      "en": "adverb",
+      "cz": "educationally"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "The ___ (create) of this painting took two years. (noun)",
+      "answer": "creation"
+    },
+    {
+      "type": "fill",
+      "sentence": "She is very ___ (depend) on her phone. (adj)",
+      "answer": "dependent"
+    },
+    {
+      "type": "fill",
+      "sentence": "His ___ (manage) of the project was excellent. (noun)",
+      "answer": "management"
+    },
+    {
+      "type": "fill",
+      "sentence": "We need to ___ (consider) our strategy. (do again)",
+      "answer": "reconsider"
+    },
+    {
+      "type": "fill",
+      "sentence": "She is ___ (employ) — she runs her own business. (adj)",
+      "answer": "self-employed"
+    },
+    {
+      "type": "fill",
+      "sentence": "The film was completely ___ (predict) — I knew the ending. (adj, negative)",
+      "answer": "unpredictable"
+    }
+  ],
+  "tasks": [
+    "1. For each suffix, create 3 new words not in the examples",
+    "2. Build a word family for: nation, develop, employ, succeed",
+    "3. Write a paragraph using at least 10 words formed with prefixes/suffixes"
+  ]
+}

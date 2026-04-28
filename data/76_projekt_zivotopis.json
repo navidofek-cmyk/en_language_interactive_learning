@@ -1,0 +1,50 @@
+{
+  "num": "76",
+  "slug": "projekt_zivotopis",
+  "title": "Project — CV & Cover Letter",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "CV structure · cover letter · job application · professional language",
+  "description": "Projekt: napiš anglický životopis a průvodní dopis na konkrétní pracovní pozici.",
+  "vocabulary": [
+    {"en": "curriculum vitae (CV)", "cz": "životopis"},
+    {"en": "résumé", "cz": "životopis (americký formát)"},
+    {"en": "cover letter", "cz": "průvodní dopis"},
+    {"en": "work experience", "cz": "pracovní zkušenosti"},
+    {"en": "qualifications", "cz": "kvalifikace"},
+    {"en": "references", "cz": "reference"},
+    {"en": "key skills", "cz": "klíčové dovednosti"},
+    {"en": "achievements", "cz": "úspěchy, výsledky"},
+    {"en": "objective / profile", "cz": "cíl / profil (CV sekce)"},
+    {"en": "relevant experience", "cz": "relevantní zkušenosti"},
+    {"en": "proficient in", "cz": "ovládám, jsem zdatný v"},
+    {"en": "fluent in", "cz": "plynně hovořím"},
+    {"en": "available for interview", "cz": "k dispozici pro pohovor"},
+    {"en": "enclose", "cz": "přikládám (k dopisu)"}
+  ],
+  "notes": [
+    "✓ CV Profile: 2–3 sentences: who you are + key skills + what you're looking for",
+    "✓ Work experience: most recent first, use action verbs (managed, developed, increased)",
+    "✓ Cover letter opening: 'I am writing to apply for the position of...'",
+    "✓ Cover letter body: why you're suitable + what you offer + why this company",
+    "✓ Cover letter closing: 'I would welcome the opportunity to discuss...'",
+    "⚠️  British CV: include education, work experience, skills, interests, references",
+    "⚠️  American résumé: shorter (1 page), no photo, no date of birth"
+  ],
+  "examples": [
+    {"en": "I am writing to apply for the position of Software Engineer as advertised on your website.", "cz": "Píši vám ohledně pracovní pozice softwarového inženýra inzerované na vašem webu."},
+    {"en": "Managed a team of 8 developers and delivered the project 2 weeks ahead of schedule.", "cz": "Vedl/a jsem tým 8 vývojářů a projekt byl dokončen 2 týdny před termínem."},
+    {"en": "I am proficient in Python, SQL, and cloud platforms including AWS.", "cz": "Ovládám Python, SQL a cloudové platformy včetně AWS."},
+    {"en": "I enclose my CV and look forward to hearing from you.", "cz": "Přikládám svůj životopis a těším se na vaši odpověď."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "I am writing to ___ for the position of Marketing Manager.", "answer": "apply"},
+    {"type": "fill", "sentence": "She ___ a team of 12 and increased sales by 20%.", "answer": "managed / led"},
+    {"type": "fill", "sentence": "I am ___ in French and have basic knowledge of Spanish.", "answer": "fluent"},
+    {"type": "fill", "sentence": "Please find ___ my CV for your consideration.", "answer": "enclosed / attached"}
+  ],
+  "tasks": [
+    "1. Write your CV in English — profile, experience, education, skills (1 page)",
+    "2. Write a cover letter for a job you would like to apply for (150–200 words)",
+    "3. Research: What are 3 differences between a British CV and an American résumé?"
+  ]
+}

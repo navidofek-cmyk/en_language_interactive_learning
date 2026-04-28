@@ -1,0 +1,69 @@
+{
+  "num": "07",
+  "slug": "projekt_predstaveni",
+  "title": "Project — Full Self Introduction",
+  "level": "⭐⭐ Level: A1–A2 | Beginner–Elementary",
+  "topics": "putting it all together · natural conversation · writing",
+  "description": "Projekt: sestav kompletní sebepředstavení v angličtině. Combines vocabulary from lessons 01–06.",
+  "vocabulary": [
+    {
+      "en": "I was born in ...",
+      "cz": "Narodil/a jsem se v ..."
+    },
+    {
+      "en": "I grew up in ...",
+      "cz": "Vyrůstal/a jsem v ..."
+    },
+    {
+      "en": "I work as a ...",
+      "cz": "Pracuji jako ..."
+    },
+    {
+      "en": "I study ...",
+      "cz": "Studuji ..."
+    },
+    {
+      "en": "In my free time I ...",
+      "cz": "Ve volném čase ..."
+    },
+    {
+      "en": "I enjoy ...",
+      "cz": "Baví mě ..."
+    },
+    {
+      "en": "I'm interested in ...",
+      "cz": "Zajímám se o ..."
+    },
+    {
+      "en": "My hobbies are ...",
+      "cz": "Moje koníčky jsou ..."
+    },
+    {
+      "en": "I live with my family",
+      "cz": "Žiju s rodinou"
+    },
+    {
+      "en": "I live alone",
+      "cz": "Žiju sám/sama"
+    },
+    {
+      "en": "I have a dog/cat",
+      "cz": "Mám psa/kočku"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n ✓ Well done! Try reading it aloud — pronunciation matters!",
+    "✓ Use contractions: I",
+    "✓ Vary sentence starters: Also... / As well as... / Apart from...",
+    "✓ Add opinions: I really enjoy... / I",
+    "✓ End with a question: What about you?"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Expand the introduction to 8–10 sentences using EXAMPLE_PHRASES",
+    "2. Write a second version as a formal introduction (job interview style)",
+    "3. Add pronunciation notes: which words are commonly mispronounced"
+  ]
+}

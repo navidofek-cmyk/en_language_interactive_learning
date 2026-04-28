@@ -1,0 +1,93 @@
+{
+  "num": "07",
+  "slug": "sleep_science",
+  "title": "The Science of Sleep",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "science · health · passive voice · modal verbs · data",
+  "description": "Věda o spánku — proč je tak důležitý a co se děje, když ho máme málo.",
+  "vocabulary": [
+    {
+      "en": "consolidate",
+      "cz": "upevnit, konsolidovat"
+    },
+    {
+      "en": "regulate",
+      "cz": "regulovat"
+    },
+    {
+      "en": "immune system",
+      "cz": "imunitní systém"
+    },
+    {
+      "en": "toxic",
+      "cz": "toxický"
+    },
+    {
+      "en": "associated with",
+      "cz": "spojený s"
+    },
+    {
+      "en": "glymphatic",
+      "cz": "glymfatický (systém čistění mozku)"
+    },
+    {
+      "en": "chronic",
+      "cz": "chronický"
+    },
+    {
+      "en": "cardiovascular",
+      "cz": "kardiovaskulární (srdeční-cévní)"
+    },
+    {
+      "en": "impaired",
+      "cz": "zhoršený, poškozený"
+    },
+    {
+      "en": "deprivation",
+      "cz": "deprivace, nedostatek"
+    },
+    {
+      "en": "badge of honour",
+      "cz": "odznak cti"
+    },
+    {
+      "en": "misguided",
+      "cz": "mylný, špatně nasměrovaný"
+    },
+    {
+      "en": "consistent",
+      "cz": "pravidelný, konzistentní"
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [
+    {
+      "en": "What does the brain do during sleep?",
+      "cz": "Consolidates memories, repairs tissues, regulates hormones, strengthens immune system, removes toxic waste."
+    },
+    {
+      "en": "What is the glymphatic network?",
+      "cz": "A recently discovered system that removes toxic waste products from the brain."
+    },
+    {
+      "en": "What health risks are associated with sleeping fewer than 6 hours?",
+      "cz": "Obesity, diabetes, cardiovascular disease, depression, increased stroke risk."
+    },
+    {
+      "en": "How does the article describe the cultural attitude to sleep deprivation?",
+      "cz": "It is worn as a badge of honour — sleeping little is seen as a sign of dedication."
+    },
+    {
+      "en": "How many hours of sleep do adults need?",
+      "cz": "Between 7 and 9 hours per night."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write a 100-word summary of the article's main points",
+    "2. Write a list of 5 pieces of advice for better sleep using modal verbs",
+    "3. Research: What is REM sleep and why is it important? Write 3 sentences."
+  ],
+  "article_text": "THE SCIENCE OF SLEEP\n\nWe spend approximately one third of our lives asleep. Yet despite this,\nmany people treat sleep as a luxury rather than a necessity. Research\nsuggests that this attitude could be seriously damaging our health.\n\nDuring sleep, the brain does not simply switch off. It performs a series\nof critical maintenance tasks. Memories are consolidated and transferred\nfrom short-term to long-term storage. The body repairs tissues, regulates\nhormones, and strengthens the immune system. The brain also removes\ntoxic waste products — including proteins associated with Alzheimer's disease —\nthrough a recently discovered system called the glymphatic network.\n\nThe consequences of poor sleep are well-documented. A chronic lack of sleep\nhas been linked to obesity, type 2 diabetes, cardiovascular disease, and\ndepression. Studies show that sleeping fewer than six hours a night increases\nthe risk of having a stroke by four times. Concentration, memory, and\ndecision-making are all impaired after even one night of insufficient sleep.\n\nYet in many cultures, sleep deprivation is worn as a badge of honour.\n'I only sleep four hours' is said with pride, as if suffering were a sign\nof dedication. Sleep scientists argue that this attitude is not only\nmisguided but actively harmful.\n\nAdults need between seven and nine hours of sleep per night. Teenagers need\neven more. Creating good sleep habits — a consistent schedule, a dark and\ncool room, limiting screens before bed — can make a dramatic difference\nto physical and mental health."
+}

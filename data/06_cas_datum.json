@@ -1,0 +1,157 @@
+{
+  "num": "06",
+  "slug": "cas_datum",
+  "title": "Time & Date",
+  "level": "⭐ Level: A1–A2 | Beginner",
+  "topics": "days · months · telling the time · dates · seasons",
+  "description": "Jak říct čas, datum a dny v angličtině.",
+  "vocabulary": [
+    {
+      "en": "Monday",
+      "cz": "pondělí"
+    },
+    {
+      "en": "Tuesday",
+      "cz": "úterý"
+    },
+    {
+      "en": "Wednesday",
+      "cz": "středa"
+    },
+    {
+      "en": "Thursday",
+      "cz": "čtvrtek"
+    },
+    {
+      "en": "Friday",
+      "cz": "pátek"
+    },
+    {
+      "en": "Saturday",
+      "cz": "sobota"
+    },
+    {
+      "en": "Sunday",
+      "cz": "neděle"
+    },
+    {
+      "en": "January",
+      "cz": "leden"
+    },
+    {
+      "en": "February",
+      "cz": "únor"
+    },
+    {
+      "en": "March",
+      "cz": "březen"
+    },
+    {
+      "en": "April",
+      "cz": "duben"
+    },
+    {
+      "en": "May",
+      "cz": "květen"
+    },
+    {
+      "en": "June",
+      "cz": "červen"
+    },
+    {
+      "en": "July",
+      "cz": "červenec"
+    },
+    {
+      "en": "August",
+      "cz": "srpen"
+    },
+    {
+      "en": "September",
+      "cz": "září"
+    },
+    {
+      "en": "October",
+      "cz": "říjen"
+    },
+    {
+      "en": "November",
+      "cz": "listopad"
+    },
+    {
+      "en": "December",
+      "cz": "prosinec"
+    },
+    {
+      "en": "spring",
+      "cz": "jaro"
+    },
+    {
+      "en": "summer",
+      "cz": "léto"
+    },
+    {
+      "en": "autumn / fall",
+      "cz": "podzim"
+    },
+    {
+      "en": "winter",
+      "cz": "zima"
+    },
+    {
+      "en": "What time is it?",
+      "cz": "Kolik je hodin?"
+    },
+    {
+      "en": "It's three o'clock",
+      "cz": "Je tři hodiny"
+    },
+    {
+      "en": "It's half past two",
+      "cz": "Je půl třetí (2:30)"
+    },
+    {
+      "en": "It's quarter past four",
+      "cz": "Je čtvrt na pět (4:15)"
+    },
+    {
+      "en": "It's quarter to six",
+      "cz": "Je tři čtvrtě na šest (5:45)"
+    },
+    {
+      "en": "in the morning",
+      "cz": "ráno / dopoledne"
+    },
+    {
+      "en": "in the afternoon",
+      "cz": "odpoledne"
+    },
+    {
+      "en": "in the evening",
+      "cz": "večer"
+    },
+    {
+      "en": "at night",
+      "cz": "v noci"
+    },
+    {
+      "en": "at noon",
+      "cz": "v poledne"
+    },
+    {
+      "en": "at midnight",
+      "cz": "o půlnoci"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Extend tell_time() to handle all minutes (e.g. \"It's ten past three\")",
+    "2. Write a function date_to_english(day, month, year) that returns the",
+    "3. Create a clock quiz: generate random times and ask user to type them out"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "num": "62",
+  "slug": "predlozky_pokrocile",
+  "title": "Prepositions — Advanced",
+  "level": "⭐⭐⭐ B1–B2 | Upper-Intermediate",
+  "topics": "prepositions of time · place · movement · dependent prepositions",
+  "description": "Pokročilé předložky — časté chyby Čechů a závislé předložky po slovesech.",
+  "vocabulary": [
+    {"en": "at + time point", "cz": "at 3 o'clock / at midnight / at Christmas"},
+    {"en": "on + day/date", "cz": "on Monday / on 5th May / on my birthday"},
+    {"en": "in + period", "cz": "in January / in 2024 / in the morning"},
+    {"en": "by", "cz": "do (termínu): by Friday, by 2025"},
+    {"en": "until / till", "cz": "až do (průběhu): I worked until midnight"},
+    {"en": "since", "cz": "od (s perfect): I've lived here since 2010"},
+    {"en": "for", "cz": "po dobu: I've lived here for 10 years"},
+    {"en": "within", "cz": "do (lhůty): reply within 24 hours"},
+    {"en": "despite / in spite of", "cz": "navzdory (+ noun/-ing)"},
+    {"en": "due to / owing to", "cz": "kvůli, v důsledku (+ noun)"},
+    {"en": "apart from / except for", "cz": "kromě"},
+    {"en": "regardless of", "cz": "bez ohledu na"},
+    {"en": "on behalf of", "cz": "jménem, za"},
+    {"en": "in terms of", "cz": "pokud jde o, z hlediska"},
+    {"en": "with regard to", "cz": "co se týče, ohledně"}
+  ],
+  "notes": [
+    "⚠️  by vs until: 'Finish BY Friday' (deadline) vs 'Work UNTIL Friday' (duration)",
+    "⚠️  despite + noun/-ing: 'Despite the rain' / 'Despite feeling tired'",
+    "⚠️  NOT: 'despite of' — just 'despite'",
+    "✓ interested IN, good AT, afraid OF, responsible FOR, dependent ON",
+    "✓ differ FROM, result IN, consist OF, lead TO, apply FOR",
+    "✓ at the end (specific) vs in the end (finally, after everything)"
+  ],
+  "examples": [
+    {"en": "Despite the difficulties, she succeeded.", "cz": "Navzdory obtížím uspěla."},
+    {"en": "The meeting was cancelled due to bad weather.", "cz": "Schůzka byla zrušena kvůli špatnému počasí."},
+    {"en": "I'll have the report ready by Thursday.", "cz": "Zprávu budu mít připravenou do čtvrtka."},
+    {"en": "She's been working here since she graduated.", "cz": "Pracuje zde od doby, co promovala."},
+    {"en": "Regardless of the outcome, we gave our best.", "cz": "Bez ohledu na výsledek jsme podali nejlepší výkon."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "He's been learning English ___ five years.", "answer": "for"},
+    {"type": "fill", "sentence": "She left ___ saying goodbye. (without)", "answer": "without"},
+    {"type": "fill", "sentence": "___ the rain, they continued walking.", "answer": "Despite"},
+    {"type": "fill", "sentence": "Please submit the form ___ Monday.", "answer": "by"},
+    {"type": "fill", "sentence": "She's very good ___ mathematics.", "answer": "at"}
+  ],
+  "tasks": [
+    "1. Write 5 sentences about your week using: by, until, since, for, within",
+    "2. Complete: 'Despite ___, I...' (5 different completions)",
+    "3. Find 10 dependent prepositions (verb/adj + prep) not listed above — learn them"
+  ]
+}

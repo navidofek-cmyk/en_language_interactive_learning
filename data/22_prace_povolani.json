@@ -1,0 +1,243 @@
+{
+  "num": "22",
+  "slug": "prace_povolani",
+  "title": "Work & Jobs",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "jobs · workplace · job interview · work phrases",
+  "description": "Povolání, práce a pracovní pohovor.",
+  "vocabulary": [
+    {
+      "en": "engineer",
+      "cz": "inženýr/ka"
+    },
+    {
+      "en": "doctor",
+      "cz": "lékař/ka"
+    },
+    {
+      "en": "nurse",
+      "cz": "zdravotní sestra/bratr"
+    },
+    {
+      "en": "teacher",
+      "cz": "učitel/ka"
+    },
+    {
+      "en": "lawyer",
+      "cz": "právník/čka"
+    },
+    {
+      "en": "accountant",
+      "cz": "účetní"
+    },
+    {
+      "en": "architect",
+      "cz": "architekt/ka"
+    },
+    {
+      "en": "programmer",
+      "cz": "programátor/ka"
+    },
+    {
+      "en": "designer",
+      "cz": "designér/ka"
+    },
+    {
+      "en": "journalist",
+      "cz": "novinář/ka"
+    },
+    {
+      "en": "manager",
+      "cz": "manažer/ka"
+    },
+    {
+      "en": "sales rep",
+      "cz": "obchodní zástupce"
+    },
+    {
+      "en": "mechanic",
+      "cz": "mechanik/čka"
+    },
+    {
+      "en": "electrician",
+      "cz": "elektrikář/ka"
+    },
+    {
+      "en": "chef",
+      "cz": "šéfkuchař/ka"
+    },
+    {
+      "en": "waiter/waitress",
+      "cz": "číšník/servírka"
+    },
+    {
+      "en": "driver",
+      "cz": "řidič/ka"
+    },
+    {
+      "en": "pilot",
+      "cz": "pilot/ka"
+    },
+    {
+      "en": "police officer",
+      "cz": "policista/ka"
+    },
+    {
+      "en": "firefighter",
+      "cz": "hasič/ka"
+    },
+    {
+      "en": "scientist",
+      "cz": "vědec/vědkyně"
+    },
+    {
+      "en": "researcher",
+      "cz": "výzkumník/ce"
+    },
+    {
+      "en": "office",
+      "cz": "kancelář"
+    },
+    {
+      "en": "factory",
+      "cz": "továrna"
+    },
+    {
+      "en": "hospital",
+      "cz": "nemocnice"
+    },
+    {
+      "en": "school",
+      "cz": "škola"
+    },
+    {
+      "en": "laboratory",
+      "cz": "laboratoř"
+    },
+    {
+      "en": "site",
+      "cz": "staveniště"
+    },
+    {
+      "en": "warehouse",
+      "cz": "sklad"
+    },
+    {
+      "en": "remote",
+      "cz": "vzdáleně/home office"
+    },
+    {
+      "en": "shift work",
+      "cz": "směnný provoz"
+    },
+    {
+      "en": "overtime",
+      "cz": "přesčas"
+    },
+    {
+      "en": "salary",
+      "cz": "plat (měsíční)"
+    },
+    {
+      "en": "wage",
+      "cz": "mzda (hodinová)"
+    },
+    {
+      "en": "contract",
+      "cz": "smlouva"
+    },
+    {
+      "en": "interview",
+      "cz": "pohovor"
+    },
+    {
+      "en": "promotion",
+      "cz": "povýšení"
+    },
+    {
+      "en": "deadline",
+      "cz": "termín"
+    },
+    {
+      "en": "colleague",
+      "cz": "kolega/kolegyně"
+    },
+    {
+      "en": "Tell me about yourself.",
+      "cz": "Řekněte mi o sobě."
+    },
+    {
+      "en": "What are your strengths?",
+      "cz": "Jaké jsou vaše silné stránky?"
+    },
+    {
+      "en": "What are your weaknesses?",
+      "cz": "Jaké jsou vaše slabé stránky?"
+    },
+    {
+      "en": "Why do you want this job?",
+      "cz": "Proč chcete tuto práci?"
+    },
+    {
+      "en": "I have experience in ...",
+      "cz": "Mám zkušenosti v oblasti ..."
+    },
+    {
+      "en": "I'm a good team player.",
+      "cz": "Jsem dobrý/á týmový/á hráč/ka."
+    },
+    {
+      "en": "I work well under pressure.",
+      "cz": "Dobře pracuji pod tlakem."
+    },
+    {
+      "en": "I'm looking for new challenges.",
+      "cz": "Hledám nové výzvy."
+    },
+    {
+      "en": "What does the role involve?",
+      "cz": "Co tato pozice zahrnuje?"
+    },
+    {
+      "en": "What is the salary range?",
+      "cz": "Jaký je platový rozsah?"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Interviewer",
+      "text": "Can you tell me a bit about your background?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "Of course. I"
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "What are your main strengths?"
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "Why are you leaving your current job?"
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "Do you have any questions for us?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "Yes — what does a typical day in this role look like?"
+    }
+  ],
+  "notes": [
+    "I am an engineer.   (NOT: I am engineer)",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Describe your job (or dream job) in 5 English sentences",
+    "2. Prepare answers to the 5 most common interview questions",
+    "3. Write a short cover letter (6–8 sentences) for a job you'd like"
+  ]
+}

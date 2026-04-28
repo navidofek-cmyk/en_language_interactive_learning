@@ -1,0 +1,91 @@
+{
+  "num": "01",
+  "slug": "coffee",
+  "title": "The History of Coffee",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "history · food & drink · past tenses",
+  "description": "Přečti si článek, nauč se slovíčka a odpověz na otázky.",
+  "vocabulary": [
+    {
+      "en": "legend",
+      "cz": "legenda, pověst"
+    },
+    {
+      "en": "goat herder",
+      "cz": "pastýř koz"
+    },
+    {
+      "en": "energetic",
+      "cz": "energický"
+    },
+    {
+      "en": "monastery",
+      "cz": "klášter"
+    },
+    {
+      "en": "prayer",
+      "cz": "modlitba"
+    },
+    {
+      "en": "Arabian Peninsula",
+      "cz": "Arabský poloostrov"
+    },
+    {
+      "en": "trade",
+      "cz": "obchodovat"
+    },
+    {
+      "en": "qahveh khaneh",
+      "cz": "kavárna (arabsky)"
+    },
+    {
+      "en": "institution",
+      "cz": "instituce"
+    },
+    {
+      "en": "phenomenon",
+      "cz": "jev, fenomén"
+    },
+    {
+      "en": "consume",
+      "cz": "spotřebovat, konzumovat"
+    },
+    {
+      "en": "producer",
+      "cz": "producent, výrobce"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n ✓ Well done! Try to answer without looking at the article next time."
+  ],
+  "examples": [
+    {
+      "en": "Where did coffee originally come from?",
+      "cz": "Ethiopia (East Africa)"
+    },
+    {
+      "en": "What did Kaldi notice about his goats?",
+      "cz": "They became very energetic after eating certain berries."
+    },
+    {
+      "en": "What were qahveh khaneh?",
+      "cz": "Coffee houses / social places in the Middle East."
+    },
+    {
+      "en": "When did the first English coffee house open?",
+      "cz": "1652 (in Oxford)."
+    },
+    {
+      "en": "How many cups of coffee are consumed worldwide every day?",
+      "cz": "Over 2.25 billion."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Summarise the article in 3 sentences (without looking)",
+    "2. Write a short paragraph about the history of a food/drink from your country",
+    "3. Research: What is the difference between Arabica and Robusta coffee?"
+  ],
+  "article_text": "THE HISTORY OF COFFEE\n\nCoffee is one of the most popular drinks in the world, but where did it\ncome from? The story begins in Ethiopia, around the year 850 AD. According\nto legend, a goat herder named Kaldi noticed that his goats became very\nenergetic after eating berries from a certain tree. He tried the berries\nhimself and felt the same effect. Monks at a nearby monastery used the\nberries to make a drink that helped them stay awake during long evening prayers.\n\nBy the 15th century, coffee had spread to the Arabian Peninsula. People began\ngrowing coffee plants and trading the beans. Coffee houses, known as qahveh\nkhaneh, opened across the Middle East. They became important social places\nwhere people could meet, talk, and play chess.\n\nCoffee arrived in Europe in the 17th century and quickly became very popular.\nIn 1652, the first coffee house in England opened in Oxford. By 1675, there\nwere more than 3,000 coffee houses in England. Some of today's most important\ninstitutions began in coffee houses — Lloyd's of London, the famous insurance\ncompany, started as a coffee house.\n\nToday, over 2.25 billion cups of coffee are consumed every day worldwide.\nBrazil is the largest producer, followed by Vietnam and Colombia. Coffee\nremains not just a drink, but a global cultural phenomenon."
+}

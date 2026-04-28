@@ -1,0 +1,81 @@
+{
+  "num": "31",
+  "slug": "vztazne_vety",
+  "title": "Relative Clauses",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "defining · non-defining · relative pronouns · omission",
+  "description": "Vztažné věty — who, which, that, where, whose, when.",
+  "vocabulary": [],
+  "dialogue": [],
+  "notes": [
+    "✗ My car, that is red, is fast.",
+    "✓ My car, which is red, is fast.",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "The man who lives next door is very quiet.",
+      "cz": "Muž, který bydlí vedle, je velmi tichý."
+    },
+    {
+      "en": "Is this the book that you recommended?",
+      "cz": "Je to ta kniha, kterou jsi doporučil/a?"
+    },
+    {
+      "en": "Do you know a good restaurant where we can eat?",
+      "cz": "Znáš dobrý restauraci, kde můžeme jíst?"
+    },
+    {
+      "en": "The woman whose bag was stolen reported it.",
+      "cz": "Žena, které ukradli kabelku, to nahlásila."
+    },
+    {
+      "en": "My sister, who lives in London, is a doctor.",
+      "cz": "Moje sestra, která žije v Londýně, je doktorka."
+    },
+    {
+      "en": "Prague, which is the capital of Czechia, is beautiful.",
+      "cz": "Praha, která je hlavním městem Česka, je krásná."
+    },
+    {
+      "en": "His new car, which cost a fortune, broke down.",
+      "cz": "Jeho nové auto, které stálo majlant, se pokazilo."
+    },
+    {
+      "en": "Is this the town ___ you grew up?",
+      "cz": "where"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "The woman ___ helped me was very kind.",
+      "answer": "who"
+    },
+    {
+      "type": "fill",
+      "sentence": "Is this the town ___ you grew up?",
+      "answer": "where"
+    },
+    {
+      "type": "fill",
+      "sentence": "The film ___ we watched last night was brilliant.",
+      "answer": "that / which"
+    },
+    {
+      "type": "fill",
+      "sentence": "The day ___ I got married was the happiest of my life.",
+      "answer": "when"
+    },
+    {
+      "type": "fill",
+      "sentence": "He spoke to the manager, ___ was very understanding.",
+      "answer": "who"
+    }
+  ],
+  "tasks": [
+    "1. Combine these pairs using a relative clause:",
+    "2. Write 3 non-defining relative clauses about people you know",
+    "3. Write a paragraph describing your city using at least 3 relative clauses"
+  ]
+}

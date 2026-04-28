@@ -1,0 +1,46 @@
+{
+  "num": "35",
+  "slug": "kvantifikatory",
+  "title": "Quantifiers",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "countable · uncountable · some/any · much/many · few/little · enough/too",
+  "description": "Kvantifikátory — some, any, much, many, few, little, a lot of...",
+  "vocabulary": [],
+  "dialogue": [],
+  "notes": [
+    "⚠️ Common Czech mistakes:",
+    "SOME → affirmative: I have some eggs.",
+    "ANY → negatives:  I don",
+    "A FEW / A LITTLE = some, but not much → POSITIVE meaning",
+    "FEW / LITTLE = almost none → NEGATIVE/pessimistic meaning",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "I need ___ minutes — just wait! (small positive)",
+      "answer": "a few"
+    },
+    {
+      "type": "fill",
+      "sentence": "She has ___ knowledge of the subject. (almost none)",
+      "answer": "little"
+    },
+    {
+      "type": "fill",
+      "sentence": "How ___ money do you need? (uncountable, question)",
+      "answer": "much"
+    },
+    {
+      "type": "fill",
+      "sentence": "There are ___ people in the queue today. (excessive)",
+      "answer": "too many"
+    }
+  ],
+  "tasks": [
+    "1. Describe what's in your fridge using quantifiers (some, a few, a lot of, no...)",
+    "2. Write 5 sentences about your city using much/many/a lot of/few/little",
+    "3. Write a complaint letter mentioning problems using too much/too many"
+  ]
+}

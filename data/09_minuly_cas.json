@@ -1,0 +1,225 @@
+{
+  "num": "09",
+  "slug": "minuly_cas",
+  "title": "Past Simple",
+  "level": "⭐⭐ Level: A2 | Elementary",
+  "topics": "regular verbs (-ed) · irregular verbs · negatives · questions",
+  "description": "Minulý čas prostý — dokončené děje v minulosti.",
+  "vocabulary": [
+    {
+      "en": "work",
+      "cz": "worked"
+    },
+    {
+      "en": "play",
+      "cz": "played"
+    },
+    {
+      "en": "watch",
+      "cz": "watched"
+    },
+    {
+      "en": "start",
+      "cz": "started"
+    },
+    {
+      "en": "finish",
+      "cz": "finished"
+    },
+    {
+      "en": "visit",
+      "cz": "visited"
+    },
+    {
+      "en": "love",
+      "cz": "loved"
+    },
+    {
+      "en": "use",
+      "cz": "used"
+    },
+    {
+      "en": "live",
+      "cz": "lived"
+    },
+    {
+      "en": "stop",
+      "cz": "stopped"
+    },
+    {
+      "en": "plan",
+      "cz": "planned"
+    },
+    {
+      "en": "travel",
+      "cz": "travelled"
+    },
+    {
+      "en": "study",
+      "cz": "studied"
+    },
+    {
+      "en": "try",
+      "cz": "tried"
+    },
+    {
+      "en": "cry",
+      "cz": "cried"
+    },
+    {
+      "en": "be",
+      "cz": "was/were"
+    },
+    {
+      "en": "have",
+      "cz": "had"
+    },
+    {
+      "en": "go",
+      "cz": "went"
+    },
+    {
+      "en": "come",
+      "cz": "came"
+    },
+    {
+      "en": "see",
+      "cz": "saw"
+    },
+    {
+      "en": "get",
+      "cz": "got"
+    },
+    {
+      "en": "make",
+      "cz": "made"
+    },
+    {
+      "en": "take",
+      "cz": "took"
+    },
+    {
+      "en": "know",
+      "cz": "knew"
+    },
+    {
+      "en": "think",
+      "cz": "thought"
+    },
+    {
+      "en": "say",
+      "cz": "said"
+    },
+    {
+      "en": "give",
+      "cz": "gave"
+    },
+    {
+      "en": "find",
+      "cz": "found"
+    },
+    {
+      "en": "tell",
+      "cz": "told"
+    },
+    {
+      "en": "buy",
+      "cz": "bought"
+    },
+    {
+      "en": "eat",
+      "cz": "ate"
+    },
+    {
+      "en": "drink",
+      "cz": "drank"
+    },
+    {
+      "en": "sleep",
+      "cz": "slept"
+    },
+    {
+      "en": "write",
+      "cz": "wrote"
+    },
+    {
+      "en": "read",
+      "cz": "read"
+    },
+    {
+      "en": "meet",
+      "cz": "met"
+    },
+    {
+      "en": "drive",
+      "cz": "drove"
+    },
+    {
+      "en": "fly",
+      "cz": "flew"
+    },
+    {
+      "en": "speak",
+      "cz": "spoke"
+    },
+    {
+      "en": "run",
+      "cz": "ran"
+    },
+    {
+      "en": "swim",
+      "cz": "swam"
+    },
+    {
+      "en": "win",
+      "cz": "won"
+    },
+    {
+      "en": "lose",
+      "cz": "lost"
+    },
+    {
+      "en": "break",
+      "cz": "broke"
+    },
+    {
+      "en": "feel",
+      "cz": "felt"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "⚠️ With DID/DIDN",
+    "✓ Did she GO?  (NE: Did she went?)",
+    "✓ I didn",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "I went to London last summer.",
+      "cz": "Loni v létě jsem byl/a v Londýně."
+    },
+    {
+      "en": "Did you see that film?",
+      "cz": "Viděl/a jsi ten film?"
+    },
+    {
+      "en": "We met at a coffee shop in 2019.",
+      "cz": "Poznali jsme se v kavárně v 2019."
+    },
+    {
+      "en": "He studied all night but failed.",
+      "cz": "Studoval celou noc, ale neuspěl."
+    },
+    {
+      "en": "They bought a new house last year.",
+      "cz": "Loni si koupili nový dům."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write a short paragraph (5–7 sentences) about what you did last weekend",
+    "2. Convert each sentence to a question (Did you ...?)",
+    "3. Learn the 50 most common irregular verbs — create flashcard pairs"
+  ]
+}

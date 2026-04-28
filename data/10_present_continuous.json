@@ -1,0 +1,75 @@
+{
+  "num": "10",
+  "slug": "present_continuous",
+  "title": "Present Continuous",
+  "level": "⭐⭐ Level: A2 | Elementary",
+  "topics": "am/is/are + -ing · uses · vs. present simple · stative verbs",
+  "description": "Přítomný čas průběhový — co se děje právě teď nebo dočasně.",
+  "vocabulary": [
+    {
+      "en": "you",
+      "cz": "are working"
+    },
+    {
+      "en": "he / she",
+      "cz": "is working"
+    },
+    {
+      "en": "we / they",
+      "cz": "are working"
+    },
+    {
+      "en": "Changing situations",
+      "cz": "Prices are rising every year."
+    },
+    {
+      "en": "Planned future arrangement",
+      "cz": "We are meeting at 6 pm tomorrow."
+    },
+    {
+      "en": "Annoyance (with 'always')",
+      "cz": "He is always losing his keys!"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n📚 STATIVE VERBS — NOT used in continuous:",
+    "✓ I know the answer.  (NE: I am knowing)",
+    "✓ She loves coffee.  (NE: She is loving)",
+    "✓ Do you understand?  (NE: Are you understanding?)",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "She usually ___ (drink) tea, but today she ___ (drink) coffee.",
+      "answer": "drinks / is drinking"
+    },
+    {
+      "type": "fill",
+      "sentence": "Look! The children ___ (play) in the garden.",
+      "answer": "are playing"
+    },
+    {
+      "type": "fill",
+      "sentence": "I ___ (not / understand) this question.",
+      "answer": "don"
+    },
+    {
+      "type": "fill",
+      "sentence": "He ___ (work) late this week because of a deadline.",
+      "answer": "is working"
+    },
+    {
+      "type": "fill",
+      "sentence": "Water ___ (boil) at 100 degrees.",
+      "answer": "boils"
+    }
+  ],
+  "tasks": [
+    "1. Look around you right now and write 5 sentences about what",
+    "2. Write 3 sentence pairs showing the contrast between",
+    "3. Find 5 stative verbs not listed above and explain why they"
+  ]
+}

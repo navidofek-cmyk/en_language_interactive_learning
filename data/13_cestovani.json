@@ -1,0 +1,193 @@
+{
+  "num": "13",
+  "slug": "cestovani",
+  "title": "Travel & Transport",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "transport · airport · hotel · directions · travel phrases",
+  "description": "Cestování, doprava a situace na cestách.",
+  "vocabulary": [
+    {
+      "en": "plane / aircraft",
+      "cz": "letadlo"
+    },
+    {
+      "en": "train",
+      "cz": "vlak"
+    },
+    {
+      "en": "bus",
+      "cz": "autobus"
+    },
+    {
+      "en": "tram",
+      "cz": "tramvaj"
+    },
+    {
+      "en": "underground / metro",
+      "cz": "metro"
+    },
+    {
+      "en": "taxi",
+      "cz": "taxi"
+    },
+    {
+      "en": "car",
+      "cz": "auto"
+    },
+    {
+      "en": "bicycle / bike",
+      "cz": "kolo"
+    },
+    {
+      "en": "motorbike",
+      "cz": "motorka"
+    },
+    {
+      "en": "ferry",
+      "cz": "trajekt"
+    },
+    {
+      "en": "coach",
+      "cz": "dálkový autobus"
+    },
+    {
+      "en": "lorry / truck",
+      "cz": "nákladní auto"
+    },
+    {
+      "en": "passport control",
+      "cz": "pasová kontrola"
+    },
+    {
+      "en": "customs",
+      "cz": "celnice"
+    },
+    {
+      "en": "departure gate",
+      "cz": "odletová brána"
+    },
+    {
+      "en": "arrivals / departures",
+      "cz": "příjezdy / odjezdy"
+    },
+    {
+      "en": "check-in",
+      "cz": "odbavení"
+    },
+    {
+      "en": "boarding pass",
+      "cz": "palubní lístek"
+    },
+    {
+      "en": "hand luggage",
+      "cz": "příruční zavazadlo"
+    },
+    {
+      "en": "baggage reclaim",
+      "cz": "výdej zavazadel"
+    },
+    {
+      "en": "delayed / on time",
+      "cz": "zpožděný / včas"
+    },
+    {
+      "en": "flight number",
+      "cz": "číslo letu"
+    },
+    {
+      "en": "Turn left",
+      "cz": "Odbočte doleva"
+    },
+    {
+      "en": "Turn right",
+      "cz": "Odbočte doprava"
+    },
+    {
+      "en": "Go straight on",
+      "cz": "Jděte rovně"
+    },
+    {
+      "en": "Take the first left",
+      "cz": "Odbočte první doleva"
+    },
+    {
+      "en": "It's on your left",
+      "cz": "Je to na vaší levé straně"
+    },
+    {
+      "en": "Opposite",
+      "cz": "Naproti"
+    },
+    {
+      "en": "Next to",
+      "cz": "Vedle"
+    },
+    {
+      "en": "In front of",
+      "cz": "Před"
+    },
+    {
+      "en": "Behind",
+      "cz": "Za"
+    },
+    {
+      "en": "At the traffic lights",
+      "cz": "Na semaforu"
+    },
+    {
+      "en": "At the roundabout",
+      "cz": "Na kruhovém objezdu"
+    },
+    {
+      "en": "A return ticket to ..., please",
+      "cz": "Zpáteční jízdenku do ..., prosím"
+    },
+    {
+      "en": "What time does the next ... leave?",
+      "cz": "Kdy odjíždí/odlétá příští ...?"
+    },
+    {
+      "en": "Which platform?",
+      "cz": "Které nástupiště?"
+    },
+    {
+      "en": "Is this seat taken?",
+      "cz": "Je toto místo obsazeno?"
+    },
+    {
+      "en": "Where is the nearest ...?",
+      "cz": "Kde je nejbližší ...?"
+    },
+    {
+      "en": "How far is it?",
+      "cz": "Jak daleko je to?"
+    },
+    {
+      "en": "Can you call me a taxi?",
+      "cz": "Můžete mi zavolat taxi?"
+    },
+    {
+      "en": "I've missed my connection.",
+      "cz": "Zmeškal/a jsem přestup."
+    },
+    {
+      "en": "My luggage is lost.",
+      "cz": "Moje zavazadlo se ztratilo."
+    },
+    {
+      "en": "I'd like to check in.",
+      "cz": "Chtěl/a bych se ubytovat."
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Write directions from your home to the nearest train station",
+    "2. Write a short dialogue at a ticket office: buying a return ticket",
+    "3. Describe your last trip abroad (or a dream trip) using past simple"
+  ]
+}

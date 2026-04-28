@@ -1,0 +1,107 @@
+{
+  "num": "28",
+  "slug": "business_english",
+  "title": "Business English",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "formal emails · meetings · presentations · negotiation",
+  "description": "Obchodní angličtina — emaily, schůzky a prezentace.",
+  "vocabulary": [
+    {
+      "en": "To whom it may concern,",
+      "cz": "Vážení,"
+    },
+    {
+      "en": "I am writing to enquire about...",
+      "cz": "Píšu vám ohledně ..."
+    },
+    {
+      "en": "I am writing with reference to...",
+      "cz": "Odkazuji na ..."
+    },
+    {
+      "en": "Further to your email,...",
+      "cz": "V návaznosti na váš email,..."
+    },
+    {
+      "en": "Shall we get started?",
+      "cz": "Začneme?"
+    },
+    {
+      "en": "Let's move on to the next point.",
+      "cz": "Přejdeme k dalšímu bodu."
+    },
+    {
+      "en": "Could I just come in here?",
+      "cz": "Mohu se vložit?"
+    },
+    {
+      "en": "To sum up,...",
+      "cz": "Shrneme-li,..."
+    },
+    {
+      "en": "Can we table that for now?",
+      "cz": "Odložíme to na potom?"
+    },
+    {
+      "en": "I'd like to raise a point.",
+      "cz": "Rád/a bych zmínil/a..."
+    },
+    {
+      "en": "That's outside the scope of today's meeting.",
+      "cz": "To je nad rámec dnešní schůzky."
+    },
+    {
+      "en": "Let's take a vote on this.",
+      "cz": "Hlasujme o tom."
+    },
+    {
+      "en": "We'll circulate the minutes.",
+      "cz": "Pošleme zápis ze schůzky."
+    },
+    {
+      "en": "Let's schedule a follow-up.",
+      "cz": "Naplánujme navazující schůzku."
+    },
+    {
+      "en": "That's not quite what we had in mind.",
+      "cz": "To není úplně to, co jsme měli na mysli."
+    },
+    {
+      "en": "We could meet you halfway.",
+      "cz": "Mohli bychom jít na kompromis."
+    },
+    {
+      "en": "That's a fair point.",
+      "cz": "To je oprávněný argument."
+    },
+    {
+      "en": "Could you be more flexible on...?",
+      "cz": "Mohli byste být pružnější, pokud jde o ...?"
+    },
+    {
+      "en": "Let me check with my team.",
+      "cz": "Poradím se se svým týmem."
+    },
+    {
+      "en": "I think we can work with that.",
+      "cz": "Myslím, že s tím pracovat lze."
+    },
+    {
+      "en": "We need to see a better offer.",
+      "cz": "Potřebujeme lepší nabídku."
+    },
+    {
+      "en": "It's a deal.",
+      "cz": "Máme dohodu."
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Write a complete formal email requesting a meeting (8–10 lines)",
+    "2. Write a complaint email about a delayed delivery",
+    "3. Prepare a 3-minute presentation outline on a topic you know well"
+  ]
+}

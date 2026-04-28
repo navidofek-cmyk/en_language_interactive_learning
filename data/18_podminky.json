@@ -1,0 +1,56 @@
+{
+  "num": "18",
+  "slug": "podminky",
+  "title": "Conditionals",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "zero · first · second · third conditional · mixed",
+  "description": "Podmínkové věty — real, unreal a past conditions.",
+  "vocabulary": [
+    {
+      "en": "structure",
+      "cz": "If + present simple, present simple"
+    },
+    {
+      "en": "use",
+      "cz": "General truth / scientific fact"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n⚠️ COMMON MISTAKES:",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "If water ___ (freeze) below 0°C. (zero)",
+      "answer": "freezes"
+    },
+    {
+      "type": "fill",
+      "sentence": "If I ___ (have) more time, I would learn Spanish. (2nd)",
+      "answer": "had"
+    },
+    {
+      "type": "fill",
+      "sentence": "She would have called if she ___ (know) your number. (3rd)",
+      "answer": "had known"
+    },
+    {
+      "type": "fill",
+      "sentence": "If you study hard, you ___ (pass) the exam. (1st)",
+      "answer": "will pass"
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ (not/arrive) late if they had taken a taxi. (3rd)",
+      "answer": "wouldn"
+    }
+  ],
+  "tasks": [
+    "1. Write 3 first conditional sentences about your near future",
+    "2. Write 3 second conditional sentences starting with 'If I were...'",
+    "3. Think of a moment you regret — write 2 third conditional sentences"
+  ]
+}

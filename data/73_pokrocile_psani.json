@@ -1,0 +1,49 @@
+{
+  "num": "73",
+  "slug": "pokrocile_psani",
+  "title": "Advanced Writing — Reports & Proposals",
+  "level": "⭐⭐⭐⭐ B2–C1 | Upper-Intermediate",
+  "topics": "report structure · proposals · formal language · recommendations",
+  "description": "Psaní formálních zpráv, návrhů a doporučení na úrovni B2/C1.",
+  "vocabulary": [
+    {"en": "executive summary", "cz": "výkonné shrnutí"},
+    {"en": "scope", "cz": "rozsah, oblast"},
+    {"en": "objective", "cz": "cíl, záměr"},
+    {"en": "recommendation", "cz": "doporučení"},
+    {"en": "implement", "cz": "implementovat, zavést"},
+    {"en": "feasibility", "cz": "proveditelnost"},
+    {"en": "cost-effective", "cz": "nákladově efektivní"},
+    {"en": "stakeholder", "cz": "zainteresovaná strana"},
+    {"en": "benchmark", "cz": "referenční bod, měřítko"},
+    {"en": "deliverable", "cz": "výstup, výsledek (projektu)"},
+    {"en": "timeline", "cz": "časový harmonogram"},
+    {"en": "budget allocation", "cz": "přidělení rozpočtu"},
+    {"en": "risk assessment", "cz": "posouzení rizik"},
+    {"en": "key performance indicator (KPI)", "cz": "klíčový ukazatel výkonnosti"},
+    {"en": "contingency plan", "cz": "záložní plán"}
+  ],
+  "notes": [
+    "✓ Report structure: Executive Summary → Introduction → Findings → Recommendations → Conclusion",
+    "✓ Passive for objectivity: 'It was found that...' / 'It is recommended that...'",
+    "✓ Hedging: 'The data suggests...' / 'It would appear that...'",
+    "✓ Recommendations: 'It is strongly recommended that...' / 'We propose that...'",
+    "⚠️  Avoid first person in formal reports: NOT 'I think' — use 'The evidence suggests'"
+  ],
+  "examples": [
+    {"en": "This report examines the feasibility of implementing a four-day working week.", "cz": "Tato zpráva zkoumá proveditelnost zavedení čtyřdenního pracovního týdne."},
+    {"en": "It is recommended that the company invest in staff training.", "cz": "Doporučuje se, aby společnost investovala do školení zaměstnanců."},
+    {"en": "The findings indicate a significant gap in customer satisfaction.", "cz": "Zjištění naznačují výraznou mezeru v spokojenosti zákazníků."},
+    {"en": "A contingency plan should be prepared in case of budget overruns.", "cz": "Záložní plán by měl být připraven pro případ překročení rozpočtu."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "The report ___ that staff morale has declined. (found)", "answer": "found / indicates"},
+    {"type": "fill", "sentence": "It is ___ that the system be upgraded immediately.", "answer": "recommended"},
+    {"type": "fill", "sentence": "The ___ of the project is to reduce costs by 15%.", "answer": "objective"},
+    {"type": "fill", "sentence": "We need a ___ plan in case the main supplier fails.", "answer": "contingency"}
+  ],
+  "tasks": [
+    "1. Write a short report (200 words) on a problem at work or university with recommendations",
+    "2. Write an executive summary (50 words) for a report on remote working benefits",
+    "3. Draft a proposal for improving something in your organisation or community"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "36",
+  "slug": "wish_if_only",
+  "title": "Wish & If Only",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "wish + past · wish + would · wish + past perfect · if only · regret",
+  "description": "Výrazy přání a lítosti — wish, if only, would rather, it's time.",
+  "vocabulary": [
+    {
+      "en": "use",
+      "cz": "Wish for a different present/future situation"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "I wish I had more time.",
+      "cz": "Přál/a bych si mít více času. (teď nemám)"
+    },
+    {
+      "en": "She wishes she lived closer.",
+      "cz": "Přeje si bydlet blíž. (nežije blíž)"
+    },
+    {
+      "en": "I wish I could drive.",
+      "cz": "Přál/a bych si umět řídit. (neumím)"
+    },
+    {
+      "en": "I wish you would listen!",
+      "cz": "Přál/a bych si, abys poslouchal/a!"
+    },
+    {
+      "en": "She wishes he would stop smoking.",
+      "cz": "Přeje si, aby přestal kouřit."
+    },
+    {
+      "en": "I wish it would stop raining.",
+      "cz": "Přál/a bych si, aby přestalo pršet."
+    },
+    {
+      "en": "I wish I had studied harder.",
+      "cz": "Přál/a bych si, že jsem více studoval/a."
+    },
+    {
+      "en": "I wish I had taken that job.",
+      "cz": "Přál/a bych si, abych tu práci vzal/a."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "I ate too much. I wish I ___ (not eat) so much.",
+      "answer": "hadn"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 wishes about your present life (wish + past simple)",
+    "2. Write 3 regrets about your past (wish/if only + past perfect)",
+    "3. Write 3 complaints about someone else's behaviour (wish + would)"
+  ]
+}

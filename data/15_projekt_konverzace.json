@@ -1,0 +1,61 @@
+{
+  "num": "15",
+  "slug": "projekt_konverzace",
+  "title": "Project — Everyday Conversations",
+  "level": "⭐⭐⭐ Level: A2–B1 | Elementary–Pre-Intermediate",
+  "topics": "small talk · phone · email · requests · opinions",
+  "description": "Projekt: 6 každodenních konverzačních situací. Combines grammar and vocabulary from lessons 01–14.",
+  "vocabulary": [
+    {
+      "en": "Personally, I think...",
+      "cz": "Osobně si myslím..."
+    },
+    {
+      "en": "In my opinion...",
+      "cz": "Podle mého názoru..."
+    },
+    {
+      "en": "I'm not sure about that.",
+      "cz": "Nejsem si tím jistý/á."
+    },
+    {
+      "en": "That's a good point.",
+      "cz": "To je dobrý postřeh."
+    },
+    {
+      "en": "I see what you mean.",
+      "cz": "Rozumím, co tím myslíš."
+    },
+    {
+      "en": "I agree / I disagree.",
+      "cz": "Souhlasím / Nesouhlasím."
+    },
+    {
+      "en": "Fair enough.",
+      "cz": "Tak tedy dobře / Kladná odpověď."
+    },
+    {
+      "en": "It depends.",
+      "cz": "Záleží na tom."
+    },
+    {
+      "en": "To be honest...",
+      "cz": "Upřímně řečeno..."
+    },
+    {
+      "en": "Having said that...",
+      "cz": "Na druhou stranu..."
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n ✓ Great work! Read it aloud and focus on natural rhythm."
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Practise each of the 6 situations by reading both roles aloud",
+    "2. Rewrite the 'Expressing opinion' dialogue using a different topic",
+    "3. Write a formal email requesting information about a product or service"
+  ]
+}

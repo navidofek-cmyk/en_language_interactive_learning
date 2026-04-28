@@ -1,0 +1,62 @@
+{
+  "num": "69",
+  "slug": "mluvena_anglictina",
+  "title": "Natural Spoken English",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "fillers · vague language · ellipsis · informal contractions · discourse",
+  "description": "Přirozená mluvená angličtina — výplňková slova, neformální zkratky a plynulost.",
+  "vocabulary": [
+    {"en": "you know", "cz": "víš, jakože (filler)"},
+    {"en": "I mean", "cz": "tím myslím, chci říct"},
+    {"en": "like", "cz": "jakoby (informal filler)"},
+    {"en": "sort of / kind of", "cz": "jaksi, trochu, asi"},
+    {"en": "stuff", "cz": "věci, nástroje, vybavení (vague)"},
+    {"en": "things", "cz": "věci (vague noun)"},
+    {"en": "whatever", "cz": "cokoli, ať tak či tak"},
+    {"en": "anyway", "cz": "každopádně, takže"},
+    {"en": "right?", "cz": "že? (tag question substitute)"},
+    {"en": "isn't it? / didn't he?", "cz": "question tags"},
+    {"en": "gonna", "cz": "going to (spoken)"},
+    {"en": "wanna", "cz": "want to (spoken)"},
+    {"en": "gotta", "cz": "got to / have got to (spoken)"},
+    {"en": "yeah / yep / nope", "cz": "jo / jojo / ne (informal)"},
+    {"en": "hang on", "cz": "počkej, moment"},
+    {"en": "fair enough", "cz": "dobře, ták tedy"},
+    {"en": "no worries", "cz": "žádný problém"},
+    {"en": "cheers", "cz": "díky / na zdraví (British)"},
+    {"en": "reckon", "cz": "myslet si, odhadovat (British informal)"},
+    {"en": "fancy", "cz": "mít chuť na / líbit se (British)"}
+  ],
+  "notes": [
+    "⚠️  Fillers are fine in SPEECH but avoid in formal writing: 'I mean', 'you know', 'like'",
+    "✓ Ellipsis in speech: 'Coming?' (= Are you coming?) / 'Sounds good.' / 'Done.'",
+    "✓ British: 'Fancy a coffee?' = 'Do you want a coffee?'",
+    "✓ 'Reckon' = informal 'think': 'I reckon it'll rain.'",
+    "⚠️  'gonna/wanna/gotta' = acceptable in fast informal speech, NOT in writing"
+  ],
+  "dialogue": [
+    {"speaker": "A", "text": "Hey, you wanna grab lunch or something?"},
+    {"speaker": "B", "text": "Yeah, hang on — I'm just finishing this email."},
+    {"speaker": "A", "text": "No worries. I reckon the café round the corner is decent."},
+    {"speaker": "B", "text": "Fair enough. I mean, I'm kind of craving a sandwich anyway."},
+    {"speaker": "A", "text": "Right, let's go. You coming, Tom?"},
+    {"speaker": "B", "text": "Cheers, yeah. Be there in a sec."}
+  ],
+  "examples": [
+    {"en": "It was sort of interesting, you know?", "cz": "Bylo to jaksi zajímavé, víš?"},
+    {"en": "I reckon we should leave by 7.", "cz": "Myslím, že bychom měli odejít v 7."},
+    {"en": "She's gonna be late again, isn't she?", "cz": "Ona zase přijde pozdě, ne?"},
+    {"en": "Fancy going for a walk later?", "cz": "Máš chuť jít se projít?"}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "I ___ we should take the train. (informal 'think')", "answer": "reckon"},
+    {"type": "fill", "sentence": "___ a beer? (British: do you want)", "answer": "Fancy"},
+    {"type": "fill", "sentence": "That's ___ good news, I suppose. (sort of)", "answer": "sort of / kind of"},
+    {"type": "fill", "sentence": "'I'll pay.' — 'No ___!' (it's fine)", "answer": "worries"}
+  ],
+  "tasks": [
+    "1. Listen to a British podcast for 10 minutes — write down 5 fillers or informal expressions you hear",
+    "2. Write a spoken-style dialogue (WhatsApp conversation) using natural spoken English",
+    "3. Rewrite this formal text as informal speech: 'I was wondering whether you would be available to meet on Friday.'"
+  ]
+}

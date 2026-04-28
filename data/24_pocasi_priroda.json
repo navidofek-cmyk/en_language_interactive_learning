@@ -1,0 +1,205 @@
+{
+  "num": "24",
+  "slug": "pocasi_priroda",
+  "title": "Weather & Nature",
+  "level": "⭐⭐ Level: A2 | Elementary",
+  "topics": "weather · natural world · environment · seasons",
+  "description": "Počasí, příroda a životní prostředí.",
+  "vocabulary": [
+    {
+      "en": "sunny",
+      "cz": "slunečno"
+    },
+    {
+      "en": "cloudy",
+      "cz": "oblačno"
+    },
+    {
+      "en": "overcast",
+      "cz": "zataženo"
+    },
+    {
+      "en": "rainy",
+      "cz": "deštivo"
+    },
+    {
+      "en": "drizzle",
+      "cz": "mrholení"
+    },
+    {
+      "en": "shower",
+      "cz": "přeháňka"
+    },
+    {
+      "en": "thunderstorm",
+      "cz": "bouřka"
+    },
+    {
+      "en": "lightning",
+      "cz": "blesk"
+    },
+    {
+      "en": "thunder",
+      "cz": "hrom"
+    },
+    {
+      "en": "foggy",
+      "cz": "mlhavo"
+    },
+    {
+      "en": "windy",
+      "cz": "větrno"
+    },
+    {
+      "en": "breezy",
+      "cz": "vane mírný vítr"
+    },
+    {
+      "en": "snowy",
+      "cz": "sněživo"
+    },
+    {
+      "en": "icy",
+      "cz": "ledovkovo"
+    },
+    {
+      "en": "frosty",
+      "cz": "mrzne"
+    },
+    {
+      "en": "heatwave",
+      "cz": "vlna veder"
+    },
+    {
+      "en": "humid",
+      "cz": "vlhko"
+    },
+    {
+      "en": "dry",
+      "cz": "sucho"
+    },
+    {
+      "en": "mild",
+      "cz": "mírné (počasí)"
+    },
+    {
+      "en": "chilly",
+      "cz": "chladivo"
+    },
+    {
+      "en": "mountain",
+      "cz": "hora"
+    },
+    {
+      "en": "river",
+      "cz": "řeka"
+    },
+    {
+      "en": "lake",
+      "cz": "jezero"
+    },
+    {
+      "en": "sea",
+      "cz": "moře"
+    },
+    {
+      "en": "ocean",
+      "cz": "oceán"
+    },
+    {
+      "en": "forest",
+      "cz": "les"
+    },
+    {
+      "en": "field",
+      "cz": "pole"
+    },
+    {
+      "en": "valley",
+      "cz": "údolí"
+    },
+    {
+      "en": "hill",
+      "cz": "kopec"
+    },
+    {
+      "en": "cliff",
+      "cz": "útes"
+    },
+    {
+      "en": "waterfall",
+      "cz": "vodopád"
+    },
+    {
+      "en": "island",
+      "cz": "ostrov"
+    },
+    {
+      "en": "desert",
+      "cz": "poušť"
+    },
+    {
+      "en": "jungle",
+      "cz": "džungle"
+    },
+    {
+      "en": "glacier",
+      "cz": "ledovec"
+    },
+    {
+      "en": "volcano",
+      "cz": "sopka"
+    },
+    {
+      "en": "climate change",
+      "cz": "změna klimatu"
+    },
+    {
+      "en": "global warming",
+      "cz": "globální oteplování"
+    },
+    {
+      "en": "renewable energy",
+      "cz": "obnovitelná energie"
+    },
+    {
+      "en": "carbon footprint",
+      "cz": "uhlíková stopa"
+    },
+    {
+      "en": "recycle",
+      "cz": "recyklovat"
+    },
+    {
+      "en": "pollution",
+      "cz": "znečištění"
+    },
+    {
+      "en": "endangered species",
+      "cz": "ohrožený druh"
+    },
+    {
+      "en": "deforestation",
+      "cz": "odlesňování"
+    },
+    {
+      "en": "sustainable",
+      "cz": "udržitelný"
+    },
+    {
+      "en": "solar panel",
+      "cz": "solární panel"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Describe today's weather in 3–4 sentences",
+    "2. Describe your favourite season and explain why you like it",
+    "3. Write 5 sentences about an environmental problem you care about,"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "num": "37",
+  "slug": "media_zpravy",
+  "title": "Media & News",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "news vocabulary · media types · headlines · opinion language",
+  "description": "Média, zprávy a jak mluvit o aktuálních událostech.",
+  "vocabulary": [
+    {
+      "en": "broadsheet",
+      "cz": "seriózní noviny (The Times, Guardian)"
+    },
+    {
+      "en": "tabloid",
+      "cz": "bulvár (The Sun, Daily Mirror)"
+    },
+    {
+      "en": "broadband",
+      "cz": "online médium"
+    },
+    {
+      "en": "podcast",
+      "cz": "podcast"
+    },
+    {
+      "en": "documentary",
+      "cz": "dokumentární film"
+    },
+    {
+      "en": "live broadcast",
+      "cz": "živé vysílání"
+    },
+    {
+      "en": "breaking news",
+      "cz": "nejnovější zprávy"
+    },
+    {
+      "en": "headline",
+      "cz": "titulek"
+    },
+    {
+      "en": "article",
+      "cz": "článek"
+    },
+    {
+      "en": "editorial",
+      "cz": "úvodník, komentář"
+    },
+    {
+      "en": "feature",
+      "cz": "publicistický článek"
+    },
+    {
+      "en": "press release",
+      "cz": "tisková zpráva"
+    },
+    {
+      "en": "correspondent",
+      "cz": "zpravodaj"
+    },
+    {
+      "en": "anchor",
+      "cz": "moderátor zpráv"
+    },
+    {
+      "en": "source",
+      "cz": "zdroj"
+    },
+    {
+      "en": "exclusive",
+      "cz": "exkluzivní zpráva"
+    },
+    {
+      "en": "scoop",
+      "cz": "senzační zpráva"
+    },
+    {
+      "en": "bias",
+      "cz": "zaujatost"
+    },
+    {
+      "en": "fake news",
+      "cz": "dezinformace"
+    },
+    {
+      "en": "clickbait",
+      "cz": "clickbait (lákavý titulek)"
+    },
+    {
+      "en": "report",
+      "cz": "informovat, hlásit"
+    },
+    {
+      "en": "announce",
+      "cz": "oznámit"
+    },
+    {
+      "en": "claim",
+      "cz": "tvrdit"
+    },
+    {
+      "en": "reveal",
+      "cz": "odhalit"
+    },
+    {
+      "en": "confirm",
+      "cz": "potvrdit"
+    },
+    {
+      "en": "deny",
+      "cz": "popřít"
+    },
+    {
+      "en": "warn",
+      "cz": "varovat"
+    },
+    {
+      "en": "call for",
+      "cz": "vyzývat k"
+    },
+    {
+      "en": "accuse of",
+      "cz": "obvinit z"
+    },
+    {
+      "en": "urge",
+      "cz": "naléhavě vyzývat"
+    },
+    {
+      "en": "launch",
+      "cz": "zahájit"
+    },
+    {
+      "en": "face",
+      "cz": "čelit"
+    },
+    {
+      "en": "back",
+      "cz": "podpořit"
+    },
+    {
+      "en": "slam",
+      "cz": "ostře kritizovat (tabloid)"
+    },
+    {
+      "en": "In my opinion,...",
+      "cz": "Podle mého názoru,..."
+    },
+    {
+      "en": "It seems to me that...",
+      "cz": "Zdá se mi, že..."
+    },
+    {
+      "en": "I believe that...",
+      "cz": "Věřím, že..."
+    },
+    {
+      "en": "According to...",
+      "cz": "Podle..."
+    },
+    {
+      "en": "It has been reported that...",
+      "cz": "Bylo oznámeno, že..."
+    },
+    {
+      "en": "There are concerns that...",
+      "cz": "Panují obavy, že..."
+    },
+    {
+      "en": "Experts argue that...",
+      "cz": "Odborníci tvrdí, že..."
+    },
+    {
+      "en": "On the one hand,... but on the other,...",
+      "cz": "Na jedné straně,... ale na druhé,..."
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "Have you heard about the new climate agreement?",
+      "cz": "Slyšel/a jsi o nové klimatické dohodě?"
+    },
+    {
+      "en": "According to the BBC, the talks were successful.",
+      "cz": "Podle BBC jednání proběhla úspěšně."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Find a real English news headline and rewrite it as a full sentence",
+    "2. Write a short news report (80 words) about a local event",
+    "3. Discuss a current news story: state the facts, then give your opinion"
+  ]
+}

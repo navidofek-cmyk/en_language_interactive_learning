@@ -1,0 +1,55 @@
+{
+  "num": "77",
+  "slug": "cestovani_pokrocile",
+  "title": "Travel — Advanced & Real-World",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "visas · accommodation · travel problems · cultural differences",
+  "description": "Pokročilá cestovatelská angličtina — víza, ubytování, problémy a kulturní rozdíly.",
+  "vocabulary": [
+    {"en": "visa", "cz": "vízum"},
+    {"en": "entry requirements", "cz": "vstupní požadavky"},
+    {"en": "customs declaration", "cz": "celní prohlášení"},
+    {"en": "transit visa", "cz": "tranzitní vízum"},
+    {"en": "overstay", "cz": "překročit povolenou dobu pobytu"},
+    {"en": "check in / check out", "cz": "přihlásit se / odhlásit se (hotel)"},
+    {"en": "complimentary", "cz": "bezplatný, zdarma (v hotelu)"},
+    {"en": "en suite", "cz": "s vlastní koupelnou"},
+    {"en": "twin room", "cz": "pokoj se dvěma lůžky"},
+    {"en": "overbooked", "cz": "přeobjednáno"},
+    {"en": "compensation", "cz": "náhrada, odškodnění"},
+    {"en": "travel insurance", "cz": "cestovní pojištění"},
+    {"en": "claim", "cz": "uplatnit nárok, žádat náhradu"},
+    {"en": "itinerary", "cz": "cestovní plán, itinerář"},
+    {"en": "jet lag", "cz": "jet lag, časový posun"},
+    {"en": "culture shock", "cz": "kulturní šok"},
+    {"en": "locals", "cz": "místní obyvatelé"},
+    {"en": "off the beaten track", "cz": "mimo turistické trasy"},
+    {"en": "backpacker", "cz": "batůžkář, cestovatel s batohem"},
+    {"en": "package holiday", "cz": "zájezd s paušálním programem"}
+  ],
+  "dialogue": [
+    {"speaker": "Customer", "text": "I have a booking for tonight — the name is Novák."},
+    {"speaker": "Assistant", "text": "I'm sorry, Mr Novák — I'm afraid we're overbooked tonight."},
+    {"speaker": "Customer", "text": "That's unacceptable. I confirmed this reservation two weeks ago."},
+    {"speaker": "Assistant", "text": "I completely understand, and I sincerely apologise. We've arranged a room at a nearby hotel of equivalent standard at no extra charge."},
+    {"speaker": "Customer", "text": "What about my dinner reservation here?"},
+    {"speaker": "Assistant", "text": "We'll honour that. And we'd like to offer you a complimentary breakfast tomorrow as compensation."}
+  ],
+  "examples": [
+    {"en": "Make sure your travel insurance covers medical emergencies abroad.", "cz": "Ujistěte se, že vaše cestovní pojištění kryje lékařské urgence v zahraničí."},
+    {"en": "The flight was cancelled — we are entitled to compensation.", "cz": "Let byl zrušen — máme nárok na náhradu."},
+    {"en": "I prefer travelling off the beaten track to popular tourist spots.", "cz": "Preferuji cestování mimo turistické trasy oproti populárním místům."},
+    {"en": "Check the entry requirements before you travel.", "cz": "Zkontrolujte si vstupní požadavky před cestou."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "The hotel was ___booked so we were moved to another one.", "answer": "over"},
+    {"type": "fill", "sentence": "I'd like to ___ a claim for my delayed luggage.", "answer": "make"},
+    {"type": "fill", "sentence": "Our flight was cancelled — we're ___ to a refund.", "answer": "entitled"},
+    {"type": "fill", "sentence": "Always buy ___ insurance before international travel.", "answer": "travel"}
+  ],
+  "tasks": [
+    "1. Write a complaint letter to an airline about a cancelled flight",
+    "2. Plan a 5-day itinerary for a trip abroad — write it in English",
+    "3. Describe a travel problem you experienced and how it was resolved"
+  ]
+}

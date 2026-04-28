@@ -1,0 +1,85 @@
+{
+  "num": "04",
+  "slug": "social_media",
+  "title": "Social Media — Blessing or Curse?",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "technology · health · argument · opinion language",
+  "description": "Sociální sítě — výhody, rizika a psychologický dopad.",
+  "vocabulary": [
+    {
+      "en": "marginalised",
+      "cz": "marginalizovaný"
+    },
+    {
+      "en": "grassroots",
+      "cz": "od základů, lidové hnutí"
+    },
+    {
+      "en": "compellingly",
+      "cz": "přesvědčivě"
+    },
+    {
+      "en": "consistently",
+      "cz": "soustavně, opakovaně"
+    },
+    {
+      "en": "algorithmic",
+      "cz": "algoritmický"
+    },
+    {
+      "en": "engineered",
+      "cz": "záměrně navržený"
+    },
+    {
+      "en": "vulnerability",
+      "cz": "zranitelnost"
+    },
+    {
+      "en": "misinformation",
+      "cz": "dezinformace"
+    },
+    {
+      "en": "echo chamber",
+      "cz": "informační bublina"
+    },
+    {
+      "en": "reinforcement",
+      "cz": "posílení, upevnění"
+    },
+    {
+      "en": "data privacy",
+      "cz": "ochrana osobních dat"
+    },
+    {
+      "en": "manipulation",
+      "cz": "manipulace"
+    },
+    {
+      "en": "unregulated",
+      "cz": "neregulovaný"
+    },
+    {
+      "en": "concentration",
+      "cz": "koncentrace (moci)"
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [
+    {
+      "en": "How many social media users are there worldwide?",
+      "cz": "Over five billion."
+    },
+    {
+      "en": "What psychological effect does social media have on teenagers?",
+      "cz": "Increased anxiety, depression, and low self-esteem."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write a for/against essay (200 words): \"Social media does more harm than good.\"",
+    "2. Design a 'digital detox' plan for yourself — what would you change?",
+    "3. Find a real news article about social media regulation and summarise it in English"
+  ],
+  "article_text": "SOCIAL MEDIA — BLESSING OR CURSE?\n\nThere are currently over five billion social media users worldwide. These\nplatforms have fundamentally transformed the way we communicate, consume\ninformation, and present ourselves to the world. But at what cost?\n\nThe case for social media is compelling. It has connected people across\ncontinents, given a voice to marginalised communities, and enabled grassroots\nmovements to organise and achieve change. Businesses have reached customers\nthey never could before. During the pandemic, social media kept many people\nmentally connected when physical contact was impossible.\n\nThe case against is equally powerful. Studies consistently link heavy social\nmedia use — particularly among teenagers — to increased rates of anxiety,\ndepression, and low self-esteem. The algorithmic design of these platforms is\ndeliberately engineered to maximise engagement, exploiting psychological\nvulnerabilities to keep users scrolling. Misinformation spreads faster than\nfact, and echo chambers reinforce existing beliefs rather than challenging them.\n\nThe picture is further complicated by issues of data privacy, political\nmanipulation, and the concentration of enormous power in the hands of a small\nnumber of technology companies.\n\nSo: blessing or curse? The honest answer is both. Social media is a tool.\nLike any tool, its impact depends on how it is used, who controls it, and\nwhat rules govern it. What is clear is that the current model — profit-driven,\nlargely unregulated — is causing real harm that can no longer be ignored."
+}

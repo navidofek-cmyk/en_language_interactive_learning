@@ -1,0 +1,59 @@
+{
+  "num": "70",
+  "slug": "prezentace",
+  "title": "Presentations & Public Speaking",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "presentation structure · signposting · visual aids · Q&A",
+  "description": "Jak strukturovat a přednést prezentaci v angličtině — jazyk, signposting a Q&A.",
+  "vocabulary": [
+    {"en": "signpost", "cz": "signposting — navigační fráze"},
+    {"en": "outline", "cz": "přehled, osnova"},
+    {"en": "handout", "cz": "podkladový materiál"},
+    {"en": "slide", "cz": "snímek (prezentace)"},
+    {"en": "visual aid", "cz": "vizuální pomůcka"},
+    {"en": "graph / chart", "cz": "graf"},
+    {"en": "elaborate on", "cz": "rozvést, podrobněji vysvětlit"},
+    {"en": "summarise", "cz": "shrnout"},
+    {"en": "take questions", "cz": "přijímat otázky"},
+    {"en": "clarify", "cz": "objasnit"},
+    {"en": "illustrate", "cz": "ilustrovat"},
+    {"en": "emphasise", "cz": "zdůraznit"},
+    {"en": "engage the audience", "cz": "zapojit publikum"},
+    {"en": "pace", "cz": "tempo (řeči)"},
+    {"en": "eye contact", "cz": "oční kontakt"}
+  ],
+  "notes": [
+    "✓ Opening: 'Good morning. Today I'm going to talk about...'",
+    "✓ Overview: 'I've divided my presentation into three parts.'",
+    "✓ Moving on: 'Let's move on to...' / 'Turning now to...'",
+    "✓ Emphasising: 'What I'd like to highlight here is...'",
+    "✓ Graph language: 'As you can see from this slide...'",
+    "✓ Closing: 'To sum up...' / 'I'd like to conclude by saying...'",
+    "✓ Q&A: 'That's a good question. Could you clarify what you mean by...?'"
+  ],
+  "dialogue": [
+    {"speaker": "A", "text": "Good morning, everyone. Today I'd like to talk about remote working trends."},
+    {"speaker": "A", "text": "I've divided my talk into three parts: the current situation, key benefits, and challenges."},
+    {"speaker": "A", "text": "As you can see from this slide, 58% of workers now prefer a hybrid model."},
+    {"speaker": "A", "text": "To sum up: remote work is here to stay, but the office still has a role."},
+    {"speaker": "B", "text": "Thank you. Could you elaborate on the mental health challenges you mentioned?"},
+    {"speaker": "A", "text": "Good question. Research shows that isolation is the biggest concern, particularly for junior staff."}
+  ],
+  "examples": [
+    {"en": "Let me turn now to the financial implications.", "cz": "Přejdu nyní k finančním důsledkům."},
+    {"en": "I'd like to highlight that this represents a 30% increase.", "cz": "Rád/a bych zdůraznil/a, že to představuje 30% nárůst."},
+    {"en": "If you have any questions, I'd be happy to take them now.", "cz": "Pokud máte otázky, rád/a je zodpovím."},
+    {"en": "Could you clarify what you mean by 'hybrid'?", "cz": "Mohl/a byste objasnit, co máte na mysli pod pojmem 'hybridní'?"}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "I've ___ my presentation into four sections. (divided)", "answer": "divided"},
+    {"type": "fill", "sentence": "Let's ___ now to the second point. (move)", "answer": "move on / turn"},
+    {"type": "fill", "sentence": "To ___ up, the main finding is that prices are rising.", "answer": "sum"},
+    {"type": "fill", "sentence": "Could you ___ on that last point?", "answer": "elaborate"}
+  ],
+  "tasks": [
+    "1. Prepare a 3-minute presentation on a topic you know well — write the script",
+    "2. Write signposting phrases for each stage of your presentation",
+    "3. Record yourself presenting for 2 minutes and evaluate: pace, clarity, eye contact"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "num": "75",
+  "slug": "nominalizace",
+  "title": "Nominalisation & Noun Phrases",
+  "level": "⭐⭐⭐⭐⭐ C1 | Advanced",
+  "topics": "nominalisation · complex noun phrases · academic style · conciseness",
+  "description": "Nominalizace — jak přetvořit slovesa na podstatná jména pro formálnější styl.",
+  "vocabulary": [
+    {"en": "develop → development", "cz": "vyvíjet → rozvoj"},
+    {"en": "investigate → investigation", "cz": "zkoumat → šetření, výzkum"},
+    {"en": "decide → decision", "cz": "rozhodnout → rozhodnutí"},
+    {"en": "achieve → achievement", "cz": "dosáhnout → úspěch, výsledek"},
+    {"en": "improve → improvement", "cz": "zlepšit → zlepšení"},
+    {"en": "fail → failure", "cz": "selhat → selhání"},
+    {"en": "reduce → reduction", "cz": "snížit → snížení"},
+    {"en": "implement → implementation", "cz": "implementovat → zavedení"},
+    {"en": "analyse → analysis", "cz": "analyzovat → analýza"},
+    {"en": "suggest → suggestion", "cz": "navrhnout → návrh"},
+    {"en": "conclude → conclusion", "cz": "uzavřít → závěr"},
+    {"en": "require → requirement", "cz": "vyžadovat → požadavek"},
+    {"en": "compete → competition", "cz": "soutěžit → soutěž"},
+    {"en": "collaborate → collaboration", "cz": "spolupracovat → spolupráce"},
+    {"en": "discover → discovery", "cz": "objevit → objev"}
+  ],
+  "notes": [
+    "✓ Nominalisation = turning verbs/adjectives into nouns for formal writing",
+    "Informal: 'We decided to investigate.'",
+    "Formal: 'The decision to conduct an investigation was made.'",
+    "✓ Common suffixes: -tion/-sion, -ment, -ance/-ence, -ity, -al, -ing",
+    "⚠️  Overuse makes text heavy — balance nominalisation with active verbs",
+    "✓ Complex noun phrases: 'a significant reduction in carbon emissions'",
+    "✓ Pre-modifiers stack before noun: 'a long-awaited government-backed renewable energy initiative'"
+  ],
+  "examples": [
+    {"en": "The improvement in results was significant.", "cz": "Zlepšení výsledků bylo výrazné. (vs 'Results improved significantly.')"},
+    {"en": "The analysis of the data revealed unexpected patterns.", "cz": "Analýza dat odhalila neočekávané vzorce."},
+    {"en": "The implementation of the new policy was delayed.", "cz": "Zavádění nové politiky bylo zpožděno."},
+    {"en": "Her achievement of a distinction was remarkable.", "cz": "Její výsledek s vyznamenáním byl pozoruhodný."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "We need to ___ the situation. → The ___ of the situation is needed. (analyse)", "answer": "analyse / analysis"},
+    {"type": "fill", "sentence": "They decided to reduce costs. → The ___ to reduce costs was taken.", "answer": "decision"},
+    {"type": "fill", "sentence": "Scientists discovered a new species. → The ___ of a new species was announced.", "answer": "discovery"},
+    {"type": "fill", "sentence": "The company improved performance. → A significant ___ in performance was observed.", "answer": "improvement"}
+  ],
+  "tasks": [
+    "1. Rewrite these sentences using nominalisation: 'They investigated the problem.' / 'The government decided to act.'",
+    "2. Take a paragraph from your writing and increase formality using nominalisation",
+    "3. Find 5 complex noun phrases in a quality English newspaper article"
+  ]
+}

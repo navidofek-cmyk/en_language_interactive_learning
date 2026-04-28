@@ -1,0 +1,242 @@
+{
+  "num": "21",
+  "slug": "zdravi_telo",
+  "title": "Health & Body",
+  "level": "⭐⭐ Level: A2 | Elementary",
+  "topics": "body parts · symptoms · at the doctor · health advice",
+  "description": "Tělo, zdraví a jak mluvit u doktora.",
+  "vocabulary": [
+    {
+      "en": "head",
+      "cz": "hlava"
+    },
+    {
+      "en": "face",
+      "cz": "obličej"
+    },
+    {
+      "en": "eye",
+      "cz": "oko"
+    },
+    {
+      "en": "ear",
+      "cz": "ucho"
+    },
+    {
+      "en": "nose",
+      "cz": "nos"
+    },
+    {
+      "en": "mouth",
+      "cz": "ústa"
+    },
+    {
+      "en": "tooth/teeth",
+      "cz": "zub/zuby"
+    },
+    {
+      "en": "throat",
+      "cz": "krk"
+    },
+    {
+      "en": "neck",
+      "cz": "krk"
+    },
+    {
+      "en": "shoulder",
+      "cz": "rameno"
+    },
+    {
+      "en": "arm",
+      "cz": "paže"
+    },
+    {
+      "en": "elbow",
+      "cz": "loket"
+    },
+    {
+      "en": "wrist",
+      "cz": "zápěstí"
+    },
+    {
+      "en": "hand",
+      "cz": "ruka"
+    },
+    {
+      "en": "finger",
+      "cz": "prst"
+    },
+    {
+      "en": "chest",
+      "cz": "hrudník"
+    },
+    {
+      "en": "back",
+      "cz": "záda"
+    },
+    {
+      "en": "stomach",
+      "cz": "žaludek"
+    },
+    {
+      "en": "leg",
+      "cz": "noha"
+    },
+    {
+      "en": "knee",
+      "cz": "koleno"
+    },
+    {
+      "en": "ankle",
+      "cz": "kotník"
+    },
+    {
+      "en": "foot/feet",
+      "cz": "chodidlo/chodidla"
+    },
+    {
+      "en": "toe",
+      "cz": "palec u nohy"
+    },
+    {
+      "en": "heart",
+      "cz": "srdce"
+    },
+    {
+      "en": "lung",
+      "cz": "plíce"
+    },
+    {
+      "en": "brain",
+      "cz": "mozek"
+    },
+    {
+      "en": "I have a headache",
+      "cz": "Bolí mě hlava"
+    },
+    {
+      "en": "I have a sore throat",
+      "cz": "Bolí mě v krku"
+    },
+    {
+      "en": "I have a temperature/fever",
+      "cz": "Mám teplotu"
+    },
+    {
+      "en": "I feel sick / nauseous",
+      "cz": "Je mi špatně / nevolno"
+    },
+    {
+      "en": "I've been vomiting",
+      "cz": "Zvracím"
+    },
+    {
+      "en": "I have a cold",
+      "cz": "Jsem nachlazený/á"
+    },
+    {
+      "en": "I have the flu",
+      "cz": "Mám chřipku"
+    },
+    {
+      "en": "I'm coughing",
+      "cz": "Kašlu"
+    },
+    {
+      "en": "I have a rash",
+      "cz": "Mám vyrážku"
+    },
+    {
+      "en": "I'm exhausted",
+      "cz": "Jsem vyčerpaný/á"
+    },
+    {
+      "en": "I hurt my knee",
+      "cz": "Zranil/a jsem si koleno"
+    },
+    {
+      "en": "I've sprained my ankle",
+      "cz": "Vyvrtl/a jsem si kotník"
+    },
+    {
+      "en": "I'm allergic to ...",
+      "cz": "Jsem alergický/á na ..."
+    },
+    {
+      "en": "I can't sleep",
+      "cz": "Nemohu spát"
+    },
+    {
+      "en": "I'd like to make an appointment",
+      "cz": "Chtěl/a bych se objednat"
+    },
+    {
+      "en": "How long have you had this?",
+      "cz": "Jak dlouho to máte?"
+    },
+    {
+      "en": "Where does it hurt?",
+      "cz": "Kde vás to bolí?"
+    },
+    {
+      "en": "Roll up your sleeve please",
+      "cz": "Vyhrňte si rukáv, prosím"
+    },
+    {
+      "en": "Take a deep breath",
+      "cz": "Zhluboka se nadechněte"
+    },
+    {
+      "en": "I'll prescribe you ...",
+      "cz": "Předepíšu vám ..."
+    },
+    {
+      "en": "Take one tablet three times a day",
+      "cz": "Berte jednu tabletu třikrát denně"
+    },
+    {
+      "en": "Come back in a week",
+      "cz": "Přijďte za týden"
+    },
+    {
+      "en": "You need to rest",
+      "cz": "Musíte odpočívat"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Doctor",
+      "text": "Good morning. What seems to be the problem?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Have you been coughing?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Yes, quite a lot. And I feel exhausted."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "It sounds like the flu. I"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Should I take time off work?"
+    },
+    {
+      "speaker": "Doctor",
+      "text": "Yes, you need to rest for at least three days."
+    }
+  ],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Describe the last time you were ill — what symptoms did you have?",
+    "2. Write a dialogue at the pharmacy asking for medicine",
+    "3. Write 5 health tips using 'should/shouldn't' and 'must/mustn't'"
+  ]
+}

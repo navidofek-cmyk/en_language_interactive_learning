@@ -1,0 +1,57 @@
+{
+  "num": "56",
+  "slug": "ielts_writing",
+  "title": "IELTS / CAE Writing — Essay Structure",
+  "level": "⭐⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
+  "topics": "essay types · paragraphing · thesis · argument · band descriptors",
+  "description": "Psaní esejí pro IELTS Task 2 a CAE — struktura a jazyk.",
+  "vocabulary": [
+    {
+      "en": "Opinion",
+      "cz": "Do you agree or disagree? Give your opinion."
+    },
+    {
+      "en": "Discussion",
+      "cz": "Discuss both views and give your opinion."
+    },
+    {
+      "en": "Problem-Solution",
+      "cz": "What are the causes/problems? What solutions exist?"
+    },
+    {
+      "en": "Advantages-Disadvantages",
+      "cz": "Discuss the advantages and disadvantages."
+    },
+    {
+      "en": "Two-part question",
+      "cz": "Two separate questions requiring two answers."
+    },
+    {
+      "en": "Task Achievement",
+      "cz": "Does it answer the question? Is the position clear?"
+    },
+    {
+      "en": "Coherence & Cohesion",
+      "cz": "Is it well-organised? Does it flow logically?"
+    },
+    {
+      "en": "Lexical Resource",
+      "cz": "Variety of vocabulary? Accuracy? Collocation?"
+    },
+    {
+      "en": "Grammar Range",
+      "cz": "Variety of structures? Complex sentences? Accuracy?"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "\\n ✓ Check: Did you paraphrase the topic? Is your thesis clear?"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Write a full 250-word essay on the sample topic above",
+    "2. Time yourself: aim for 40 minutes (IELTS standard)",
+    "3. Self-assess using the 4 band descriptors"
+  ]
+}

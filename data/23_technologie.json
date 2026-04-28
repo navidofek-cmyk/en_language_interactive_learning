@@ -1,0 +1,217 @@
+{
+  "num": "23",
+  "slug": "technologie",
+  "title": "Technology & Internet",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "devices · internet · social media · tech verbs · cyber safety",
+  "description": "Technologie, internet a digitální svět.",
+  "vocabulary": [
+    {
+      "en": "laptop",
+      "cz": "notebook"
+    },
+    {
+      "en": "desktop",
+      "cz": "stolní počítač"
+    },
+    {
+      "en": "tablet",
+      "cz": "tablet"
+    },
+    {
+      "en": "smartphone",
+      "cz": "chytrý telefon"
+    },
+    {
+      "en": "smartwatch",
+      "cz": "chytré hodinky"
+    },
+    {
+      "en": "headphones",
+      "cz": "sluchátka"
+    },
+    {
+      "en": "charger",
+      "cz": "nabíječka"
+    },
+    {
+      "en": "cable",
+      "cz": "kabel"
+    },
+    {
+      "en": "keyboard",
+      "cz": "klávesnice"
+    },
+    {
+      "en": "mouse",
+      "cz": "myš"
+    },
+    {
+      "en": "screen / monitor",
+      "cz": "obrazovka"
+    },
+    {
+      "en": "printer",
+      "cz": "tiskárna"
+    },
+    {
+      "en": "hard drive",
+      "cz": "pevný disk"
+    },
+    {
+      "en": "USB stick",
+      "cz": "USB flash disk"
+    },
+    {
+      "en": "router",
+      "cz": "router"
+    },
+    {
+      "en": "server",
+      "cz": "server"
+    },
+    {
+      "en": "browser",
+      "cz": "prohlížeč"
+    },
+    {
+      "en": "website",
+      "cz": "webová stránka"
+    },
+    {
+      "en": "search engine",
+      "cz": "vyhledávač"
+    },
+    {
+      "en": "download",
+      "cz": "stáhnout"
+    },
+    {
+      "en": "upload",
+      "cz": "nahrát"
+    },
+    {
+      "en": "stream",
+      "cz": "streamovat"
+    },
+    {
+      "en": "connection",
+      "cz": "připojení"
+    },
+    {
+      "en": "bandwidth",
+      "cz": "přenosová rychlost"
+    },
+    {
+      "en": "Wi-Fi",
+      "cz": "Wi-Fi"
+    },
+    {
+      "en": "password",
+      "cz": "heslo"
+    },
+    {
+      "en": "username",
+      "cz": "uživatelské jméno"
+    },
+    {
+      "en": "account",
+      "cz": "účet"
+    },
+    {
+      "en": "log in / sign in",
+      "cz": "přihlásit se"
+    },
+    {
+      "en": "log out",
+      "cz": "odhlásit se"
+    },
+    {
+      "en": "update",
+      "cz": "aktualizace"
+    },
+    {
+      "en": "bug",
+      "cz": "chyba v programu"
+    },
+    {
+      "en": "crash",
+      "cz": "padnout/zhavarovat"
+    },
+    {
+      "en": "back up",
+      "cz": "zálohovat"
+    },
+    {
+      "en": "post",
+      "cz": "příspěvek / přidat příspěvek"
+    },
+    {
+      "en": "share",
+      "cz": "sdílet"
+    },
+    {
+      "en": "like",
+      "cz": "lajkovat"
+    },
+    {
+      "en": "comment",
+      "cz": "komentář"
+    },
+    {
+      "en": "follow",
+      "cz": "sledovat"
+    },
+    {
+      "en": "unfollow",
+      "cz": "přestat sledovat"
+    },
+    {
+      "en": "block",
+      "cz": "zablokovat"
+    },
+    {
+      "en": "tag",
+      "cz": "označit"
+    },
+    {
+      "en": "story",
+      "cz": "příběh (story)"
+    },
+    {
+      "en": "reel / short",
+      "cz": "krátké video"
+    },
+    {
+      "en": "live stream",
+      "cz": "živé vysílání"
+    },
+    {
+      "en": "DM (direct message)",
+      "cz": "soukromá zpráva"
+    },
+    {
+      "en": "notification",
+      "cz": "oznámení"
+    },
+    {
+      "en": "trending",
+      "cz": "v trendu"
+    },
+    {
+      "en": "viral",
+      "cz": "virální"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Describe your phone / computer setup in English (5–7 sentences)",
+    "2. Write instructions for a non-technical person on how to:",
+    "3. Write a short paragraph: What technology could you not live without, and why?"
+  ]
+}

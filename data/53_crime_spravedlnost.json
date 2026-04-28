@@ -1,0 +1,234 @@
+{
+  "num": "53",
+  "slug": "crime_spravedlnost",
+  "title": "Crime & Justice",
+  "level": "⭐⭐⭐ Level: B1–B2 | Pre-Intermediate",
+  "topics": "crimes · criminals · legal system · punishment · verbs",
+  "description": "Zločin, právo a spravedlnost.",
+  "vocabulary": [
+    {
+      "en": "theft",
+      "cz": "krádež"
+    },
+    {
+      "en": "burglary",
+      "cz": "vloupání"
+    },
+    {
+      "en": "robbery",
+      "cz": "loupež (se silou)"
+    },
+    {
+      "en": "shoplifting",
+      "cz": "krádež v obchodě"
+    },
+    {
+      "en": "mugging",
+      "cz": "přepadení na ulici"
+    },
+    {
+      "en": "fraud",
+      "cz": "podvod"
+    },
+    {
+      "en": "forgery",
+      "cz": "padělání"
+    },
+    {
+      "en": "smuggling",
+      "cz": "pašování"
+    },
+    {
+      "en": "drug dealing",
+      "cz": "dealování drog"
+    },
+    {
+      "en": "bribery",
+      "cz": "úplatkářství"
+    },
+    {
+      "en": "murder",
+      "cz": "vražda"
+    },
+    {
+      "en": "manslaughter",
+      "cz": "zabití (bez úmyslu)"
+    },
+    {
+      "en": "assault",
+      "cz": "napadení"
+    },
+    {
+      "en": "arson",
+      "cz": "žhářství"
+    },
+    {
+      "en": "vandalism",
+      "cz": "vandalismus"
+    },
+    {
+      "en": "blackmail",
+      "cz": "vydírání"
+    },
+    {
+      "en": "kidnapping",
+      "cz": "únos"
+    },
+    {
+      "en": "cybercrime",
+      "cz": "kyberkriminalita"
+    },
+    {
+      "en": "money laundering",
+      "cz": "praní špinavých peněz"
+    },
+    {
+      "en": "identity theft",
+      "cz": "krádež identity"
+    },
+    {
+      "en": "thief",
+      "cz": "zloděj"
+    },
+    {
+      "en": "burglar",
+      "cz": "vloupač"
+    },
+    {
+      "en": "robber",
+      "cz": "lupič"
+    },
+    {
+      "en": "mugger",
+      "cz": "přepadávač"
+    },
+    {
+      "en": "murderer",
+      "cz": "vrah"
+    },
+    {
+      "en": "arsonist",
+      "cz": "žhář"
+    },
+    {
+      "en": "smuggler",
+      "cz": "pašerák"
+    },
+    {
+      "en": "fraudster",
+      "cz": "podvodník"
+    },
+    {
+      "en": "pickpocket",
+      "cz": "kapsář"
+    },
+    {
+      "en": "vandal",
+      "cz": "vandal"
+    },
+    {
+      "en": "hacker",
+      "cz": "hacker"
+    },
+    {
+      "en": "offender",
+      "cz": "pachatel"
+    },
+    {
+      "en": "suspect",
+      "cz": "podezřelý"
+    },
+    {
+      "en": "defendant",
+      "cz": "obžalovaný"
+    },
+    {
+      "en": "convict",
+      "cz": "odsouzenec"
+    },
+    {
+      "en": "witness",
+      "cz": "svědek"
+    },
+    {
+      "en": "victim",
+      "cz": "oběť"
+    },
+    {
+      "en": "arrest",
+      "cz": "zatknout"
+    },
+    {
+      "en": "charge with",
+      "cz": "obvinit z"
+    },
+    {
+      "en": "prosecute",
+      "cz": "stíhat (soudně)"
+    },
+    {
+      "en": "appear in court",
+      "cz": "stát před soudem"
+    },
+    {
+      "en": "plead guilty",
+      "cz": "přiznat vinu"
+    },
+    {
+      "en": "plead not guilty",
+      "cz": "popřít vinu"
+    },
+    {
+      "en": "acquit",
+      "cz": "zprostit viny"
+    },
+    {
+      "en": "sentence to",
+      "cz": "odsoudit k"
+    },
+    {
+      "en": "appeal",
+      "cz": "odvolat se"
+    },
+    {
+      "en": "bail",
+      "cz": "kauce"
+    },
+    {
+      "en": "fine",
+      "cz": "pokuta"
+    },
+    {
+      "en": "community service",
+      "cz": "veřejná služba"
+    },
+    {
+      "en": "probation",
+      "cz": "podmíněný trest"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "She was charged with fraud and sentenced to 3 years.",
+      "cz": "Byla obviněna z podvodu a odsouzena na 3 roky."
+    },
+    {
+      "en": "The suspect was arrested but later acquitted.",
+      "cz": "Podezřelý byl zatčen, ale později zproštěn viny."
+    },
+    {
+      "en": "Crime rates have fallen significantly over the past decade.",
+      "cz": "Kriminalita výrazně poklesla za poslední desetiletí."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Describe a crime you read about in the news using vocabulary from this lesson",
+    "2. Write a short newspaper report about a fictional crime (use passive voice)",
+    "3. Discuss: Should non-violent offenders go to prison? Use for/against structure."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "66",
+  "slug": "sport_fitness",
+  "title": "Sport & Fitness",
+  "level": "⭐⭐ A2–B1 | Elementary",
+  "topics": "sports · equipment · competition · injury · fitness",
+  "description": "Sporty, fitness a jak mluvit o soutěžích a zraněních.",
+  "vocabulary": [
+    {"en": "score a goal", "cz": "dát gól"},
+    {"en": "win / lose / draw", "cz": "vyhrát / prohrát / remizovat"},
+    {"en": "beat", "cz": "porazit (soupeře)"},
+    {"en": "championship", "cz": "mistrovství, šampionát"},
+    {"en": "tournament", "cz": "turnaj"},
+    {"en": "referee / umpire", "cz": "rozhodčí (fotbal) / rozhodčí (tenis)"},
+    {"en": "foul", "cz": "faul"},
+    {"en": "penalty", "cz": "penalta, trest"},
+    {"en": "stadium", "cz": "stadión"},
+    {"en": "track", "cz": "dráha, běžecká dráha"},
+    {"en": "personal best (PB)", "cz": "osobní rekord"},
+    {"en": "warm up", "cz": "rozcvičit se"},
+    {"en": "cool down", "cz": "zklidnit se po cvičení"},
+    {"en": "stretch", "cz": "protáhnout se"},
+    {"en": "stamina", "cz": "výdrž, kondice"},
+    {"en": "sprain", "cz": "vyvrtnutí (kotníku apod.)"},
+    {"en": "pull a muscle", "cz": "natáhnout si sval"},
+    {"en": "injury", "cz": "zranění"},
+    {"en": "recover", "cz": "uzdravit se, zotavit se"},
+    {"en": "amateur / professional", "cz": "amatér / profesionál"}
+  ],
+  "dialogue": [
+    {"speaker": "A", "text": "Did you watch the match last night?"},
+    {"speaker": "B", "text": "Yes! I can't believe we lost. The referee was terrible."},
+    {"speaker": "A", "text": "That penalty in the last minute was so controversial."},
+    {"speaker": "B", "text": "I know. Anyway, are you going to the gym later?"},
+    {"speaker": "A", "text": "I can't — I pulled a muscle running this morning."},
+    {"speaker": "B", "text": "You should rest it for a few days and stretch properly next time."}
+  ],
+  "examples": [
+    {"en": "She beat her personal best by 3 seconds.", "cz": "Překonala svůj osobní rekord o 3 sekundy."},
+    {"en": "Always warm up before exercise to avoid injury.", "cz": "Vždy se rozcvičte před cvičením, abyste se vyvarovali zranění."},
+    {"en": "The team drew 2–2 after extra time.", "cz": "Tým remizoval 2:2 po prodloužení."},
+    {"en": "He sprained his ankle during training.", "cz": "Vyvrtl si kotník během tréninku."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "She ___ her personal best in the 400m. (exceeded)", "answer": "beat"},
+    {"type": "fill", "sentence": "The game ended in a ___. Both teams scored once.", "answer": "draw"},
+    {"type": "fill", "sentence": "Always ___ up before you start running.", "answer": "warm"},
+    {"type": "fill", "sentence": "He had to ___ from a knee injury for 6 weeks.", "answer": "recover"}
+  ],
+  "tasks": [
+    "1. Describe your favourite sport — how it is played, how many players, equipment needed",
+    "2. Write about a memorable sporting event you watched or participated in",
+    "3. Write a training plan for one week using fitness vocabulary"
+  ]
+}

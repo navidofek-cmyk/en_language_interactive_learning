@@ -1,0 +1,97 @@
+{
+  "num": "05",
+  "slug": "artificial_intelligence",
+  "title": "Artificial Intelligence — Promise and Peril",
+  "level": "⭐⭐⭐⭐ Level: B2 | Upper-Intermediate",
+  "topics": "technology · ethics · future · advanced vocabulary",
+  "description": "Umělá inteligence — přínosy, rizika a etické otázky.",
+  "vocabulary": [
+    {
+      "en": "diagnose",
+      "cz": "diagnostikovat"
+    },
+    {
+      "en": "infrastructure",
+      "cz": "infrastruktura"
+    },
+    {
+      "en": "demonstrate",
+      "cz": "prokázat"
+    },
+    {
+      "en": "radiologist",
+      "cz": "radiolog"
+    },
+    {
+      "en": "optimise",
+      "cz": "optimalizovat"
+    },
+    {
+      "en": "adaptive",
+      "cz": "adaptivní"
+    },
+    {
+      "en": "displacement",
+      "cz": "vytlačení, nahrazení"
+    },
+    {
+      "en": "autonomous",
+      "cz": "autonomní, samostatný"
+    },
+    {
+      "en": "accountability",
+      "cz": "odpovědnost"
+    },
+    {
+      "en": "insidiously",
+      "cz": "záludně, nenápadně"
+    },
+    {
+      "en": "amplify",
+      "cz": "zesilovat"
+    },
+    {
+      "en": "entrench",
+      "cz": "zakořenit, upevnit"
+    },
+    {
+      "en": "governance",
+      "cz": "řízení, správa"
+    },
+    {
+      "en": "unprecedented",
+      "cz": "bezprecedentní"
+    },
+    {
+      "en": "oversight",
+      "cz": "dohled, kontrola"
+    },
+    {
+      "en": "competitive advantage",
+      "cz": "konkurenční výhoda"
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [
+    {
+      "en": "What is the problem with AI systems reflecting training data biases?",
+      "cz": "They can entrench discrimination in important decisions (loans, job interviews, security)."
+    },
+    {
+      "en": "What does the article say about governance of AI?",
+      "cz": "It has lagged behind development; private companies hold power with little democratic oversight."
+    },
+    {
+      "en": "What does the author argue is the key question about AI?",
+      "cz": "Whether AI transformation will serve democratic values or commercial interests."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write a 150-word opinion piece: \"AI will be the most important technology in history.\"",
+    "2. Research: What is the EU AI Act and what does it regulate?",
+    "3. Write a paragraph arguing that AI governance should be handled internationally,"
+  ],
+  "article_text": "ARTIFICIAL INTELLIGENCE — PROMISE AND PERIL\n\nArtificial intelligence is no longer the stuff of science fiction. It is\ndiagnosing diseases with greater accuracy than human doctors, generating\nlegal documents in seconds, and powering the recommendations that shape what\nwe read, watch, and buy. AI is embedded in the infrastructure of modern life,\noften invisibly.\n\nThe potential benefits are extraordinary. In healthcare, AI systems have\ndemonstrated the ability to detect cancers at early stages that human\nradiologists miss. In climate science, machine learning models are improving\nweather forecasting and optimising energy grids. In education, adaptive\nplatforms are tailoring content to individual learners at a scale no teacher\ncould achieve alone.\n\nYet the risks are equally substantial. The rapid displacement of jobs — not\njust manual labour, but knowledge work — is raising profound questions about\neconomic inequality and social purpose. Autonomous weapons systems raise\ntroubling ethical questions about accountability and the laws of war.\nPerhaps most insidiously, AI systems reflect and amplify the biases present\nin their training data, potentially entrenching discrimination in consequential\ndecisions — who gets a loan, who gets an interview, who is flagged as a\nsecurity risk.\n\nGovernance has lagged badly behind development. A small number of private\ncompanies now hold unprecedented power over systems that affect billions of\npeople, with little democratic oversight.\n\nThe question is not whether AI will transform society. It already is. The\nquestion is whether that transformation will be shaped by democratic values\nand public interest, or by the logic of capital and competitive advantage."
+}

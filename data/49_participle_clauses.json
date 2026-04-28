@@ -1,0 +1,61 @@
+{
+  "num": "49",
+  "slug": "participle_clauses",
+  "title": "Participle Clauses",
+  "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
+  "topics": "present participle · past participle · perfect participle · position",
+  "description": "Participiální věty — kompaktnější, formálnější vyjádření.",
+  "vocabulary": [
+    {
+      "en": "use",
+      "cz": "Active action, simultaneous or causal"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "⚠️ The subject of both clauses MUST be the same:",
+    "✗ Walking down the street, the rain started.",
+    "✓ Walking down the street, I got soaked.\\n",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "Seeing the danger, she stopped immediately.",
+      "cz": "Když uviděla nebezpečí, okamžitě zastavila."
+    },
+    {
+      "en": "Not knowing what to say, he just smiled.",
+      "cz": "Nevědě, co říct, jen se usmál."
+    },
+    {
+      "en": "She sat at her desk, reading a report.",
+      "cz": "Seděla u stolu a četla zprávu."
+    },
+    {
+      "en": "The train arriving on platform 3 is delayed.",
+      "cz": "Vlak přijíždějící na nástupiště 3 má zpoždění."
+    },
+    {
+      "en": "Disappointed by the result, he resigned.",
+      "cz": "Zklamaný výsledkem, podal výpověď."
+    },
+    {
+      "en": "The documents, signed by the manager, were sent.",
+      "cz": "Dokumenty, podepsané manažerem, byly odeslány."
+    },
+    {
+      "en": "Given the circumstances, this was the right decision.",
+      "cz": "Vzhledem k okolnostem to bylo správné rozhodnutí."
+    },
+    {
+      "en": "Having finished the report, she went home.",
+      "cz": "Poté, co dokončila zprávu, šla domů."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Rewrite these using participle clauses:",
+    "2. Write a short news report (8 sentences) using at least 3 participle clauses",
+    "3. Find 5 participle clauses in a newspaper article"
+  ]
+}

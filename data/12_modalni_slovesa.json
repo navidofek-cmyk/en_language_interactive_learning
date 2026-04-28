@@ -1,0 +1,87 @@
+{
+  "num": "12",
+  "slug": "modalni_slovesa",
+  "title": "Modal Verbs",
+  "level": "⭐⭐ Level: A2–B1 | Elementary–Pre-Intermediate",
+  "topics": "ability · permission · obligation · advice · possibility",
+  "description": "Modální slovesa — can, must, should, may, might, have to, need to.",
+  "vocabulary": [
+    {
+      "en": "can",
+      "cz": "umět, moci (schopnost/povolení)"
+    },
+    {
+      "en": "can't",
+      "cz": "nemoci, neumět"
+    },
+    {
+      "en": "could",
+      "cz": "mohl/a by, uměl/a (minulost can nebo zdvořilá žádost)"
+    },
+    {
+      "en": "must",
+      "cz": "musím (silná povinnost, vlastní rozhodnutí)"
+    },
+    {
+      "en": "mustn't",
+      "cz": "nesmím (zákaz)"
+    },
+    {
+      "en": "have to",
+      "cz": "musím (vnější povinnost, pravidlo)"
+    },
+    {
+      "en": "don't have to",
+      "cz": "nemusím (žádná povinnost)"
+    },
+    {
+      "en": "should",
+      "cz": "měl/a bych (rada, doporučení)"
+    },
+    {
+      "en": "shouldn't",
+      "cz": "neměl/a bych"
+    },
+    {
+      "en": "may",
+      "cz": "smím? / možná (formální povolení nebo možnost)"
+    },
+    {
+      "en": "might",
+      "cz": "možná (slabá možnost)"
+    },
+    {
+      "en": "need to",
+      "cz": "potřebovat (nutnost)"
+    },
+    {
+      "en": "needn't",
+      "cz": "nemusím (British English)"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "MUST   → personal feeling of necessity / strong advice",
+    "HAVE TO → external obligation (rules, laws, others)",
+    "SHOULD  → advice, recommendation (not compulsory)",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "The sign says no entry. You ___ go in. (prohibition)",
+      "answer": "mustn"
+    },
+    {
+      "type": "fill",
+      "sentence": "Take an umbrella — it ___ rain later. (weak possibility)",
+      "answer": "might"
+    }
+  ],
+  "tasks": [
+    "1. Write 3 sentences for each: must / have to / should (9 total)",
+    "2. Describe rules at your workplace/school using must/mustn't/have to",
+    "3. Give 5 pieces of advice to someone learning English (use should/shouldn't)"
+  ]
+}

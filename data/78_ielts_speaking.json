@@ -1,0 +1,47 @@
+{
+  "num": "78",
+  "slug": "ielts_speaking",
+  "title": "Project — IELTS Speaking",
+  "level": "⭐⭐⭐⭐ B2–C1 | Upper-Intermediate",
+  "topics": "IELTS speaking parts · fluency strategies · topic expansion · answers",
+  "description": "Projekt: příprava na IELTS Speaking — strategie, rozšiřování odpovědí, Part 1/2/3.",
+  "vocabulary": [
+    {"en": "fluency", "cz": "plynulost"},
+    {"en": "coherence", "cz": "soudržnost"},
+    {"en": "lexical resource", "cz": "slovní zásoba"},
+    {"en": "pronunciation", "cz": "výslovnost"},
+    {"en": "hesitation", "cz": "zaváhání, nerozhodnost"},
+    {"en": "filler phrase", "cz": "výplňková fráze"},
+    {"en": "expand on", "cz": "rozvinout, rozvést"},
+    {"en": "give reasons", "cz": "uvést důvody"},
+    {"en": "give examples", "cz": "uvést příklady"},
+    {"en": "express preference", "cz": "vyjádřit preferenci"},
+    {"en": "speculate", "cz": "spekulovat, odhadovat"}
+  ],
+  "notes": [
+    "Part 1: Short answers — 2–3 sentences. Don't just say 'yes' or 'no'.",
+    "Part 2: Long turn — speak for 1–2 minutes on a card topic. Plan for 1 min.",
+    "Part 3: Discussion — abstract questions. Give opinions with reasons + examples.",
+    "✓ Buying time: 'That's an interesting question...', 'Let me think about that...'",
+    "✓ Expanding: 'Not only that, but...', 'What's more...', 'To give you an example...'",
+    "✓ Showing fluency: vary vocabulary, use connectors, avoid repetition",
+    "⚠️  Avoid: very long pauses, answering in one sentence, repeating the question"
+  ],
+  "examples": [
+    {"en": "Q: Do you like cooking? A: Yes, I really enjoy it. I cook most evenings and I particularly love experimenting with new recipes. Recently I've been trying to learn more Italian dishes.", "cz": "Vzorová odpověď — 3 věty, s detailem."},
+    {"en": "Q: Should governments invest more in public transport? A: Absolutely. Not only does it reduce traffic congestion, but it also helps lower carbon emissions. Countries like Japan show that high-quality public transport is completely feasible.", "cz": "Part 3 odpověď — tvrzení + zdůvodnění + příklad."},
+    {"en": "To give you an example of what I mean...", "cz": "Abych vám dal/a příklad toho, co myslím..."},
+    {"en": "That's an interesting question — let me think about that for a moment.", "cz": "To je zajímavá otázka — nechte mě chvíli přemýšlet."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "Not only does it save time, ___ it also reduces costs. (but)", "answer": "but"},
+    {"type": "fill", "sentence": "To ___ you an example — in Sweden, renewable energy covers 80% of demand.", "answer": "give"},
+    {"type": "fill", "sentence": "That's a great question. Let me ___ about that.", "answer": "think"},
+    {"type": "fill", "sentence": "What's ___, it's also better for the environment.", "answer": "more"}
+  ],
+  "tasks": [
+    "1. Record yourself answering 5 IELTS Part 1 questions for 1–2 mins each. Listen back.",
+    "2. Write a 2-minute Part 2 answer: 'Describe a book that influenced you.'",
+    "3. Answer this Part 3 question in 150 words: 'How will technology change education in the next 20 years?'"
+  ]
+}

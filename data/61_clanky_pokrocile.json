@@ -1,0 +1,50 @@
+{
+  "num": "61",
+  "slug": "clanky_pokrocile",
+  "title": "Articles — Advanced Usage",
+  "level": "⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "a/an/the · zero article · generic statements · proper nouns",
+  "description": "Pokročilé použití členů — kdy nepoužít žádný člen a jak se chybuje.",
+  "vocabulary": [
+    {"en": "zero article", "cz": "nulový člen (bez členu)"},
+    {"en": "generic statement", "cz": "obecné tvrzení"},
+    {"en": "unique reference", "cz": "jedinečný odkaz"},
+    {"en": "first mention", "cz": "první zmínka"},
+    {"en": "second mention", "cz": "druhá zmínka (→ the)"},
+    {"en": "countable noun", "cz": "počitatelné podstatné jméno"},
+    {"en": "uncountable noun", "cz": "nepočitatelné podstatné jméno"},
+    {"en": "proper noun", "cz": "vlastní jméno"},
+    {"en": "abstract noun", "cz": "abstraktní podstatné jméno"}
+  ],
+  "notes": [
+    "A/AN → first mention, non-specific: I saw A dog.",
+    "THE → specific, known to both: The dog barked all night.",
+    "ZERO → generic, plural, uncountable: Dogs are loyal. Water is life.",
+    "⚠️  THE with: rivers (the Nile), mountain ranges (the Alps), oceans (the Pacific)",
+    "⚠️  NO article: continents (Europe), countries (France), cities (Prague), lakes (Lake Baikal)",
+    "⚠️  THE with: the UK, the USA, the Czech Republic (official name with 'Republic')",
+    "✓ Life is short. (zero — abstract, generic)",
+    "✓ The life of a soldier is hard. (specific life)",
+    "✓ She plays the piano. (musical instruments → the)",
+    "✓ She studies piano at university. (subject of study → zero)"
+  ],
+  "examples": [
+    {"en": "I bought a book. The book was fascinating.", "cz": "Koupil jsem knihu. Ta kniha byla fascinující."},
+    {"en": "The Moon orbits the Earth.", "cz": "Měsíc obíhá kolem Země. (unique objects → the)"},
+    {"en": "He was elected president.", "cz": "Byl zvolen prezidentem. (title/role → zero)"},
+    {"en": "She goes to school by bus.", "cz": "Jezdí do školy autobusem. (institution for its purpose → zero)"},
+    {"en": "The school we attended was excellent.", "cz": "Škola, kam jsme chodili, byla vynikající. (specific → the)"}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "___ Amazon is the longest river in South America.", "answer": "The"},
+    {"type": "fill", "sentence": "She plays ___ violin in an orchestra.", "answer": "the"},
+    {"type": "fill", "sentence": "___ love is a complex emotion. (generic)", "answer": ""},
+    {"type": "fill", "sentence": "He was appointed ___ head of department.", "answer": ""},
+    {"type": "fill", "sentence": "We travelled across ___ United States.", "answer": "the"}
+  ],
+  "tasks": [
+    "1. Find 10 sentences in an English newspaper — identify and justify each article use",
+    "2. Write a paragraph about your city using articles correctly (min. 8 nouns)",
+    "3. Correct the article mistakes: 'The life is beautiful. I play a guitar. Sun rises in east.'"
+  ]
+}

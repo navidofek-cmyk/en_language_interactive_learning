@@ -1,0 +1,124 @@
+{
+  "num": "08",
+  "slug": "present_simple",
+  "title": "Present Simple",
+  "level": "⭐⭐ Level: A1–A2 | Elementary",
+  "topics": "present simple · third person -s · negatives · questions",
+  "description": "Přítomný čas prostý — pravidelné děje, fakta, zvyky.",
+  "vocabulary": [
+    {
+      "en": "you",
+      "cz": "work"
+    },
+    {
+      "en": "he",
+      "cz": "works"
+    },
+    {
+      "en": "she",
+      "cz": "works"
+    },
+    {
+      "en": "it",
+      "cz": "works"
+    },
+    {
+      "en": "we",
+      "cz": "work"
+    },
+    {
+      "en": "they",
+      "cz": "work"
+    },
+    {
+      "en": "he/she/it",
+      "cz": "is"
+    },
+    {
+      "en": "we/they",
+      "cz": "are"
+    },
+    {
+      "en": "Facts & general truths",
+      "cz": "Water boils at 100°C."
+    },
+    {
+      "en": "Habits & routines",
+      "cz": "She drinks coffee every morning."
+    },
+    {
+      "en": "Permanent situations",
+      "cz": "He lives in Prague."
+    },
+    {
+      "en": "Timetables & schedules",
+      "cz": "The train leaves at 8:15."
+    },
+    {
+      "en": "Instructions",
+      "cz": "First, you open the file."
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "⚠️ In negatives & questions use DO/DOES — the main verb stays in base form:",
+    "✓ Does she WORK?  (NE: Does she workS?)",
+    "✓ He doesn",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "Do you speak English?",
+      "cz": "Mluvíš anglicky?"
+    },
+    {
+      "en": "He works in a hospital.",
+      "cz": "Pracuje v nemocnici."
+    },
+    {
+      "en": "Does she have a car?",
+      "cz": "Má ona auto?"
+    },
+    {
+      "en": "It rains a lot in autumn.",
+      "cz": "Na podzim hodně prší."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "She ___ (work) in a bank.",
+      "answer": "works"
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ (not / like) horror films.",
+      "answer": "don"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ he ___ (speak) French? (question)",
+      "answer": "Does ... speak"
+    },
+    {
+      "type": "fill",
+      "sentence": "I ___ (get up) at 6 every morning.",
+      "answer": "get up"
+    },
+    {
+      "type": "fill",
+      "sentence": "It ___ (rain) a lot here in spring.",
+      "answer": "rains"
+    },
+    {
+      "type": "fill",
+      "sentence": "We ___ (not / have) a garden.",
+      "answer": "don"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 true sentences about your own daily routine using present simple",
+    "2. Convert these sentences to negatives and questions",
+    "3. Create a \"describe a friend\" paragraph using only present simple"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "num": "50",
+  "slug": "subjunctive",
+  "title": "The Subjunctive",
+  "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
+  "topics": "present subjunctive · were subjunctive · subjunctive phrases",
+  "description": "Konjunktiv v angličtině — formální doporučení a přání.",
+  "vocabulary": [
+    {
+      "en": "I suggest that...",
+      "cz": "suggest + base form (no -s, no to)"
+    },
+    {
+      "en": "I recommend that...",
+      "cz": "recommend + base form"
+    },
+    {
+      "en": "It is essential/vital that...",
+      "cz": "essential/vital + base form"
+    },
+    {
+      "en": "It is important that...",
+      "cz": "important + base form"
+    },
+    {
+      "en": "The proposal requires that...",
+      "cz": "requires + base form"
+    },
+    {
+      "en": "God save the Queen!",
+      "cz": "fixed expression (no -s)"
+    },
+    {
+      "en": "Be that as it may,...",
+      "cz": "= Whatever the case may be"
+    },
+    {
+      "en": "So be it.",
+      "cz": "= Let it be so. (resignation)"
+    },
+    {
+      "en": "Suffice it to say,...",
+      "cz": "= It is enough to say that..."
+    },
+    {
+      "en": "Come what may,...",
+      "cz": "= Whatever happens"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "It is essential that he BE present.",
+      "cz": "Je nezbytné, aby byl přítomen."
+    },
+    {
+      "en": "The committee recommends that she TAKE the position.",
+      "cz": "Výbor doporučuje, aby tuto pozici přijala."
+    },
+    {
+      "en": "I suggest that he CONSIDER the options carefully.",
+      "cz": "Navrhuji, aby pečlivě zvážil možnosti."
+    },
+    {
+      "en": "It is vital that all participants ARRIVE on time.",
+      "cz": "Je nezbytné, aby všichni účastníci přijeli včas."
+    },
+    {
+      "en": "The doctor recommended that she STOP smoking.",
+      "cz": "Doktor doporučil, aby přestala kouřit."
+    },
+    {
+      "en": "It is important that the form BE completed in full.",
+      "cz": "Je důležité, aby byl formulář kompletně vyplněn."
+    },
+    {
+      "en": "If I were you, I would apply.",
+      "cz": "Na tvém místě bych se přihlásil/a."
+    },
+    {
+      "en": "If she were to accept, that would be great.",
+      "cz": "Kdyby přijala, bylo by to skvělé."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "It is vital that every employee ___ (be) aware of the policy.",
+      "answer": "be"
+    },
+    {
+      "type": "fill",
+      "sentence": "The judge insisted that the witness ___ (tell) the truth.",
+      "answer": "tell"
+    },
+    {
+      "type": "fill",
+      "sentence": "If she ___ (be) here, she would know what to do.",
+      "answer": "were"
+    },
+    {
+      "type": "fill",
+      "sentence": "I recommend that he ___ (consider) all options. (subjunctive)",
+      "answer": "consider"
+    },
+    {
+      "type": "fill",
+      "sentence": "It is important that the report ___ (submit) by Friday. (passive)",
+      "answer": "be submitted"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 sentences using suggest/recommend/insist + subjunctive",
+    "2. Write a formal recommendation letter using at least 3 subjunctive structures",
+    "3. Find examples of the subjunctive in formal documents or official reports"
+  ]
+}

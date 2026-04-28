@@ -1,0 +1,97 @@
+{
+  "num": "02",
+  "slug": "remote_work",
+  "title": "The Rise of Remote Work",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "work · technology · advantages/disadvantages · present perfect",
+  "description": "Přečti si článek o práci na dálku a odpověz na otázky.",
+  "vocabulary": [
+    {
+      "en": "workforce",
+      "cz": "pracovní síla, zaměstnanci"
+    },
+    {
+      "en": "overnight",
+      "cz": "přes noc, ze dne na den"
+    },
+    {
+      "en": "temporary",
+      "cz": "dočasný"
+    },
+    {
+      "en": "permanent",
+      "cz": "trvalý, stálý"
+    },
+    {
+      "en": "commuting",
+      "cz": "dojíždění"
+    },
+    {
+      "en": "productivity",
+      "cz": "produktivita"
+    },
+    {
+      "en": "interruption",
+      "cz": "přerušení"
+    },
+    {
+      "en": "talent pool",
+      "cz": "zásobník talentů"
+    },
+    {
+      "en": "isolation",
+      "cz": "izolace"
+    },
+    {
+      "en": "blurring",
+      "cz": "rozostření, setření hranic"
+    },
+    {
+      "en": "mentoring",
+      "cz": "mentorování"
+    },
+    {
+      "en": "hybrid",
+      "cz": "hybridní"
+    },
+    {
+      "en": "arrangement",
+      "cz": "ujednání, dohoda"
+    },
+    {
+      "en": "collaboration",
+      "cz": "spolupráce"
+    }
+  ],
+  "dialogue": [],
+  "notes": [],
+  "examples": [
+    {
+      "en": "What caused remote work to become widespread?",
+      "cz": "The COVID-19 pandemic."
+    },
+    {
+      "en": "Name two advantages of remote work mentioned in the article.",
+      "cz": "Any two: no commuting / higher productivity / better work-life balance / lower costs for companies."
+    },
+    {
+      "en": "What is one disadvantage for junior employees?",
+      "cz": "They miss out on informal learning and mentoring."
+    },
+    {
+      "en": "What percentage of workers prefer a hybrid model?",
+      "cz": "58%."
+    },
+    {
+      "en": "According to the article, what is the new purpose of the office?",
+      "cz": "Collaboration, creativity, and connection."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write a 100-word summary of the article in your own words",
+    "2. Write a paragraph: what are the main advantages of remote work FOR YOU?",
+    "3. Conduct a survey of 3 people you know: do they prefer remote, office, or hybrid?"
+  ],
+  "article_text": "THE RISE OF REMOTE WORK\n\nBefore 2020, working from home was a privilege enjoyed by only a small\npercentage of the workforce. Then the COVID-19 pandemic changed everything.\nAlmost overnight, millions of people around the world were forced to work\nfrom their homes. What began as a temporary emergency measure has become,\nfor many, a permanent way of working.\n\nThe advantages of remote work are well-documented. Employees save time and\nmoney by not commuting. Many report higher productivity, fewer interruptions,\nand a better work-life balance. Companies benefit from lower office costs and\naccess to a global talent pool — geography no longer limits who they can hire.\n\nHowever, remote work is not without its challenges. Many workers struggle with\nisolation and the blurring of boundaries between work and home life.\nCollaboration can suffer when teams are not physically together. Junior\nemployees, in particular, miss out on the informal learning and mentoring that\nhappens naturally in an office environment.\n\nA 2023 survey found that 58% of workers preferred a hybrid model — some days\nin the office, some at home. Employers are increasingly offering this as a\nstandard arrangement. The future of work appears to be neither fully remote\nnor fully in-person, but somewhere in between.\n\nThe office has not disappeared. But it has changed its purpose — from a place\nwhere work happens, to a place for collaboration, creativity, and connection."
+}

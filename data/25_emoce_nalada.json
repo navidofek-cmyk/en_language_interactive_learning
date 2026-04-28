@@ -1,0 +1,216 @@
+{
+  "num": "25",
+  "slug": "emoce_nalada",
+  "title": "Emotions & Feelings",
+  "level": "⭐⭐ Level: A2–B1 | Elementary",
+  "topics": "emotions · expressing feelings · -ed vs -ing adjectives · intensifiers",
+  "description": "Emoce, pocity a jak je vyjádřit přirozeně.",
+  "vocabulary": [
+    {
+      "en": "happy",
+      "cz": "šťastný/á"
+    },
+    {
+      "en": "sad",
+      "cz": "smutný/á"
+    },
+    {
+      "en": "angry",
+      "cz": "naštvaný/á"
+    },
+    {
+      "en": "excited",
+      "cz": "nadšený/á"
+    },
+    {
+      "en": "nervous",
+      "cz": "nervózní"
+    },
+    {
+      "en": "scared",
+      "cz": "vystrašený/á"
+    },
+    {
+      "en": "worried",
+      "cz": "znepokojený/á"
+    },
+    {
+      "en": "surprised",
+      "cz": "překvapený/á"
+    },
+    {
+      "en": "bored",
+      "cz": "znuděný/á"
+    },
+    {
+      "en": "tired",
+      "cz": "unavený/á"
+    },
+    {
+      "en": "relaxed",
+      "cz": "uvolněný/á"
+    },
+    {
+      "en": "stressed",
+      "cz": "vystresovaný/á"
+    },
+    {
+      "en": "proud",
+      "cz": "hrdý/á"
+    },
+    {
+      "en": "ashamed",
+      "cz": "zastyděný/á"
+    },
+    {
+      "en": "jealous",
+      "cz": "žárlivý/á"
+    },
+    {
+      "en": "lonely",
+      "cz": "osamělý/á"
+    },
+    {
+      "en": "frustrated",
+      "cz": "frustrovaný/á"
+    },
+    {
+      "en": "grateful",
+      "cz": "vděčný/á"
+    },
+    {
+      "en": "confident",
+      "cz": "sebejistý/á"
+    },
+    {
+      "en": "confused",
+      "cz": "zmatený/á"
+    },
+    {
+      "en": "disappointed",
+      "cz": "zklamaný/á"
+    },
+    {
+      "en": "relieved",
+      "cz": "ulevilo se mi"
+    },
+    {
+      "en": "disgusted",
+      "cz": "znechucený/á"
+    },
+    {
+      "en": "embarrassed",
+      "cz": "v rozpacích"
+    },
+    {
+      "en": "a bit",
+      "cz": "trochu"
+    },
+    {
+      "en": "quite",
+      "cz": "docela"
+    },
+    {
+      "en": "rather",
+      "cz": "poměrně / docela"
+    },
+    {
+      "en": "very",
+      "cz": "velmi"
+    },
+    {
+      "en": "really",
+      "cz": "opravdu"
+    },
+    {
+      "en": "extremely",
+      "cz": "nesmírně"
+    },
+    {
+      "en": "absolutely",
+      "cz": "naprosto (strong adj.)"
+    },
+    {
+      "en": "totally",
+      "cz": "úplně"
+    },
+    {
+      "en": "I feel really ...",
+      "cz": "Cítím se opravdu ..."
+    },
+    {
+      "en": "I'm a bit ...",
+      "cz": "Jsem trochu ..."
+    },
+    {
+      "en": "I can't help feeling ...",
+      "cz": "Nemohu se zbavit pocitu ..."
+    },
+    {
+      "en": "I'm over the moon!",
+      "cz": "Jsem nadšený/á (šťastný/á na sedmém nebi)!"
+    },
+    {
+      "en": "I'm gutted.",
+      "cz": "Jsem zdrcený/á."
+    },
+    {
+      "en": "It gets on my nerves.",
+      "cz": "Jde mi to na nervy."
+    },
+    {
+      "en": "I'm fed up with ...",
+      "cz": "Mám dost ..."
+    },
+    {
+      "en": "That makes me so happy.",
+      "cz": "To mě tak potěšuje."
+    },
+    {
+      "en": "I'm not in the mood for ...",
+      "cz": "Nemám náladu na ..."
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "The homework was really ___ (bore).",
+      "answer": "boring"
+    },
+    {
+      "type": "fill",
+      "sentence": "I was ___ (surprise) by the ending.",
+      "answer": "surprised"
+    },
+    {
+      "type": "fill",
+      "sentence": "The lecture was quite ___ (interest).",
+      "answer": "interesting"
+    },
+    {
+      "type": "fill",
+      "sentence": "She felt ___ (embarrass) when she forgot.",
+      "answer": "embarrassed"
+    },
+    {
+      "type": "fill",
+      "sentence": "Skydiving sounds absolutely ___ (terrify).",
+      "answer": "terrifying"
+    },
+    {
+      "type": "fill",
+      "sentence": "He was ___ (disappoint) with his exam results.",
+      "answer": "disappointed"
+    }
+  ],
+  "tasks": [
+    "1. Describe how you feel right now using 3 different emotions + intensifiers",
+    "2. Write about a time you felt very proud or very disappointed",
+    "3. Write 6 sentences using -ed and -ing adjectives (one pair each)"
+  ]
+}

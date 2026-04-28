@@ -1,0 +1,53 @@
+{
+  "num": "47",
+  "slug": "cleft_sentences",
+  "title": "Cleft Sentences",
+  "level": "⭐⭐⭐⭐ Level: B2–C1 | Upper-Intermediate",
+  "topics": "it-cleft · wh-cleft · all-cleft · pseudo-cleft",
+  "description": "Rozštěpené věty — důraz na konkrétní část věty.",
+  "vocabulary": [],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "Normal:   Tom broke the window.",
+      "cz": "Cleft:    It was TOM who broke the window.  (not someone else)"
+    },
+    {
+      "en": "Normal:   She called me last night.",
+      "cz": "Cleft:    It was LAST NIGHT that she called me.  (not another time)"
+    },
+    {
+      "en": "Normal:   I need your advice.",
+      "cz": "Cleft:    It"
+    },
+    {
+      "en": "Normal:   The loud music bothered us.",
+      "cz": "Cleft:    It was THE LOUD MUSIC that bothered us."
+    },
+    {
+      "en": "Normal:   I want a holiday.",
+      "cz": "Wh-cleft: What I want is a holiday."
+    },
+    {
+      "en": "Normal:   She needs more time.",
+      "cz": "Wh-cleft: What she needs is more time."
+    },
+    {
+      "en": "Normal:   This project requires teamwork.",
+      "cz": "Wh-cleft: What this project requires is teamwork."
+    },
+    {
+      "en": "Normal:   He did was check the figures again.",
+      "cz": "Wh-cleft: What he did was (to) check the figures again."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Write 3 it-cleft sentences emphasising different parts of:",
+    "2. Complete these wh-clefts with your own information:",
+    "3. Write a short paragraph (6 sentences) using at least 2 cleft structures"
+  ]
+}

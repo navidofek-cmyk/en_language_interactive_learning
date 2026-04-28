@@ -1,0 +1,149 @@
+{
+  "num": "04",
+  "slug": "rodina",
+  "title": "Family & People",
+  "level": "⭐ Level: A1 | Beginner",
+  "topics": "family members · relationships · possessives · describing people",
+  "description": "Rodina, vztahy a popis lidí v angličtině.",
+  "vocabulary": [
+    {
+      "en": "mother / mum",
+      "cz": "matka / máma"
+    },
+    {
+      "en": "father / dad",
+      "cz": "otec / táta"
+    },
+    {
+      "en": "parents",
+      "cz": "rodiče"
+    },
+    {
+      "en": "son",
+      "cz": "syn"
+    },
+    {
+      "en": "daughter",
+      "cz": "dcera"
+    },
+    {
+      "en": "brother",
+      "cz": "bratr"
+    },
+    {
+      "en": "sister",
+      "cz": "sestra"
+    },
+    {
+      "en": "siblings",
+      "cz": "sourozenci"
+    },
+    {
+      "en": "grandfather / grandpa",
+      "cz": "dědeček"
+    },
+    {
+      "en": "grandmother / grandma",
+      "cz": "babička"
+    },
+    {
+      "en": "grandparents",
+      "cz": "prarodiče"
+    },
+    {
+      "en": "uncle",
+      "cz": "strýc"
+    },
+    {
+      "en": "aunt",
+      "cz": "teta"
+    },
+    {
+      "en": "cousin",
+      "cz": "bratranec / sestřenice"
+    },
+    {
+      "en": "nephew",
+      "cz": "synovec"
+    },
+    {
+      "en": "niece",
+      "cz": "neteř"
+    },
+    {
+      "en": "husband",
+      "cz": "manžel"
+    },
+    {
+      "en": "wife",
+      "cz": "manželka"
+    },
+    {
+      "en": "partner",
+      "cz": "partner/ka"
+    },
+    {
+      "en": "child / children",
+      "cz": "dítě / děti"
+    },
+    {
+      "en": "twins",
+      "cz": "dvojčata"
+    },
+    {
+      "en": "only child",
+      "cz": "jedináček"
+    },
+    {
+      "en": "stepfather",
+      "cz": "nevlastní otec"
+    },
+    {
+      "en": "stepmother",
+      "cz": "nevlastní matka"
+    },
+    {
+      "en": "mother-in-law",
+      "cz": "tchyně"
+    },
+    {
+      "en": "father-in-law",
+      "cz": "tchán"
+    },
+    {
+      "en": "my",
+      "cz": "můj / moje"
+    },
+    {
+      "en": "your",
+      "cz": "tvůj / tvoje"
+    },
+    {
+      "en": "his",
+      "cz": "jeho"
+    },
+    {
+      "en": "her",
+      "cz": "její"
+    },
+    {
+      "en": "our",
+      "cz": "náš / naše"
+    },
+    {
+      "en": "their",
+      "cz": "jejich"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Add more extended family words (godfather, godmother, foster parent...)",
+    "2. Write a function family_tree(name, relation) that returns a sentence:",
+    "3. Create a family quiz: show a relation in Czech, ask for English word,"
+  ]
+}

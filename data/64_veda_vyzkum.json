@@ -1,0 +1,53 @@
+{
+  "num": "64",
+  "slug": "veda_vyzkum",
+  "title": "Science & Research",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "scientific method · research vocabulary · hypothesis · findings",
+  "description": "Vědecká a výzkumná slovní zásoba pro akademické a profesní prostředí.",
+  "vocabulary": [
+    {"en": "hypothesis", "cz": "hypotéza"},
+    {"en": "methodology", "cz": "metodologie"},
+    {"en": "sample size", "cz": "velikost vzorku"},
+    {"en": "control group", "cz": "kontrolní skupina"},
+    {"en": "variable", "cz": "proměnná"},
+    {"en": "correlation", "cz": "korelace"},
+    {"en": "causation", "cz": "příčinnost"},
+    {"en": "peer review", "cz": "recenzní řízení"},
+    {"en": "replicate", "cz": "replikovat, zopakovat"},
+    {"en": "findings", "cz": "výsledky, zjištění"},
+    {"en": "conclusion", "cz": "závěr"},
+    {"en": "implication", "cz": "důsledek, implikace"},
+    {"en": "empirical evidence", "cz": "empirické důkazy"},
+    {"en": "quantitative", "cz": "kvantitativní"},
+    {"en": "qualitative", "cz": "kvalitativní"},
+    {"en": "statistically significant", "cz": "statisticky významný"},
+    {"en": "bias", "cz": "zkreslení, zaujatost"},
+    {"en": "randomised controlled trial", "cz": "randomizovaná kontrolovaná studie"},
+    {"en": "data set", "cz": "soubor dat"},
+    {"en": "publish", "cz": "publikovat, zveřejnit"}
+  ],
+  "notes": [
+    "⚠️  Correlation ≠ causation: two things happening together doesn't mean one causes the other",
+    "✓ 'The study SUGGESTS that...' (hedging — not proven definitively)",
+    "✓ 'The results INDICATE a link between...' (hedging)",
+    "✓ 'Further research IS NEEDED to...' (standard academic phrase)"
+  ],
+  "examples": [
+    {"en": "The hypothesis was tested using a randomised controlled trial.", "cz": "Hypotéza byla testována pomocí randomizované kontrolované studie."},
+    {"en": "The findings suggest a strong correlation between sleep and productivity.", "cz": "Výsledky naznačují silnou korelaci mezi spánkem a produktivitou."},
+    {"en": "The study was peer-reviewed before publication.", "cz": "Studie prošla recenzním řízením před zveřejněním."},
+    {"en": "We must be careful not to confuse correlation with causation.", "cz": "Musíme být opatrní, abychom nezaměňovali korelaci s příčinností."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "The results ___ that exercise reduces stress. (suggest)", "answer": "suggest / indicate"},
+    {"type": "fill", "sentence": "A larger ___ size would make the study more reliable.", "answer": "sample"},
+    {"type": "fill", "sentence": "The paper was ___ in Nature magazine.", "answer": "published"},
+    {"type": "fill", "sentence": "Just because X follows Y doesn't mean Y ___ X.", "answer": "causes"}
+  ],
+  "tasks": [
+    "1. Read a scientific abstract in English and identify: hypothesis, method, findings",
+    "2. Write a 100-word paragraph summarising a study you know about",
+    "3. Explain the difference between correlation and causation with an example"
+  ]
+}

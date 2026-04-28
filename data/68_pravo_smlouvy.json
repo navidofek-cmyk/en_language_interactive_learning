@@ -1,0 +1,53 @@
+{
+  "num": "68",
+  "slug": "pravo_smlouvy",
+  "title": "Law, Contracts & Rights",
+  "level": "⭐⭐⭐⭐ B2 | Upper-Intermediate",
+  "topics": "contracts · consumer rights · legal language · formal correspondence",
+  "description": "Právo, smlouvy a práva spotřebitele — praktická právní angličtina.",
+  "vocabulary": [
+    {"en": "contract", "cz": "smlouva"},
+    {"en": "clause", "cz": "klauzule, doložka"},
+    {"en": "terms and conditions", "cz": "obchodní podmínky"},
+    {"en": "binding", "cz": "závazný"},
+    {"en": "void", "cz": "neplatný, nulový"},
+    {"en": "breach of contract", "cz": "porušení smlouvy"},
+    {"en": "liability", "cz": "odpovědnost, ručení"},
+    {"en": "compensation", "cz": "náhrada, kompenzace"},
+    {"en": "dispute", "cz": "spor"},
+    {"en": "settlement", "cz": "urovnání, dohoda"},
+    {"en": "sue", "cz": "žalovat (soudně)"},
+    {"en": "intellectual property", "cz": "duševní vlastnictví"},
+    {"en": "copyright", "cz": "autorské právo"},
+    {"en": "trademark", "cz": "ochranná známka"},
+    {"en": "patent", "cz": "patent"},
+    {"en": "consumer rights", "cz": "spotřebitelská práva"},
+    {"en": "refund", "cz": "vrácení peněz"},
+    {"en": "warranty", "cz": "záruka"},
+    {"en": "negligence", "cz": "nedbalost"},
+    {"en": "confidentiality", "cz": "důvěrnost"}
+  ],
+  "notes": [
+    "✓ 'Subject to' = za podmínky: 'Subject to availability'",
+    "✓ 'In accordance with' = v souladu s: 'In accordance with the contract'",
+    "✓ 'Notwithstanding' = i přesto, bez ohledu na (formal legal)",
+    "⚠️  'Liable FOR' something; 'entitled TO' something; 'bound BY' a contract"
+  ],
+  "examples": [
+    {"en": "The contract is binding on both parties from the date of signing.", "cz": "Smlouva je závazná pro obě strany ode dne podpisu."},
+    {"en": "You are entitled to a full refund within 14 days of purchase.", "cz": "Máte nárok na plné vrácení peněz do 14 dnů od nákupu."},
+    {"en": "The company was sued for breach of contract.", "cz": "Společnost byla žalována za porušení smlouvy."},
+    {"en": "Any dispute shall be settled by arbitration.", "cz": "Jakýkoli spor bude řešen rozhodčím řízením."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "You are ___ to a refund if the goods are faulty. (have a right)", "answer": "entitled"},
+    {"type": "fill", "sentence": "The company was found ___ for the data breach.", "answer": "liable"},
+    {"type": "fill", "sentence": "The clause was ___ and had no legal effect.", "answer": "void"},
+    {"type": "fill", "sentence": "She ___ the company for damages of €50,000.", "answer": "sued"}
+  ],
+  "tasks": [
+    "1. Read the terms and conditions of a service you use — identify 5 key clauses",
+    "2. Write a formal complaint letter claiming a refund under consumer rights",
+    "3. Explain in simple English what 'intellectual property' means and give 3 examples"
+  ]
+}

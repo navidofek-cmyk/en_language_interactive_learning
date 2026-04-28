@@ -1,0 +1,166 @@
+{
+  "num": "16",
+  "slug": "present_perfect",
+  "title": "Present Perfect",
+  "level": "⭐⭐ Level: A2–B1 | Elementary–Pre-Intermediate",
+  "topics": "have/has + past participle · ever/never · already/yet · for/since",
+  "description": "Předpřítomný čas — spojení minulosti s přítomností.",
+  "vocabulary": [
+    {
+      "en": "be",
+      "cz": "been"
+    },
+    {
+      "en": "have",
+      "cz": "had"
+    },
+    {
+      "en": "go",
+      "cz": "gone/been"
+    },
+    {
+      "en": "see",
+      "cz": "seen"
+    },
+    {
+      "en": "do",
+      "cz": "done"
+    },
+    {
+      "en": "make",
+      "cz": "made"
+    },
+    {
+      "en": "get",
+      "cz": "got"
+    },
+    {
+      "en": "give",
+      "cz": "given"
+    },
+    {
+      "en": "take",
+      "cz": "taken"
+    },
+    {
+      "en": "come",
+      "cz": "come"
+    },
+    {
+      "en": "know",
+      "cz": "known"
+    },
+    {
+      "en": "think",
+      "cz": "thought"
+    },
+    {
+      "en": "write",
+      "cz": "written"
+    },
+    {
+      "en": "read",
+      "cz": "read"
+    },
+    {
+      "en": "speak",
+      "cz": "spoken"
+    },
+    {
+      "en": "eat",
+      "cz": "eaten"
+    },
+    {
+      "en": "drink",
+      "cz": "drunk"
+    },
+    {
+      "en": "buy",
+      "cz": "bought"
+    },
+    {
+      "en": "find",
+      "cz": "found"
+    },
+    {
+      "en": "lose",
+      "cz": "lost"
+    },
+    {
+      "en": "meet",
+      "cz": "met"
+    },
+    {
+      "en": "say",
+      "cz": "said"
+    },
+    {
+      "en": "tell",
+      "cz": "told"
+    },
+    {
+      "en": "win",
+      "cz": "won"
+    },
+    {
+      "en": "break",
+      "cz": "broken"
+    },
+    {
+      "en": "fall",
+      "cz": "fallen"
+    },
+    {
+      "en": "grow",
+      "cz": "grown"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "Present perfect → connection to NOW, no specific time",
+    "Past simple   → finished time, specific moment\\n",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "She has lived here for years.",
+      "cz": "She lived here in 2010."
+    },
+    {
+      "en": "Have you eaten yet?",
+      "cz": "Did you eat at the party?"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "fill",
+      "sentence": "___ you ever ___ (be) to Japan?",
+      "answer": "Have ... been"
+    },
+    {
+      "type": "fill",
+      "sentence": "I ___ (not/see) him since last Monday.",
+      "answer": "haven"
+    },
+    {
+      "type": "fill",
+      "sentence": "She ___ (finish) the report an hour ago.",
+      "answer": "finished"
+    },
+    {
+      "type": "fill",
+      "sentence": "We ___ (live) here for ten years.",
+      "answer": "have lived /"
+    },
+    {
+      "type": "fill",
+      "sentence": "He ___ (break) his leg in 2022.",
+      "answer": "broke"
+    }
+  ],
+  "tasks": [
+    "1. Write 5 sentences about your life experiences using 'ever/never'",
+    "2. Write 3 sentence pairs showing the difference between",
+    "3. Describe what you have done today using present perfect"
+  ]
+}

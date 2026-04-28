@@ -1,0 +1,202 @@
+{
+  "num": "38",
+  "slug": "penize_finance",
+  "title": "Money & Finance",
+  "level": "⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "banking · spending · saving · expressions with money",
+  "description": "Peníze, bankovnictví a osobní finance.",
+  "vocabulary": [
+    {
+      "en": "current account",
+      "cz": "běžný účet"
+    },
+    {
+      "en": "savings account",
+      "cz": "spořicí účet"
+    },
+    {
+      "en": "mortgage",
+      "cz": "hypotéka"
+    },
+    {
+      "en": "loan",
+      "cz": "půjčka"
+    },
+    {
+      "en": "interest rate",
+      "cz": "úroková sazba"
+    },
+    {
+      "en": "overdraft",
+      "cz": "přečerpání účtu"
+    },
+    {
+      "en": "direct debit",
+      "cz": "inkaso"
+    },
+    {
+      "en": "standing order",
+      "cz": "trvalý příkaz"
+    },
+    {
+      "en": "statement",
+      "cz": "výpis z účtu"
+    },
+    {
+      "en": "PIN",
+      "cz": "PIN kód"
+    },
+    {
+      "en": "transaction",
+      "cz": "transakce"
+    },
+    {
+      "en": "currency",
+      "cz": "měna"
+    },
+    {
+      "en": "exchange rate",
+      "cz": "kurz"
+    },
+    {
+      "en": "cash",
+      "cz": "hotovost"
+    },
+    {
+      "en": "cashless",
+      "cz": "bezhotovostní"
+    },
+    {
+      "en": "afford",
+      "cz": "dovolit si"
+    },
+    {
+      "en": "spend",
+      "cz": "utratit"
+    },
+    {
+      "en": "waste",
+      "cz": "plýtvat"
+    },
+    {
+      "en": "invest",
+      "cz": "investovat"
+    },
+    {
+      "en": "save",
+      "cz": "šetřit"
+    },
+    {
+      "en": "borrow",
+      "cz": "půjčit si (od někoho)"
+    },
+    {
+      "en": "lend",
+      "cz": "půjčit (někomu)"
+    },
+    {
+      "en": "owe",
+      "cz": "dlužit"
+    },
+    {
+      "en": "pay back",
+      "cz": "splatit"
+    },
+    {
+      "en": "charge",
+      "cz": "účtovat"
+    },
+    {
+      "en": "discount",
+      "cz": "sleva"
+    },
+    {
+      "en": "refund",
+      "cz": "vrácení peněz"
+    },
+    {
+      "en": "tip",
+      "cz": "spropitné"
+    },
+    {
+      "en": "budget",
+      "cz": "rozpočet"
+    },
+    {
+      "en": "debt",
+      "cz": "dluh"
+    },
+    {
+      "en": "income",
+      "cz": "příjem"
+    },
+    {
+      "en": "tax",
+      "cz": "daň"
+    },
+    {
+      "en": "invoice",
+      "cz": "faktura"
+    },
+    {
+      "en": "break the bank",
+      "cz": "stát jmění / zruinovat"
+    },
+    {
+      "en": "penny-wise, pound foolish",
+      "cz": "šetří se na maličkostech, plýtvá na větším"
+    },
+    {
+      "en": "money doesn't grow on trees",
+      "cz": "peníze nerostou na stromech"
+    },
+    {
+      "en": "to be broke",
+      "cz": "být bez peněz (neformální)"
+    },
+    {
+      "en": "to go Dutch",
+      "cz": "platit každý za sebe"
+    },
+    {
+      "en": "in the red",
+      "cz": "v mínusu"
+    },
+    {
+      "en": "in the black",
+      "cz": "v plusu (zisku)"
+    },
+    {
+      "en": "live within your means",
+      "cz": "žít podle svých možností"
+    },
+    {
+      "en": "a ballpark figure",
+      "cz": "přibližná cifra"
+    },
+    {
+      "en": "cut costs",
+      "cz": "snížit náklady"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "Yes, here"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes please. Can I set up a direct debit for my rent?"
+    }
+  ],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Write 5 sentences about your spending habits using vocabulary from this lesson",
+    "2. Write a short dialogue: calling your bank about an unrecognised transaction",
+    "3. Write a simple monthly budget in English (income, fixed costs, savings, spending)"
+  ]
+}

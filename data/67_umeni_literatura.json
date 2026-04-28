@@ -1,0 +1,53 @@
+{
+  "num": "67",
+  "slug": "umeni_literatura",
+  "title": "Art, Architecture & Literature",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "art styles · architecture · literary genres · describing and reviewing",
+  "description": "Umění, architektura a literatura — slovní zásoba a jak hodnotit kulturní díla.",
+  "vocabulary": [
+    {"en": "masterpiece", "cz": "mistrovské dílo"},
+    {"en": "abstract", "cz": "abstraktní"},
+    {"en": "realistic", "cz": "realistický"},
+    {"en": "contemporary", "cz": "současný, contemporální"},
+    {"en": "portrait", "cz": "portrét"},
+    {"en": "landscape", "cz": "krajina (obraz)"},
+    {"en": "still life", "cz": "zátiší"},
+    {"en": "sculpture", "cz": "socha, sochařství"},
+    {"en": "exhibition", "cz": "výstava"},
+    {"en": "gallery", "cz": "galerie"},
+    {"en": "auction", "cz": "aukce"},
+    {"en": "architect", "cz": "architekt"},
+    {"en": "facade", "cz": "fasáda"},
+    {"en": "Gothic", "cz": "gotický"},
+    {"en": "Baroque", "cz": "barokní"},
+    {"en": "novel", "cz": "román"},
+    {"en": "short story", "cz": "povídka"},
+    {"en": "plot twist", "cz": "nečekaný obrat děje"},
+    {"en": "narrator", "cz": "vypravěč"},
+    {"en": "theme", "cz": "téma, motiv"},
+    {"en": "metaphor", "cz": "metafora"},
+    {"en": "symbolism", "cz": "symbolika"},
+    {"en": "thought-provoking", "cz": "nutí přemýšlet"},
+    {"en": "evocative", "cz": "evokativní, expresivní"},
+    {"en": "haunting", "cz": "pronásledující, nezapomenutelný"}
+  ],
+  "examples": [
+    {"en": "The painting is both realistic and deeply symbolic.", "cz": "Obraz je zároveň realistický a hluboce symbolický."},
+    {"en": "The novel explores themes of identity and belonging.", "cz": "Román zkoumá témata identity a sounáležitosti."},
+    {"en": "The Gothic cathedral dominates the city skyline.", "cz": "Gotická katedrála dominuje panoramatu města."},
+    {"en": "The plot twist in the final chapter was unexpected.", "cz": "Nečekaný obrat děje v posledním chapter byl překvapivý."},
+    {"en": "The haunting melody stayed with me long after the concert.", "cz": "Pronásledující melodie mi zůstala v hlavě dlouho po koncertu."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "Kafka's 'The Metamorphosis' is full of ___ — the insect represents alienation.", "answer": "symbolism"},
+    {"type": "fill", "sentence": "St. Vitus Cathedral in Prague is a fine example of ___ architecture.", "answer": "Gothic"},
+    {"type": "fill", "sentence": "The film was ___ — I kept thinking about it for days.", "answer": "thought-provoking"},
+    {"type": "fill", "sentence": "She wrote a short ___ about her childhood experiences.", "answer": "story"}
+  ],
+  "tasks": [
+    "1. Write a 100-word review of a painting, book, or building you know well",
+    "2. Describe a piece of art or architecture from your city to a foreign visitor",
+    "3. Compare two literary works you've read: theme, style, characters"
+  ]
+}

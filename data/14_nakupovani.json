@@ -1,0 +1,186 @@
+{
+  "num": "14",
+  "slug": "nakupovani",
+  "title": "Shopping & Money",
+  "level": "⭐⭐ Level: A2 | Elementary",
+  "topics": "shopping · money · clothes · comparing prices",
+  "description": "Nakupování, peníze a jak komunikovat v obchodě.",
+  "vocabulary": [
+    {
+      "en": "jacket",
+      "cz": "bunda / sako"
+    },
+    {
+      "en": "coat",
+      "cz": "kabát"
+    },
+    {
+      "en": "shirt",
+      "cz": "košile"
+    },
+    {
+      "en": "blouse",
+      "cz": "halenka"
+    },
+    {
+      "en": "trousers",
+      "cz": "kalhoty"
+    },
+    {
+      "en": "jeans",
+      "cz": "džíny"
+    },
+    {
+      "en": "skirt",
+      "cz": "sukně"
+    },
+    {
+      "en": "dress",
+      "cz": "šaty"
+    },
+    {
+      "en": "suit",
+      "cz": "oblek"
+    },
+    {
+      "en": "jumper / sweater",
+      "cz": "svetr"
+    },
+    {
+      "en": "hoodie",
+      "cz": "mikina s kapucí"
+    },
+    {
+      "en": "T-shirt",
+      "cz": "tričko"
+    },
+    {
+      "en": "socks",
+      "cz": "ponožky"
+    },
+    {
+      "en": "underwear",
+      "cz": "spodní prádlo"
+    },
+    {
+      "en": "shoes",
+      "cz": "boty"
+    },
+    {
+      "en": "boots",
+      "cz": "kotníkové boty"
+    },
+    {
+      "en": "trainers",
+      "cz": "tenisky"
+    },
+    {
+      "en": "sandals",
+      "cz": "sandály"
+    },
+    {
+      "en": "scarf",
+      "cz": "šátek / šála"
+    },
+    {
+      "en": "gloves",
+      "cz": "rukavice"
+    },
+    {
+      "en": "hat",
+      "cz": "čepice / klobouk"
+    },
+    {
+      "en": "belt",
+      "cz": "opasek"
+    },
+    {
+      "en": "Can I try this on?",
+      "cz": "Mohu si to vyzkoušet?"
+    },
+    {
+      "en": "Do you have this in a size M?",
+      "cz": "Máte toto ve velikosti M?"
+    },
+    {
+      "en": "Have you got it in blue?",
+      "cz": "Máte to v modré barvě?"
+    },
+    {
+      "en": "How much is this?",
+      "cz": "Kolik to stojí?"
+    },
+    {
+      "en": "It's too expensive.",
+      "cz": "Je to příliš drahé."
+    },
+    {
+      "en": "I'll take it.",
+      "cz": "Vezmu si to."
+    },
+    {
+      "en": "Can I pay by card?",
+      "cz": "Mohu platit kartou?"
+    },
+    {
+      "en": "Do you accept contactless?",
+      "cz": "Přijímáte bezkontaktní platby?"
+    },
+    {
+      "en": "Can I have a receipt?",
+      "cz": "Mohu dostat účtenku?"
+    },
+    {
+      "en": "Do you have anything cheaper?",
+      "cz": "Máte něco levnějšího?"
+    },
+    {
+      "en": "It doesn't fit.",
+      "cz": "Nesedí mi to."
+    },
+    {
+      "en": "Can I return this?",
+      "cz": "Mohu toto vrátit?"
+    },
+    {
+      "en": "The changing rooms are over there.",
+      "cz": "Kabinky jsou tam."
+    },
+    {
+      "en": "good value",
+      "cz": "dobrá hodnota za peníze"
+    },
+    {
+      "en": "on sale / reduced",
+      "cz": "ve slevě"
+    },
+    {
+      "en": "sold out",
+      "cz": "vyprodáno"
+    },
+    {
+      "en": "in stock",
+      "cz": "skladem"
+    },
+    {
+      "en": "fits well",
+      "cz": "sedí dobře"
+    },
+    {
+      "en": "smart / casual",
+      "cz": "elegantní / neformální"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "This scarf is NOT EXPENSIVE ENOUGH — I want something nicer.",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Describe what you are wearing right now in English",
+    "2. Write a dialogue at a shoe shop (at least 8 exchanges)",
+    "3. Compare two clothing items: price, quality, style"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "num": "80",
+  "slug": "projekt_finalni_c2",
+  "title": "Final Project — C2 Portfolio",
+  "level": "⭐⭐⭐⭐⭐ C1–C2 | Advanced",
+  "topics": "all skills · C2 writing · speaking · vocabulary · grammar mastery",
+  "description": "Finální projekt — ukázka všech dovedností kurzu na úrovni C1/C2. Gratulace!",
+  "vocabulary": [
+    {"en": "articulate", "cz": "výřečný, srozumitelně vyjadřující se"},
+    {"en": "nuanced", "cz": "nuancovaný, jemný"},
+    {"en": "sophisticated", "cz": "sofistikovaný, vyspělý"},
+    {"en": "eloquent", "cz": "výmluvný, plynný"},
+    {"en": "concise", "cz": "stručný a výstižný"},
+    {"en": "compelling", "cz": "přesvědčivý, strhující"},
+    {"en": "insightful", "cz": "bystrý, přinášející nový pohled"},
+    {"en": "coherent", "cz": "soudržný, logický"},
+    {"en": "precise", "cz": "přesný, přesně vyjádřený"},
+    {"en": "fluent", "cz": "plynný"}
+  ],
+  "notes": [
+    "C2 characteristics:",
+    "✓ Express yourself spontaneously, fluently, and precisely",
+    "✓ Differentiate fine shades of meaning",
+    "✓ Use a wide range of idiomatic expressions naturally",
+    "✓ Write clear, well-structured text — complex topics, controlled style",
+    "✓ Understand virtually everything heard or read",
+    "What distinguishes C1 from C2: C2 = near-native precision and range"
+  ],
+  "examples": [
+    {"en": "The argument was nuanced and well-supported by evidence.", "cz": "Argument byl nuancovaný a dobře podložený důkazy."},
+    {"en": "Her writing is both concise and eloquent.", "cz": "Její psaní je zároveň stručné a výmluvné."},
+    {"en": "He expressed his views with remarkable precision.", "cz": "Vyjádřil svůj názor s pozoruhodnou přesností."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "A C2 speaker can ___ fine shades of meaning.", "answer": "differentiate"},
+    {"type": "fill", "sentence": "Her essay was ___ — every word counted.", "answer": "concise"},
+    {"type": "fill", "sentence": "He spoke ___ and never hesitated.", "answer": "fluently"}
+  ],
+  "tasks": [
+    "1. ESSAY (300 words): 'Language learning is one of the most valuable investments a person can make.' Agree or disagree?",
+    "2. SPEECH (3 min recorded): Describe your language learning journey — what worked, what didn't, what's next.",
+    "3. REVIEW: Look back at Lesson 01. Write about how your English has changed since you started this course.",
+    "4. NEXT STEPS: Research C2 proficiency exams (CPE, IELTS 8.0+) and set a concrete goal with a date.",
+    "5. MAINTENANCE: Commit to a daily English habit — podcast, reading, writing, or speaking for 20 min/day."
+  ]
+}

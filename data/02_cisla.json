@@ -1,0 +1,57 @@
+{
+  "num": "02",
+  "slug": "cisla",
+  "title": "Numbers & Basic Maths",
+  "level": "⭐ Level: A1 | Beginner",
+  "topics": "cardinal numbers · ordinal numbers · maths vocabulary",
+  "description": "Čísla, počítání a základní matematické výrazy v angličtině.",
+  "vocabulary": [
+    {
+      "en": "plus / and",
+      "cz": "+ (sčítání)"
+    },
+    {
+      "en": "minus",
+      "cz": "− (odčítání)"
+    },
+    {
+      "en": "times / multiplied by",
+      "cz": "× (násobení)"
+    },
+    {
+      "en": "divided by",
+      "cz": "÷ (dělení)"
+    },
+    {
+      "en": "equals",
+      "cz": "= (rovná se)"
+    },
+    {
+      "en": "percent",
+      "cz": "% (procent)"
+    },
+    {
+      "en": "a half",
+      "cz": "1/2 (polovina)"
+    },
+    {
+      "en": "a quarter",
+      "cz": "1/4 (čtvrtina)"
+    },
+    {
+      "en": "point",
+      "cz": ". (desetinná tečka: 3.14)"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Extend number_to_english() to handle numbers 21–99",
+    "2. Write a function read_price(pounds, pence) that reads a",
+    "3. Create a maths quiz that generates 10 random additions and"
+  ]
+}

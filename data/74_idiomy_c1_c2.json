@@ -1,0 +1,59 @@
+{
+  "num": "74",
+  "slug": "idiomy_c1_c2",
+  "title": "Idioms & Expressions — C1/C2",
+  "level": "⭐⭐⭐⭐⭐ C1–C2 | Advanced",
+  "topics": "C1/C2 idioms · formal expressions · proverbs · colourful language",
+  "description": "Pokročilé idiomy a výrazy na úrovni C1/C2 — literární, formální i hovorové.",
+  "vocabulary": [
+    {"en": "a double-edged sword", "cz": "meč s dvojím ostřím — výhody i nevýhody"},
+    {"en": "a foregone conclusion", "cz": "předem daný výsledek"},
+    {"en": "a red herring", "cz": "zavádějící stopa, odvedení pozornosti"},
+    {"en": "a storm in a teacup", "cz": "bouře ve sklenici vody"},
+    {"en": "add insult to injury", "cz": "přidat urážku ke zranění"},
+    {"en": "at the eleventh hour", "cz": "na poslední chvíli, v jedenáctou hodinu"},
+    {"en": "be in two minds", "cz": "být na vážkách, nerozhodný"},
+    {"en": "bite the dust", "cz": "padnout, zkrachovat"},
+    {"en": "break new ground", "cz": "být průkopnický"},
+    {"en": "burn bridges", "cz": "spálit za sebou mosty"},
+    {"en": "caught between a rock and a hard place", "cz": "v pasti, bez dobrého východiska"},
+    {"en": "come full circle", "cz": "uzavřít kruh, vrátit se na začátek"},
+    {"en": "cry wolf", "cz": "plašit zbytečně"},
+    {"en": "devil's advocate", "cz": "advocatus diaboli — záměrně oponovat"},
+    {"en": "draw a line in the sand", "cz": "stanovit jasnou hranici"},
+    {"en": "every cloud has a silver lining", "cz": "každá zlá věc je pro něco dobrá"},
+    {"en": "face the music", "cz": "čelit důsledkům svých činů"},
+    {"en": "hit the ground running", "cz": "okamžitě začít naplno"},
+    {"en": "let the cat out of the bag", "cz": "prozradit tajemství"},
+    {"en": "move the goalposts", "cz": "měnit pravidla v průběhu hry"},
+    {"en": "on thin ice", "cz": "na tenkém ledě, v nebezpečné situaci"},
+    {"en": "pull the rug from under someone", "cz": "vytáhnout někomu koberec zpod nohou"},
+    {"en": "push the envelope", "cz": "překračovat hranice, jít dál"},
+    {"en": "read between the lines", "cz": "číst mezi řádky"},
+    {"en": "the tip of the iceberg", "cz": "špička ledovce"},
+    {"en": "throw in the towel", "cz": "vzdát to, hodit ručník do ringu"},
+    {"en": "turn a blind eye", "cz": "přimhouřit oko, přehlédnout"},
+    {"en": "up in the air", "cz": "nejisté, nevyřešené"},
+    {"en": "wash one's hands of", "cz": "umýt si ruce, zbavit se odpovědnosti"},
+    {"en": "with a pinch of salt", "cz": "se špetkou soli — s rezervou"}
+  ],
+  "examples": [
+    {"en": "The decision to merge was a foregone conclusion — everyone knew it was coming.", "cz": "Rozhodnutí o fúzi bylo předem dané — všichni věděli, že přijde."},
+    {"en": "What they reported was just the tip of the iceberg.", "cz": "To, co hlásili, byla jen špička ledovce."},
+    {"en": "You should take his claims with a pinch of salt.", "cz": "Jeho tvrzení byste měli brát s rezervou."},
+    {"en": "The company hit the ground running after the merger.", "cz": "Společnost se po fúzi okamžitě pustila do práce naplno."},
+    {"en": "I'm in two minds about accepting the offer.", "cz": "Jsem na vážkách, zda nabídku přijmout."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "The result was a ___ conclusion — nobody was surprised.", "answer": "foregone"},
+    {"type": "fill", "sentence": "She's been ___ the issue under the carpet for months.", "answer": "sweeping"},
+    {"type": "fill", "sentence": "Don't take everything he says at face value — read ___ the lines.", "answer": "between"},
+    {"type": "fill", "sentence": "After failing twice, he finally threw in the ___.", "answer": "towel"},
+    {"type": "fill", "sentence": "The corruption scandal was just the ___ of the iceberg.", "answer": "tip"}
+  ],
+  "tasks": [
+    "1. Choose 10 idioms and write a sentence for each about current events or your life",
+    "2. Write a short editorial (150 words) using at least 6 idioms naturally",
+    "3. Research 5 more C1/C2 idioms not listed here — learn and use them"
+  ]
+}

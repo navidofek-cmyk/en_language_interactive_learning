@@ -1,0 +1,48 @@
+{
+  "num": "72",
+  "slug": "vztahy_spolecnost",
+  "title": "Relationships & Society",
+  "level": "⭐⭐⭐ B1–B2 | Pre-Intermediate",
+  "topics": "relationships · social issues · community · expressing opinions",
+  "description": "Mezilidské vztahy a společenská témata — slovní zásoba a jak o nich mluvit.",
+  "vocabulary": [
+    {"en": "get along with", "cz": "vycházet s někým"},
+    {"en": "fall out with", "cz": "pohádat se s někým"},
+    {"en": "make up", "cz": "usmířit se"},
+    {"en": "confide in", "cz": "svěřit se, důvěřovat"},
+    {"en": "trust", "cz": "důvěřovat, důvěra"},
+    {"en": "mutual respect", "cz": "vzájemná úcta"},
+    {"en": "compromise", "cz": "kompromis"},
+    {"en": "community", "cz": "komunita, společenství"},
+    {"en": "social cohesion", "cz": "sociální soudržnost"},
+    {"en": "generation gap", "cz": "generační propast"},
+    {"en": "peer pressure", "cz": "tlak vrstevníků"},
+    {"en": "stereotype", "cz": "stereotyp"},
+    {"en": "prejudice", "cz": "předsudek"},
+    {"en": "tolerance", "cz": "tolerance"},
+    {"en": "empathy", "cz": "empatie"},
+    {"en": "conflict resolution", "cz": "řešení konfliktů"},
+    {"en": "boundary", "cz": "hranice (osobní, fyzická)"},
+    {"en": "vulnerable", "cz": "zranitelný"},
+    {"en": "marginalised", "cz": "marginalizovaný"},
+    {"en": "inclusive", "cz": "inkluzivní"}
+  ],
+  "examples": [
+    {"en": "She confides in her sister about everything.", "cz": "Svěřuje se sestře se vším."},
+    {"en": "The generation gap between parents and children is growing.", "cz": "Generační propast mezi rodiči a dětmi se prohlubuje."},
+    {"en": "Peer pressure can lead young people to make poor decisions.", "cz": "Tlak vrstevníků může vést mladé lidi ke špatným rozhodnutím."},
+    {"en": "A healthy relationship requires mutual respect and compromise.", "cz": "Zdravý vztah vyžaduje vzájemnou úctu a kompromis."},
+    {"en": "It's important to challenge stereotypes and prejudice.", "cz": "Je důležité zpochybňovat stereotypy a předsudky."}
+  ],
+  "quiz": [
+    {"type": "fill", "sentence": "They argued but ___ up after a few days.", "answer": "made"},
+    {"type": "fill", "sentence": "Good relationships are built on ___ and honesty.", "answer": "trust"},
+    {"type": "fill", "sentence": "She ___ in her best friend about her problems.", "answer": "confided"},
+    {"type": "fill", "sentence": "We need more ___ communities where everyone feels welcome.", "answer": "inclusive"}
+  ],
+  "tasks": [
+    "1. Describe a relationship (friendship, family, work) that is important to you",
+    "2. Write about a social issue in your community and suggest solutions",
+    "3. Discuss: Is social media helping or harming real-life relationships? (150 words)"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "num": "05",
+  "slug": "jidlo_piti",
+  "title": "Food & Drink",
+  "level": "⭐ Level: A1–A2 | Beginner",
+  "topics": "food · drink · ordering · countable vs uncountable nouns",
+  "description": "Jídlo, pití a jak objednat v restauraci.",
+  "vocabulary": [
+    {
+      "en": "bread",
+      "cz": "chléb"
+    },
+    {
+      "en": "butter",
+      "cz": "máslo"
+    },
+    {
+      "en": "cheese",
+      "cz": "sýr"
+    },
+    {
+      "en": "egg",
+      "cz": "vejce"
+    },
+    {
+      "en": "meat",
+      "cz": "maso"
+    },
+    {
+      "en": "chicken",
+      "cz": "kuře"
+    },
+    {
+      "en": "fish",
+      "cz": "ryba"
+    },
+    {
+      "en": "rice",
+      "cz": "rýže"
+    },
+    {
+      "en": "pasta",
+      "cz": "těstoviny"
+    },
+    {
+      "en": "soup",
+      "cz": "polévka"
+    },
+    {
+      "en": "salad",
+      "cz": "salát"
+    },
+    {
+      "en": "sandwich",
+      "cz": "sendvič"
+    },
+    {
+      "en": "pizza",
+      "cz": "pizza"
+    },
+    {
+      "en": "burger",
+      "cz": "hamburger"
+    },
+    {
+      "en": "apple",
+      "cz": "jablko"
+    },
+    {
+      "en": "banana",
+      "cz": "banán"
+    },
+    {
+      "en": "orange",
+      "cz": "pomeranč"
+    },
+    {
+      "en": "strawberry",
+      "cz": "jahoda"
+    },
+    {
+      "en": "cake",
+      "cz": "dort / koláč"
+    },
+    {
+      "en": "chocolate",
+      "cz": "čokoláda"
+    },
+    {
+      "en": "ice cream",
+      "cz": "zmrzlina"
+    },
+    {
+      "en": "biscuit",
+      "cz": "sušenka"
+    },
+    {
+      "en": "vegetables",
+      "cz": "zelenina"
+    },
+    {
+      "en": "fruit",
+      "cz": "ovoce"
+    },
+    {
+      "en": "water",
+      "cz": "voda"
+    },
+    {
+      "en": "still water",
+      "cz": "neperlivá voda"
+    },
+    {
+      "en": "sparkling water",
+      "cz": "perlivá voda"
+    },
+    {
+      "en": "coffee",
+      "cz": "káva"
+    },
+    {
+      "en": "tea",
+      "cz": "čaj"
+    },
+    {
+      "en": "juice",
+      "cz": "džus"
+    },
+    {
+      "en": "milk",
+      "cz": "mléko"
+    },
+    {
+      "en": "beer",
+      "cz": "pivo"
+    },
+    {
+      "en": "wine",
+      "cz": "víno"
+    },
+    {
+      "en": "lemonade",
+      "cz": "limonáda"
+    },
+    {
+      "en": "I'd like ...",
+      "cz": "Chtěl/a bych ..."
+    },
+    {
+      "en": "Can I have ... please?",
+      "cz": "Mohl/a bych dostat ...?"
+    },
+    {
+      "en": "What do you recommend?",
+      "cz": "Co doporučujete?"
+    },
+    {
+      "en": "The bill, please",
+      "cz": "Účet, prosím"
+    },
+    {
+      "en": "Is service included?",
+      "cz": "Je zahrnuta obsluha?"
+    },
+    {
+      "en": "I'm vegetarian",
+      "cz": "Jsem vegetarián/ka"
+    },
+    {
+      "en": "I'm allergic to ...",
+      "cz": "Jsem alergický/á na ..."
+    },
+    {
+      "en": "It's delicious!",
+      "cz": "Je to skvělé!"
+    },
+    {
+      "en": "Enjoy your meal!",
+      "cz": "Dobrou chuť!"
+    },
+    {
+      "en": "Could I see the menu?",
+      "cz": "Mohl/a bych dostat jídelní lístek?"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "some water (NE: a water)  some rice (NE: a rice)",
+    "some bread (NE: a bread)  some milk (NE: a milk)",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Add 10 more food items to FOOD dictionary",
+    "2. Write a function order(food, drink) that generates a polite",
+    "3. Create a menu game: show a random Czech food name, the user"
+  ]
+}

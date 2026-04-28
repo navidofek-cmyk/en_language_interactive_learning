@@ -1,0 +1,46 @@
+{
+  "num": "19",
+  "slug": "trpny_rod",
+  "title": "Passive Voice",
+  "level": "⭐⭐⭐ Level: B1 | Pre-Intermediate",
+  "topics": "be + past participle · tenses in passive · by-agent · causative",
+  "description": "Trpný rod — kdy a jak ho použít.",
+  "vocabulary": [],
+  "dialogue": [],
+  "notes": [
+    "\\n📚 ACTIVE → PASSIVE:",
+    "✓ Correct!\\n"
+  ],
+  "examples": [
+    {
+      "en": "Present cont.",
+      "cz": "is/are being + PP"
+    },
+    {
+      "en": "Active:  They build cars here.",
+      "cz": "Passive: Cars are built here."
+    },
+    {
+      "en": "Active:  Someone stole my wallet.",
+      "cz": "Passive: My wallet was stolen."
+    },
+    {
+      "en": "Active:  The chef is cooking dinner.",
+      "cz": "Passive: Dinner is being cooked."
+    },
+    {
+      "en": "Active:  We will finish the project next week.",
+      "cz": "Passive: The project will be finished next week."
+    },
+    {
+      "en": "Active:  They have cancelled the flight.",
+      "cz": "Passive: The flight has been cancelled."
+    }
+  ],
+  "quiz": [],
+  "tasks": [
+    "1. Rewrite these active sentences in passive:",
+    "2. Find 5 passive sentences in a news article",
+    "3. Write a short paragraph about how your favourite food is made"
+  ]
+}

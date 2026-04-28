@@ -1,0 +1,178 @@
+{
+  "num": "03",
+  "slug": "popis_barvy",
+  "title": "Colours, Shapes & Descriptions",
+  "level": "⭐ Level: A1 | Beginner",
+  "topics": "colours · shapes · adjectives · word order",
+  "description": "Barvy, tvary a jak popsat věci v angličtině.",
+  "vocabulary": [
+    {
+      "en": "red",
+      "cz": "červená"
+    },
+    {
+      "en": "blue",
+      "cz": "modrá"
+    },
+    {
+      "en": "green",
+      "cz": "zelená"
+    },
+    {
+      "en": "yellow",
+      "cz": "žlutá"
+    },
+    {
+      "en": "orange",
+      "cz": "oranžová"
+    },
+    {
+      "en": "purple",
+      "cz": "fialová"
+    },
+    {
+      "en": "pink",
+      "cz": "růžová"
+    },
+    {
+      "en": "brown",
+      "cz": "hnědá"
+    },
+    {
+      "en": "black",
+      "cz": "černá"
+    },
+    {
+      "en": "white",
+      "cz": "bílá"
+    },
+    {
+      "en": "grey",
+      "cz": "šedá"
+    },
+    {
+      "en": "gold",
+      "cz": "zlatá"
+    },
+    {
+      "en": "silver",
+      "cz": "stříbrná"
+    },
+    {
+      "en": "dark blue",
+      "cz": "tmavě modrá"
+    },
+    {
+      "en": "light green",
+      "cz": "světle zelená"
+    },
+    {
+      "en": "circle",
+      "cz": "kruh"
+    },
+    {
+      "en": "square",
+      "cz": "čtverec"
+    },
+    {
+      "en": "rectangle",
+      "cz": "obdélník"
+    },
+    {
+      "en": "triangle",
+      "cz": "trojúhelník"
+    },
+    {
+      "en": "oval",
+      "cz": "ovál"
+    },
+    {
+      "en": "star",
+      "cz": "hvězda"
+    },
+    {
+      "en": "heart",
+      "cz": "srdce"
+    },
+    {
+      "en": "cube",
+      "cz": "kostka"
+    },
+    {
+      "en": "sphere",
+      "cz": "koule"
+    },
+    {
+      "en": "cylinder",
+      "cz": "válec"
+    },
+    {
+      "en": "big / large",
+      "cz": "velký"
+    },
+    {
+      "en": "small / little",
+      "cz": "malý"
+    },
+    {
+      "en": "tall",
+      "cz": "vysoký"
+    },
+    {
+      "en": "short",
+      "cz": "krátký / nízký"
+    },
+    {
+      "en": "long",
+      "cz": "dlouhý"
+    },
+    {
+      "en": "wide",
+      "cz": "široký"
+    },
+    {
+      "en": "narrow",
+      "cz": "úzký"
+    },
+    {
+      "en": "thick",
+      "cz": "tlustý"
+    },
+    {
+      "en": "thin",
+      "cz": "tenký"
+    },
+    {
+      "en": "heavy",
+      "cz": "těžký"
+    },
+    {
+      "en": "light",
+      "cz": "lehký"
+    },
+    {
+      "en": "round",
+      "cz": "kulatý"
+    },
+    {
+      "en": "flat",
+      "cz": "plochý"
+    },
+    {
+      "en": "deep",
+      "cz": "hluboký"
+    }
+  ],
+  "dialogue": [],
+  "notes": [
+    "⚠️ Czech:",
+    "✓ Correct!\\n"
+  ],
+  "examples": [],
+  "quiz": [],
+  "tasks": [
+    "1. Add 10 more adjectives (hot, cold, old, new, clean, dirty...)",
+    "2. Write a guessing game: describe an object using 3 adjectives,",
+    "3. Create describe_person(hair_colour, eye_colour, height) that"
+  ]
+}
