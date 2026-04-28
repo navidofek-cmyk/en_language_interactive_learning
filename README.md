@@ -1,9 +1,15 @@
 # English — Interactive Course
 
-Interactive English course for Czech speakers: A1–B1 level.
-15 lessons, each a standalone `.py` file — run it, read it, practise.
+[![Web](https://img.shields.io/badge/🌐_Live_Web-Visit_Course-89b4fa?style=for-the-badge)](https://navidofek-cmyk.github.io/en_language_interactive_learning/)
 
-## Start
+Interactive English course for Czech speakers: **A1 → C1**.
+60 lessons + reading articles — each a standalone `.py` file.
+
+## 🌐 [→ Open Course Website](https://navidofek-cmyk.github.io/en_language_interactive_learning/)
+
+---
+
+## Quick Start
 
 ```bash
 git clone https://github.com/navidofek-cmyk/en_language_interactive_learning.git
@@ -15,32 +21,41 @@ Python 3.8+ required.
 
 ## Lessons
 
-**Basics (01–07):** Greetings · Numbers · Colours & descriptions · Family · Food & drink · Time & date · Self-introduction project
+| Section | Lessons | Level |
+|---|---|---|
+| Basics | 01–07 | A1 |
+| Grammar — Core | 08–15 | A1–A2 |
+| Grammar — Intermediate | 16–20 | A2–B1 |
+| Everyday Topics | 21–30 | A2–B1 |
+| Advanced Vocabulary | 31–40 | B1 |
+| Advanced Grammar | 41–50 | B1–B2 |
+| C1 Grammar & Style | 51–60 | B2–C1 |
+| Reading Articles | clanky/ | A2–C1 |
 
-**Grammar (08–12):** Present Simple · Past Simple · Present Continuous · Questions & negatives · Modal verbs
+## Tools
 
-**Vocabulary & Projects (13–15):** Travel & transport · Shopping · Everyday conversations project
+| Tool | Usage |
+|---|---|
+| `flashkarty.py` | Spaced repetition vocab drill |
+| `cloze_test.py` | Fill-in-the-blank tests |
+| `streak.py` | Daily learning streak tracker |
+| `progress.py` | Quiz score overview |
 
-## How each lesson works
+## How lessons work
 
-1. Run the file — it prints vocabulary, examples and grammar notes
-2. Complete the interactive quiz (translate words, fill in gaps)
-3. Do the written tasks at the end of the file
-
-## Web
-
-```bash
-python3 generator_web.py
-# opens web/index.html
-```
-
-GitHub Actions automatically deploys to GitHub Pages on every push.
+1. Run: `python3 NN_lesson.py`
+2. Read vocabulary, grammar notes, examples
+3. Complete the interactive quiz
+4. Do the written tasks at the end
 
 ## Structure
 
 ```
-NN_lesson_name.py   ← lesson files
-generator_web.py    ← static site generator
-reseni/             ← your solutions (not committed)
-web/                ← generated site (not committed)
+NN_lesson.py        ← lesson files (01–60)
+clanky/             ← reading articles with comprehension
+flashkarty.py       ← vocabulary flashcards
+cloze_test.py       ← gap-fill test generator
+streak.py           ← daily streak tracker
+progress.py         ← score tracker
+generator_web.py    ← builds the website
 ```
